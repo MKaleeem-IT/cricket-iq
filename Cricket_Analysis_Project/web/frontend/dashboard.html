@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cricket IQ — Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body class="app-body">
+
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="nav-brand">🏏 Cricket IQ</div>
+        <div class="nav-links">
+            <a href="/dashboard.html" class="active">Dashboard</a>
+            <a href="/predict.html">Predict</a>
+            <a href="/upcoming.html">Upcoming</a>
+             <a href="/stats.html">Stats</a>
+             <a href="/about.html">About</a>
+        </div>
+        <div class="nav-user">
+            <div class="avatar" id="user-avatar">?</div>
+            <span id="welcome-text">Welcome</span>
+            <button class="btn-logout" onclick="logout()">Logout</button>
+        </div>
+    </nav>
+
+    <!-- Main content -->
+    <main class="main-content">
+
+        <div class="page-header">
+            <h1 id="welcome-header">Welcome back! 🏏</h1>
+            <p>Here's your cricket analytics overview.</p>
+        </div>
+
+        <!-- Metrics -->
+        <div class="metrics-grid">
+            <div class="metric-card">
+                <div class="metric-label">TOTAL MATCHES</div>
+                <div class="metric-value" id="metric-matches">—</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-label">TOTAL TEAMS</div>
+                <div class="metric-value" id="metric-teams">—</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-label">MODEL ACCURACY</div>
+                <div class="metric-value accent" id="metric-accuracy">67.39%</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-label">UPCOMING MATCHES</div>
+                <div class="metric-value" id="metric-upcoming">—</div>
+            </div>
+        </div>
+
+        <!-- Quick actions -->
+        <div class="section">
+            <h2>Quick Actions</h2>
+            <div class="actions-grid">
+                <a href="/predict.html" class="action-card">
+                    <div class="action-icon">🔮</div>
+                    <h3>Predict Match</h3>
+                    <p>Get ML-based winner prediction</p>
+                </a>
+                <a href="/upcoming.html" class="action-card">
+                    <div class="action-icon">🏆</div>
+                    <h3>Upcoming Matches</h3>
+                    <p>See fixtures + live predictions</p>
+                </a>
+            </div>
+        </div>
+
+    </main>
+
+    <script src="/js/dashboard.js"></script>
+</body>
+</html>

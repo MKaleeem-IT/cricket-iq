@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cricket IQ — About Project</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body class="app-body">
+
+    <nav class="navbar">
+        <div class="nav-brand">🏏 Cricket IQ</div>
+        <div class="nav-links">
+            <a href="/dashboard.html">Dashboard</a>
+            <a href="/predict.html">Predict</a>
+            <a href="/upcoming.html">Upcoming</a>
+            <a href="/stats.html">Stats</a>
+            <a href="/about.html" class="active">About</a>
+        </div>
+        <div class="nav-user">
+            <div class="avatar" id="user-avatar">?</div>
+            <span id="welcome-text">Welcome</span>
+            <button class="btn-logout" onclick="logout()">Logout</button>
+        </div>
+    </nav>
+
+    <main class="main-content">
+
+        <div class="page-header">
+            <h1>ℹ️ About Cricket IQ</h1>
+            <p>Project information, methodology, and technologies used.</p>
+        </div>
+
+        <!-- Project Info -->
+        <div class="info-card" style="margin-bottom: 24px;">
+            <h2 style="color: #4ADE80; margin-bottom: 12px;">🏏 Cricket Match Analysis & Outcome Prediction</h2>
+            <p style="color: #CBD5E1; line-height: 1.6; margin-bottom: 12px;">
+                This project analyzes historical ICC Men's T20 World Cup data and applies Machine Learning to predict possible match winners.
+            </p>
+            <p style="color: #CBD5E1; line-height: 1.6; margin-bottom: 12px;">
+                Users can enter match details (teams, venue, toss) and the trained Logistic Regression model generates a prediction.
+            </p>
+            <p style="color: #CBD5E1; line-height: 1.6;">
+                The upcoming match module uses recent team performance and historical data to estimate outcomes of future Men's and Women's T20 fixtures.
+            </p>
+        </div>
+
+        <!-- Technologies -->
+        <div class="section">
+            <h2>🛠️ Technologies Used</h2>
+            <div class="metrics-grid" style="grid-template-columns: repeat(3, 1fr);">
+                <div class="metric-card">
+                    <div class="metric-value" style="font-size: 20px;">Python</div>
+                    <div class="metric-label">Backend Language</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value" style="font-size: 20px;">FastAPI</div>
+                    <div class="metric-label">Web Framework</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value" style="font-size: 20px;">HTML/CSS/JS</div>
+                    <div class="metric-label">Frontend Stack</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value" style="font-size: 20px;">Pandas</div>
+                    <div class="metric-label">Data Analysis</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value" style="font-size: 20px;">Scikit-learn</div>
+                    <div class="metric-label">Machine Learning</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value" style="font-size: 20px;">SQLite</div>
+                    <div class="metric-label">User Database</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ML Details -->
+        <div class="section">
+            <h2>🧠 Machine Learning Details</h2>
+            <div class="info-card">
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; color: #CBD5E1;">
+                    <div><b>Model:</b> Logistic Regression</div>
+                    <div><b>Compared:</b> Random Forest</div>
+                    <div><b>Test Accuracy:</b> 67.39%</div>
+                    <div><b>Dataset:</b> ICC T20 World Cup</div>
+                    <div><b>Type:</b> Binary Classification</div>
+                    <div><b>Upcoming:</b> Form-based Estimates</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Workflow -->
+        <div class="section">
+            <h2>⚙️ Project Workflow</h2>
+            <div class="info-card">
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; color: #94A3B8; font-size: 14px;">
+                    <div>01 — Data Collection</div>
+                    <div>02 — Data Cleaning & Preprocessing</div>
+                    <div>03 — Exploratory Data Analysis</div>
+                    <div>04 — Feature Selection & Encoding</div>
+                    <div>05 — Train-Test Split</div>
+                    <div>06 — Model Training & Comparison</div>
+                    <div>07 — Model Evaluation</div>
+                    <div>08 — Historical Match Prediction</div>
+                    <div>09 — Upcoming Data Collection (CricAPI)</div>
+                    <div>10 — Recent Team Form Analysis</div>
+                    <div>11 — Upcoming Match Prediction</div>
+                    <div>12 — Full-Stack Web Application</div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Script for auth check -->
+    <script>
+        const name = localStorage.getItem("name");
+        if (!localStorage.getItem("token")) {
+            window.location.href = "/";
+        }
+        if (name) {
+            document.getElementById("welcome-text").textContent = `Welcome, ${name}`;
+            document.getElementById("user-avatar").textContent = name.charAt(0).toUpperCase();
+        }
+        function logout() {
+            localStorage.clear();
+            window.location.href = "/";
+        }
+    </script>
+</body>
+</html>

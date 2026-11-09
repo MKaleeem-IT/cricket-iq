@@ -1,0 +1,1018 @@
+date,team1,team2,winner,result,category,team1_score,team2_score,competition,venue,city,source_type,winner_source
+2014-03-16 00:00:00+00:00,Hong Kong,Nepal,Nepal,normal,Men's T20,69.0,149.0,World T20,Zahur Ahmed Chowdhury Stadium,Chittagong,international_dataset,international_dataset
+2014-03-17 00:00:00+00:00,Netherlands,United Arab Emirates,Netherlands,normal,Men's T20,152.0,151.0,World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-03-17 00:00:00+00:00,Ireland,Zimbabwe,Ireland,normal,Men's T20,164.0,163.0,World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-03-18 00:00:00+00:00,Bangladesh,Nepal,Bangladesh,normal,Men's T20,132.0,126.0,World T20,Zahur Ahmed Chowdhury Stadium,Chittagong,international_dataset,international_dataset
+2014-03-19 00:00:00+00:00,Ireland,United Arab Emirates,Ireland,normal,Men's T20,103.0,123.0,World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-03-19 00:00:00+00:00,Netherlands,Zimbabwe,Zimbabwe,normal,Men's T20,140.0,146.0,World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-03-20 00:00:00+00:00,Bangladesh,Hong Kong,Hong Kong,normal,Men's T20,108.0,114.0,World T20,Zahur Ahmed Chowdhury Stadium,Chittagong,international_dataset,international_dataset
+2014-03-21 00:00:00+00:00,United Arab Emirates,Zimbabwe,Zimbabwe,normal,Men's T20,116.0,118.0,World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-03-21 00:00:00+00:00,Ireland,Netherlands,Netherlands,normal,Men's T20,189.0,193.0,World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-03-21 00:00:00+00:00,India,Pakistan,India,normal,Men's T20,131.0,130.0,World T20,Shere Bangla National Stadium,Mirpur,international_dataset,international_dataset
+2014-03-22 00:00:00+00:00,South Africa,Sri Lanka,Sri Lanka,normal,Men's T20,160.0,165.0,World T20,Zahur Ahmed Chowdhury Stadium,Chittagong,international_dataset,international_dataset
+2014-03-22 00:00:00+00:00,England,New Zealand,New Zealand,normal,Men's T20,172.0,52.0,ICC Men's T20 World Cup,Zahur Ahmed Chowdhury Stadium,Chattogram,international_dataset,international_dataset
+2014-03-23 00:00:00+00:00,Australia,New Zealand,New Zealand,normal,Women's T20,121.0,128.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-03-23 00:00:00+00:00,Australia,Pakistan,Pakistan,normal,Men's T20,175.0,191.0,World T20,Shere Bangla National Stadium,Mirpur,international_dataset,international_dataset
+2014-03-23 00:00:00+00:00,India,West Indies,India,normal,Men's T20,130.0,129.0,World T20,Shere Bangla National Stadium,Mirpur,international_dataset,international_dataset
+2014-03-24 00:00:00+00:00,Netherlands,Sri Lanka,Sri Lanka,normal,Men's T20,39.0,40.0,World T20,Zahur Ahmed Chowdhury Stadium,Chittagong,international_dataset,international_dataset
+2014-03-24 00:00:00+00:00,New Zealand,South Africa,South Africa,normal,Men's T20,168.0,170.0,World T20,Zahur Ahmed Chowdhury Stadium,Chittagong,international_dataset,international_dataset
+2014-03-24 00:00:00+00:00,England,West Indies,West Indies,normal,Women's T20,124.0,133.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-03-24 00:00:00+00:00,India,Sri Lanka,Sri Lanka,normal,Women's T20,106.0,128.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-03-25 00:00:00+00:00,Bangladesh,West Indies,West Indies,normal,Men's T20,98.0,171.0,World T20,Shere Bangla National Stadium,Mirpur,international_dataset,international_dataset
+2014-03-25 00:00:00+00:00,Ireland,New Zealand,New Zealand,normal,Women's T20,129.0,171.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-03-26 00:00:00+00:00,England,India,England,normal,Women's T20,98.0,95.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-03-26 00:00:00+00:00,Bangladesh,West Indies,West Indies,normal,Women's T20,79.0,115.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-03-27 00:00:00+00:00,New Zealand,Pakistan,New Zealand,normal,Women's T20,167.0,108.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-03-27 00:00:00+00:00,England,Sri Lanka,England,normal,Men's T20,190.0,189.0,World T20,Zahur Ahmed Chowdhury Stadium,Chittagong,international_dataset,international_dataset
+2014-03-27 00:00:00+00:00,Netherlands,South Africa,South Africa,normal,Men's T20,139.0,145.0,World T20,Zahur Ahmed Chowdhury Stadium,Chittagong,international_dataset,international_dataset
+2014-03-28 00:00:00+00:00,Sri Lanka,West Indies,West Indies,normal,Women's T20,84.0,87.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-03-28 00:00:00+00:00,Bangladesh,India,India,normal,Men's T20,138.0,141.0,World T20,Shere Bangla National Stadium,Mirpur,international_dataset,international_dataset
+2014-03-28 00:00:00+00:00,Australia,West Indies,West Indies,normal,Men's T20,178.0,179.0,World T20,Shere Bangla National Stadium,Mirpur,international_dataset,international_dataset
+2014-03-29 00:00:00+00:00,Ireland,South Africa,South Africa,normal,Women's T20,79.0,165.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-03-29 00:00:00+00:00,England,South Africa,South Africa,normal,Men's T20,193.0,196.0,World T20,Zahur Ahmed Chowdhury Stadium,Chittagong,international_dataset,international_dataset
+2014-03-29 00:00:00+00:00,Netherlands,New Zealand,New Zealand,normal,Men's T20,151.0,152.0,World T20,Zahur Ahmed Chowdhury Stadium,Chittagong,international_dataset,international_dataset
+2014-03-29 00:00:00+00:00,Australia,Pakistan,Australia,normal,Women's T20,185.0,91.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-03-30 00:00:00+00:00,England,Sri Lanka,England,normal,Women's T20,86.0,85.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-03-30 00:00:00+00:00,Bangladesh,India,India,normal,Women's T20,72.0,151.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-03-30 00:00:00+00:00,Bangladesh,Pakistan,Pakistan,normal,Men's T20,140.0,190.0,World T20,Shere Bangla National Stadium,Mirpur,international_dataset,international_dataset
+2014-03-30 00:00:00+00:00,Australia,India,India,normal,Men's T20,86.0,159.0,World T20,Shere Bangla National Stadium,Mirpur,international_dataset,international_dataset
+2014-03-31 00:00:00+00:00,New Zealand,Sri Lanka,Sri Lanka,normal,Men's T20,60.0,119.0,World T20,Zahur Ahmed Chowdhury Stadium,Chittagong,international_dataset,international_dataset
+2014-03-31 00:00:00+00:00,England,Netherlands,Netherlands,normal,Men's T20,88.0,133.0,World T20,Zahur Ahmed Chowdhury Stadium,Chittagong,international_dataset,international_dataset
+2014-03-31 00:00:00+00:00,Ireland,Pakistan,Pakistan,normal,Women's T20,105.0,119.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-03-31 00:00:00+00:00,New Zealand,South Africa,South Africa,normal,Women's T20,114.0,116.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-04-01 00:00:00+00:00,India,West Indies,India,normal,Women's T20,121.0,117.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-04-01 00:00:00+00:00,Bangladesh,Sri Lanka,Bangladesh,normal,Women's T20,115.0,112.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-04-01 00:00:00+00:00,Bangladesh,Australia,Australia,normal,Men's T20,153.0,158.0,World T20,Shere Bangla National Stadium,Mirpur,international_dataset,international_dataset
+2014-04-01 00:00:00+00:00,Pakistan,West Indies,West Indies,normal,Men's T20,82.0,166.0,World T20,Shere Bangla National Stadium,Mirpur,international_dataset,international_dataset
+2014-04-02 00:00:00+00:00,India,Pakistan,India,normal,Women's T20,106.0,100.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-04-02 00:00:00+00:00,New Zealand,Sri Lanka,New Zealand,normal,Women's T20,135.0,131.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-04-03 00:00:00+00:00,Australia,West Indies,Australia,normal,Women's T20,140.0,132.0,Women's World T20,Shere Bangla National Stadium,Mirpur,international_dataset,international_dataset
+2014-04-03 00:00:00+00:00,Bangladesh,Ireland,Bangladesh,normal,Women's T20,106.0,89.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-04-03 00:00:00+00:00,Pakistan,Sri Lanka,Pakistan,normal,Women's T20,122.0,108.0,Women's World T20,Sylhet Stadium,,international_dataset,international_dataset
+2014-04-03 00:00:00+00:00,Sri Lanka,West Indies,Sri Lanka,normal,Men's T20,160.0,80.0,World T20,Shere Bangla National Stadium,Mirpur,international_dataset,international_dataset
+2014-04-04 00:00:00+00:00,England,South Africa,England,normal,Women's T20,102.0,101.0,Women's World T20,Shere Bangla National Stadium,Mirpur,international_dataset,international_dataset
+2014-04-04 00:00:00+00:00,India,South Africa,India,normal,Men's T20,176.0,172.0,World T20,Shere Bangla National Stadium,Mirpur,international_dataset,international_dataset
+2014-04-06 00:00:00+00:00,India,Sri Lanka,Sri Lanka,normal,Men's T20,130.0,134.0,World T20,Shere Bangla National Stadium,Mirpur,international_dataset,international_dataset
+2014-04-06 00:00:00+00:00,Australia,England,Australia,normal,Women's T20,106.0,105.0,Women's World T20,Shere Bangla National Stadium,Mirpur,international_dataset,international_dataset
+2016-03-09 00:00:00+00:00,Bangladesh,Netherlands,Bangladesh,normal,Men's T20,153.0,145.0,World T20,Himachal Pradesh Cricket Association Stadium,Dharamsala,international_dataset,international_dataset
+2016-03-09 00:00:00+00:00,Ireland,Oman,Oman,normal,Men's T20,154.0,157.0,World T20,Himachal Pradesh Cricket Association Stadium,Dharamsala,international_dataset,international_dataset
+2016-03-10 00:00:00+00:00,Scotland,Zimbabwe,Zimbabwe,normal,Men's T20,136.0,147.0,World T20,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,international_dataset,international_dataset
+2016-03-11 00:00:00+00:00,Bangladesh,Ireland,No Result,no result,Men's T20,94.0,,World T20,Himachal Pradesh Cricket Association Stadium,Dharamsala,international_dataset,international_dataset
+2016-03-12 00:00:00+00:00,Hong Kong,Scotland,Scotland,normal,Men's T20,127.0,78.0,World T20,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,international_dataset,international_dataset
+2016-03-13 00:00:00+00:00,Ireland,Netherlands,Netherlands,normal,Men's T20,47.0,59.0,World T20,Himachal Pradesh Cricket Association Stadium,Dharamsala,international_dataset,international_dataset
+2016-03-13 00:00:00+00:00,Bangladesh,Oman,Bangladesh,normal,Men's T20,180.0,65.0,World T20,Himachal Pradesh Cricket Association Stadium,Dharamsala,international_dataset,international_dataset
+2016-03-15 00:00:00+00:00,India,Bangladesh,India,normal,Women's T20,163.0,91.0,Women's World T20,M Chinnaswamy Stadium,Bangalore,international_dataset,international_dataset
+2016-03-15 00:00:00+00:00,New Zealand,Sri Lanka,New Zealand,normal,Women's T20,111.0,110.0,Women's World T20,Feroz Shah Kotla,Delhi,international_dataset,international_dataset
+2016-03-15 00:00:00+00:00,India,New Zealand,New Zealand,normal,Men's T20,79.0,126.0,World T20,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,international_dataset,international_dataset
+2016-03-16 00:00:00+00:00,Pakistan,West Indies,West Indies,normal,Women's T20,99.0,103.0,Women's World T20,"MA Chidambaram Stadium, Chepauk",Chennai,international_dataset,international_dataset
+2016-03-16 00:00:00+00:00,England,West Indies,West Indies,normal,Men's T20,182.0,183.0,World T20,Wankhede Stadium,Mumbai,international_dataset,international_dataset
+2016-03-16 00:00:00+00:00,Bangladesh,Pakistan,Pakistan,normal,Men's T20,146.0,201.0,World T20,Eden Gardens,Kolkata,international_dataset,international_dataset
+2016-03-17 00:00:00+00:00,Bangladesh,England,England,normal,Women's T20,117.0,153.0,Women's World T20,M Chinnaswamy Stadium,Bangalore,international_dataset,international_dataset
+2016-03-18 00:00:00+00:00,Ireland,New Zealand,New Zealand,normal,Women's T20,84.0,177.0,Women's World T20,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,international_dataset,international_dataset
+2016-03-18 00:00:00+00:00,Australia,South Africa,Australia,normal,Women's T20,105.0,102.0,Women's World T20,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,international_dataset,international_dataset
+2016-03-18 00:00:00+00:00,Australia,New Zealand,New Zealand,normal,Men's T20,134.0,142.0,World T20,Himachal Pradesh Cricket Association Stadium,Dharamsala,international_dataset,international_dataset
+2016-03-18 00:00:00+00:00,England,South Africa,England,normal,Men's T20,230.0,229.0,World T20,Wankhede Stadium,Mumbai,international_dataset,international_dataset
+2016-03-19 00:00:00+00:00,India,Pakistan,Pakistan,normal,Women's T20,96.0,77.0,Women's World T20,Feroz Shah Kotla,Delhi,international_dataset,international_dataset
+2016-03-19 00:00:00+00:00,India,Pakistan,India,normal,Men's T20,119.0,118.0,World T20,Eden Gardens,Kolkata,international_dataset,international_dataset
+2016-03-20 00:00:00+00:00,Sri Lanka,West Indies,West Indies,normal,Men's T20,122.0,127.0,World T20,M Chinnaswamy Stadium,Bangalore,international_dataset,international_dataset
+2016-03-20 00:00:00+00:00,Bangladesh,West Indies,West Indies,normal,Women's T20,99.0,148.0,Women's World T20,"MA Chidambaram Stadium, Chepauk",Chennai,international_dataset,international_dataset
+2016-03-20 00:00:00+00:00,Sri Lanka,Ireland,Sri Lanka,normal,Women's T20,129.0,115.0,Women's World T20,"Punjab Cricket Association IS Bindra Stadium, Mohali",Mohali,international_dataset,international_dataset
+2016-03-21 00:00:00+00:00,Australia,New Zealand,New Zealand,normal,Women's T20,103.0,104.0,Women's World T20,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,international_dataset,international_dataset
+2016-03-21 00:00:00+00:00,Australia,Bangladesh,Australia,normal,Men's T20,157.0,156.0,World T20,M Chinnaswamy Stadium,Bangalore,international_dataset,international_dataset
+2016-03-22 00:00:00+00:00,New Zealand,Pakistan,New Zealand,normal,Men's T20,180.0,158.0,World T20,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,international_dataset,international_dataset
+2016-03-22 00:00:00+00:00,India,England,England,normal,Women's T20,90.0,92.0,Women's World T20,Himachal Pradesh Cricket Association Stadium,Dharamsala,international_dataset,international_dataset
+2016-03-23 00:00:00+00:00,India,Bangladesh,India,normal,Men's T20,146.0,145.0,World T20,M Chinnaswamy Stadium,Bangalore,international_dataset,international_dataset
+2016-03-23 00:00:00+00:00,Ireland,South Africa,South Africa,normal,Women's T20,89.0,156.0,Women's World T20,"MA Chidambaram Stadium, Chepauk",Chennai,international_dataset,international_dataset
+2016-03-24 00:00:00+00:00,Bangladesh,Pakistan,Pakistan,normal,Women's T20,113.0,114.0,Women's World T20,Feroz Shah Kotla,Delhi,international_dataset,international_dataset
+2016-03-24 00:00:00+00:00,Australia,Sri Lanka,Australia,normal,Women's T20,125.0,123.0,Women's World T20,Feroz Shah Kotla,Delhi,international_dataset,international_dataset
+2016-03-24 00:00:00+00:00,England,West Indies,England,normal,Women's T20,109.0,108.0,Women's World T20,Himachal Pradesh Cricket Association Stadium,Dharamsala,international_dataset,international_dataset
+2016-03-25 00:00:00+00:00,South Africa,West Indies,West Indies,normal,Men's T20,122.0,123.0,World T20,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,international_dataset,international_dataset
+2016-03-25 00:00:00+00:00,Australia,Pakistan,Australia,normal,Men's T20,193.0,172.0,World T20,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,international_dataset,international_dataset
+2016-03-26 00:00:00+00:00,New Zealand,South Africa,New Zealand,normal,Women's T20,100.0,99.0,Women's World T20,M Chinnaswamy Stadium,Bangalore,international_dataset,international_dataset
+2016-03-26 00:00:00+00:00,Australia,Ireland,Australia,normal,Women's T20,92.0,91.0,Women's World T20,Feroz Shah Kotla,Delhi,international_dataset,international_dataset
+2016-03-26 00:00:00+00:00,Bangladesh,New Zealand,New Zealand,normal,Men's T20,70.0,145.0,World T20,Eden Gardens,Kolkata,international_dataset,international_dataset
+2016-03-26 00:00:00+00:00,England,Sri Lanka,England,normal,Men's T20,171.0,161.0,World T20,Feroz Shah Kotla,Delhi,international_dataset,international_dataset
+2016-03-27 00:00:00+00:00,India,Australia,India,normal,Men's T20,161.0,160.0,World T20,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,international_dataset,international_dataset
+2016-03-27 00:00:00+00:00,India,West Indies,West Indies,normal,Women's T20,111.0,114.0,Women's World T20,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,international_dataset,international_dataset
+2016-03-27 00:00:00+00:00,England,Pakistan,England,normal,Women's T20,148.0,80.0,Women's World T20,"MA Chidambaram Stadium, Chepauk",Chennai,international_dataset,international_dataset
+2016-03-28 00:00:00+00:00,South Africa,Sri Lanka,South Africa,normal,Men's T20,122.0,120.0,World T20,Feroz Shah Kotla,Delhi,international_dataset,international_dataset
+2016-03-28 00:00:00+00:00,South Africa,Sri Lanka,Sri Lanka,normal,Women's T20,104.0,114.0,Women's World T20,M Chinnaswamy Stadium,Bangalore,international_dataset,international_dataset
+2016-03-30 00:00:00+00:00,England,New Zealand,England,normal,Men's T20,159.0,153.0,World T20,Feroz Shah Kotla,Delhi,international_dataset,international_dataset
+2016-03-30 00:00:00+00:00,Australia,England,Australia,normal,Women's T20,132.0,127.0,Women's World T20,Feroz Shah Kotla,Delhi,international_dataset,international_dataset
+2016-03-31 00:00:00+00:00,New Zealand,West Indies,West Indies,normal,Women's T20,137.0,143.0,Women's World T20,Wankhede Stadium,Mumbai,international_dataset,international_dataset
+2016-03-31 00:00:00+00:00,India,West Indies,West Indies,normal,Men's T20,192.0,196.0,World T20,Wankhede Stadium,Mumbai,international_dataset,international_dataset
+2016-04-03 00:00:00+00:00,England,West Indies,West Indies,normal,Men's T20,155.0,161.0,World T20,Eden Gardens,Kolkata,international_dataset,international_dataset
+2016-04-03 00:00:00+00:00,Australia,West Indies,West Indies,normal,Women's T20,148.0,149.0,Women's World T20,Eden Gardens,Kolkata,international_dataset,international_dataset
+2018-11-09 00:00:00+00:00,West Indies,Bangladesh,West Indies,normal,Women's T20,106.0,46.0,ICC Women's T20 World Cup,Providence Stadium,Guyana,international_dataset,international_dataset
+2018-11-09 00:00:00+00:00,Australia,Pakistan,Australia,normal,Women's T20,165.0,113.0,ICC Women's T20 World Cup,Providence Stadium,Guyana,international_dataset,international_dataset
+2018-11-09 00:00:00+00:00,India,New Zealand,India,normal,Women's T20,194.0,160.0,ICC Women's T20 World Cup,Providence Stadium,Guyana,international_dataset,international_dataset
+2018-11-11 00:00:00+00:00,Pakistan,India,India,normal,Women's T20,133.0,127.0,ICC Women's T20 World Cup,Providence Stadium,Guyana,international_dataset,international_dataset
+2018-11-11 00:00:00+00:00,Ireland,Australia,Australia,normal,Women's T20,93.0,89.0,ICC Women's T20 World Cup,Providence Stadium,Guyana,international_dataset,international_dataset
+2018-11-12 00:00:00+00:00,Bangladesh,England,England,normal,Women's T20,76.0,64.0,ICC Women's T20 World Cup,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,international_dataset,international_dataset
+2018-11-12 00:00:00+00:00,Sri Lanka,South Africa,South Africa,normal,Women's T20,99.0,102.0,ICC Women's T20 World Cup,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,international_dataset,international_dataset
+2018-11-13 00:00:00+00:00,Australia,New Zealand,Australia,normal,Women's T20,153.0,120.0,ICC Women's T20 World Cup,Providence Stadium,Guyana,international_dataset,international_dataset
+2018-11-13 00:00:00+00:00,Pakistan,Ireland,Pakistan,normal,Women's T20,139.0,101.0,ICC Women's T20 World Cup,Providence Stadium,Guyana,international_dataset,international_dataset
+2018-11-14 00:00:00+00:00,West Indies,South Africa,West Indies,normal,Women's T20,107.0,76.0,ICC Women's T20 World Cup,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,international_dataset,international_dataset
+2018-11-14 00:00:00+00:00,Sri Lanka,Bangladesh,Sri Lanka,normal,Women's T20,97.0,72.0,ICC Women's T20 World Cup,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,international_dataset,international_dataset
+2018-11-15 00:00:00+00:00,New Zealand,Pakistan,New Zealand,normal,Women's T20,144.0,90.0,ICC Women's T20 World Cup,Providence Stadium,Guyana,international_dataset,international_dataset
+2018-11-15 00:00:00+00:00,India,Ireland,India,normal,Women's T20,145.0,93.0,ICC Women's T20 World Cup,Providence Stadium,Guyana,international_dataset,international_dataset
+2018-11-16 00:00:00+00:00,South Africa,England,England,normal,Women's T20,85.0,87.0,ICC Women's T20 World Cup,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,international_dataset,international_dataset
+2018-11-16 00:00:00+00:00,West Indies,Sri Lanka,West Indies,normal,Women's T20,187.0,104.0,ICC Women's T20 World Cup,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,international_dataset,international_dataset
+2018-11-17 00:00:00+00:00,India,Australia,India,normal,Women's T20,167.0,119.0,ICC Women's T20 World Cup,Providence Stadium,Guyana,international_dataset,international_dataset
+2018-11-17 00:00:00+00:00,Ireland,New Zealand,New Zealand,normal,Women's T20,79.0,81.0,ICC Women's T20 World Cup,Providence Stadium,Guyana,international_dataset,international_dataset
+2018-11-18 00:00:00+00:00,England,West Indies,West Indies,normal,Women's T20,115.0,117.0,ICC Women's T20 World Cup,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,international_dataset,international_dataset
+2018-11-18 00:00:00+00:00,South Africa,Bangladesh,South Africa,normal,Women's T20,109.0,79.0,ICC Women's T20 World Cup,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,international_dataset,international_dataset
+2018-11-22 00:00:00+00:00,India,England,England,normal,Women's T20,112.0,116.0,ICC Women's T20 World Cup,"Sir Vivian Richards Stadium, North Sound",Antigua,international_dataset,international_dataset
+2018-11-22 00:00:00+00:00,Australia,West Indies,Australia,normal,Women's T20,142.0,71.0,ICC Women's T20 World Cup,"Sir Vivian Richards Stadium, North Sound",Antigua,international_dataset,international_dataset
+2018-11-24 00:00:00+00:00,England,Australia,Australia,normal,Women's T20,105.0,106.0,ICC Women's T20 World Cup,"Sir Vivian Richards Stadium, North Sound",Antigua,international_dataset,international_dataset
+2020-02-21 00:00:00+00:00,Australia,India,India,normal,Women's T20,115.0,132.0,ICC Women's T20 World Cup,Sydney Showground Stadium,Sydney,international_dataset,international_dataset
+2020-02-22 00:00:00+00:00,Thailand,West Indies,West Indies,normal,Women's T20,78.0,80.0,ICC Women's T20 World Cup,W.A.C.A. Ground,Perth,international_dataset,international_dataset
+2020-02-22 00:00:00+00:00,New Zealand,Sri Lanka,New Zealand,normal,Women's T20,131.0,127.0,ICC Women's T20 World Cup,W.A.C.A. Ground,Perth,international_dataset,international_dataset
+2020-02-23 00:00:00+00:00,England,South Africa,South Africa,normal,Women's T20,123.0,124.0,ICC Women's T20 World Cup,W.A.C.A. Ground,Perth,international_dataset,international_dataset
+2020-02-24 00:00:00+00:00,Australia,Sri Lanka,Australia,normal,Women's T20,123.0,122.0,ICC Women's T20 World Cup,W.A.C.A. Ground,Perth,international_dataset,international_dataset
+2020-02-24 00:00:00+00:00,Bangladesh,India,India,normal,Women's T20,124.0,142.0,ICC Women's T20 World Cup,W.A.C.A. Ground,Perth,international_dataset,international_dataset
+2020-02-26 00:00:00+00:00,Pakistan,West Indies,Pakistan,normal,Women's T20,127.0,124.0,ICC Women's T20 World Cup,Manuka Oval,Canberra,international_dataset,international_dataset
+2020-02-26 00:00:00+00:00,England,Thailand,England,normal,Women's T20,176.0,78.0,ICC Women's T20 World Cup,Manuka Oval,Canberra,international_dataset,international_dataset
+2020-02-27 00:00:00+00:00,India,New Zealand,India,normal,Women's T20,133.0,130.0,ICC Women's T20 World Cup,Junction Oval,Melbourne,international_dataset,international_dataset
+2020-02-27 00:00:00+00:00,Australia,Bangladesh,Australia,normal,Women's T20,189.0,103.0,ICC Women's T20 World Cup,Manuka Oval,Canberra,international_dataset,international_dataset
+2020-02-28 00:00:00+00:00,South Africa,Thailand,South Africa,normal,Women's T20,195.0,82.0,ICC Women's T20 World Cup,Manuka Oval,Canberra,international_dataset,international_dataset
+2020-02-28 00:00:00+00:00,England,Pakistan,England,normal,Women's T20,158.0,116.0,ICC Women's T20 World Cup,Manuka Oval,Canberra,international_dataset,international_dataset
+2020-02-29 00:00:00+00:00,India,Sri Lanka,India,normal,Women's T20,116.0,113.0,ICC Women's T20 World Cup,Junction Oval,Melbourne,international_dataset,international_dataset
+2020-02-29 00:00:00+00:00,Bangladesh,New Zealand,New Zealand,normal,Women's T20,74.0,91.0,ICC Women's T20 World Cup,Junction Oval,Melbourne,international_dataset,international_dataset
+2020-03-01 00:00:00+00:00,Pakistan,South Africa,South Africa,normal,Women's T20,119.0,136.0,ICC Women's T20 World Cup,Sydney Showground Stadium,Sydney,international_dataset,international_dataset
+2020-03-01 00:00:00+00:00,England,West Indies,England,normal,Women's T20,143.0,97.0,ICC Women's T20 World Cup,Sydney Showground Stadium,Sydney,international_dataset,international_dataset
+2020-03-02 00:00:00+00:00,Bangladesh,Sri Lanka,Sri Lanka,normal,Women's T20,91.0,92.0,ICC Women's T20 World Cup,Junction Oval,Melbourne,international_dataset,international_dataset
+2020-03-02 00:00:00+00:00,Australia,New Zealand,Australia,normal,Women's T20,155.0,151.0,ICC Women's T20 World Cup,Junction Oval,Melbourne,international_dataset,international_dataset
+2020-03-03 00:00:00+00:00,Pakistan,Thailand,No Result,no result,Women's T20,,150.0,ICC Women's T20 World Cup,Sydney Showground Stadium,Sydney,international_dataset,international_dataset
+2020-03-05 00:00:00+00:00,Australia,South Africa,Australia,normal,Women's T20,134.0,92.0,ICC Women's T20 World Cup,Sydney Cricket Ground,Sydney,international_dataset,international_dataset
+2020-03-08 00:00:00+00:00,Australia,India,Australia,normal,Women's T20,184.0,99.0,ICC Women's T20 World Cup,Melbourne Cricket Ground,Melbourne,international_dataset,international_dataset
+2021-10-17 00:00:00+00:00,Papua New Guinea,Oman,Oman,normal,Men's T20,129.0,131.0,ICC Men's T20 World Cup,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,international_dataset,international_dataset
+2021-10-17 00:00:00+00:00,Scotland,Bangladesh,Scotland,normal,Men's T20,140.0,134.0,ICC Men's T20 World Cup,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,international_dataset,international_dataset
+2021-10-18 00:00:00+00:00,Netherlands,Ireland,Ireland,normal,Men's T20,106.0,107.0,ICC Men's T20 World Cup,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,international_dataset,international_dataset
+2021-10-18 00:00:00+00:00,Namibia,Sri Lanka,Sri Lanka,normal,Men's T20,96.0,100.0,ICC Men's T20 World Cup,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,international_dataset,international_dataset
+2021-10-19 00:00:00+00:00,Scotland,Papua New Guinea,Scotland,normal,Men's T20,165.0,148.0,ICC Men's T20 World Cup,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,international_dataset,international_dataset
+2021-10-19 00:00:00+00:00,Bangladesh,Oman,Bangladesh,normal,Men's T20,153.0,127.0,ICC Men's T20 World Cup,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,international_dataset,international_dataset
+2021-10-20 00:00:00+00:00,Netherlands,Namibia,Namibia,normal,Men's T20,164.0,166.0,ICC Men's T20 World Cup,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,international_dataset,international_dataset
+2021-10-20 00:00:00+00:00,Sri Lanka,Ireland,Sri Lanka,normal,Men's T20,171.0,101.0,ICC Men's T20 World Cup,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,international_dataset,international_dataset
+2021-10-21 00:00:00+00:00,Oman,Scotland,Scotland,normal,Men's T20,122.0,123.0,ICC Men's T20 World Cup,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,international_dataset,international_dataset
+2021-10-21 00:00:00+00:00,Bangladesh,Papua New Guinea,Bangladesh,normal,Men's T20,181.0,97.0,ICC Men's T20 World Cup,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,international_dataset,international_dataset
+2021-10-22 00:00:00+00:00,Ireland,Namibia,Namibia,normal,Men's T20,125.0,126.0,ICC Men's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2021-10-22 00:00:00+00:00,Netherlands,Sri Lanka,Sri Lanka,normal,Men's T20,44.0,45.0,ICC Men's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2021-10-23 00:00:00+00:00,South Africa,Australia,Australia,normal,Men's T20,118.0,121.0,ICC Men's T20 World Cup,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,international_dataset,international_dataset
+2021-10-23 00:00:00+00:00,West Indies,England,England,normal,Men's T20,55.0,56.0,ICC Men's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2021-10-24 00:00:00+00:00,India,Pakistan,Pakistan,normal,Men's T20,151.0,152.0,ICC Men's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2021-10-24 00:00:00+00:00,Bangladesh,Sri Lanka,Sri Lanka,normal,Men's T20,171.0,172.0,ICC Men's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2021-10-26 00:00:00+00:00,New Zealand,Pakistan,Pakistan,normal,Men's T20,134.0,135.0,ICC Men's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2021-10-26 00:00:00+00:00,West Indies,South Africa,South Africa,normal,Men's T20,143.0,144.0,ICC Men's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2021-10-27 00:00:00+00:00,Bangladesh,England,England,normal,Men's T20,124.0,126.0,ICC Men's T20 World Cup,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,international_dataset,international_dataset
+2021-10-27 00:00:00+00:00,Scotland,Namibia,Namibia,normal,Men's T20,109.0,115.0,ICC Men's T20 World Cup,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,international_dataset,international_dataset
+2021-10-28 00:00:00+00:00,Sri Lanka,Australia,Australia,normal,Men's T20,154.0,155.0,ICC Men's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2021-10-29 00:00:00+00:00,West Indies,Bangladesh,West Indies,normal,Men's T20,142.0,139.0,ICC Men's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2021-10-30 00:00:00+00:00,Sri Lanka,South Africa,South Africa,normal,Men's T20,142.0,146.0,ICC Men's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2021-10-30 00:00:00+00:00,Australia,England,England,normal,Men's T20,125.0,126.0,ICC Men's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2021-10-31 00:00:00+00:00,India,New Zealand,New Zealand,normal,Men's T20,110.0,111.0,ICC Men's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2021-11-01 00:00:00+00:00,England,Sri Lanka,England,normal,Men's T20,163.0,137.0,ICC Men's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2021-11-02 00:00:00+00:00,Pakistan,Namibia,Pakistan,normal,Men's T20,189.0,144.0,ICC Men's T20 World Cup,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,international_dataset,international_dataset
+2021-11-02 00:00:00+00:00,Bangladesh,South Africa,South Africa,normal,Men's T20,84.0,86.0,ICC Men's T20 World Cup,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,international_dataset,international_dataset
+2021-11-03 00:00:00+00:00,New Zealand,Scotland,New Zealand,normal,Men's T20,172.0,156.0,ICC Men's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2021-11-04 00:00:00+00:00,Bangladesh,Australia,Australia,normal,Men's T20,73.0,78.0,ICC Men's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2021-11-04 00:00:00+00:00,Sri Lanka,West Indies,Sri Lanka,normal,Men's T20,189.0,169.0,ICC Men's T20 World Cup,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,international_dataset,international_dataset
+2021-11-05 00:00:00+00:00,Scotland,India,India,normal,Men's T20,85.0,89.0,ICC Men's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2021-11-05 00:00:00+00:00,New Zealand,Namibia,New Zealand,normal,Men's T20,163.0,111.0,ICC Men's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2021-11-06 00:00:00+00:00,South Africa,England,South Africa,normal,Men's T20,189.0,179.0,ICC Men's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2021-11-06 00:00:00+00:00,West Indies,Australia,Australia,normal,Men's T20,157.0,161.0,ICC Men's T20 World Cup,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,international_dataset,international_dataset
+2021-11-07 00:00:00+00:00,Pakistan,Scotland,Pakistan,normal,Men's T20,189.0,117.0,ICC Men's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2021-11-08 00:00:00+00:00,Namibia,India,India,normal,Men's T20,132.0,136.0,ICC Men's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2021-11-10 00:00:00+00:00,England,New Zealand,New Zealand,normal,Men's T20,166.0,167.0,ICC Men's T20 World Cup,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,international_dataset,international_dataset
+2021-11-11 00:00:00+00:00,Pakistan,Australia,Australia,normal,Men's T20,176.0,177.0,ICC Men's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2021-11-14 00:00:00+00:00,New Zealand,Australia,Australia,normal,Men's T20,172.0,173.0,ICC Men's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2022-10-16 00:00:00+00:00,Namibia,Sri Lanka,Namibia,normal,Men's T20,163.0,108.0,ICC Men's T20 World Cup,"GMHBA Stadium, South Geelong, Victoria",Geelong,international_dataset,international_dataset
+2022-10-16 00:00:00+00:00,United Arab Emirates,Netherlands,Netherlands,normal,Men's T20,111.0,112.0,ICC Men's T20 World Cup,"GMHBA Stadium, South Geelong, Victoria",Geelong,international_dataset,international_dataset
+2022-10-17 00:00:00+00:00,Zimbabwe,Ireland,Zimbabwe,normal,Men's T20,174.0,143.0,ICC Men's T20 World Cup,"Bellerive Oval, Hobart",Hobart,international_dataset,international_dataset
+2022-10-17 00:00:00+00:00,Scotland,West Indies,Scotland,normal,Men's T20,160.0,118.0,ICC Men's T20 World Cup,"Bellerive Oval, Hobart",Hobart,international_dataset,international_dataset
+2022-10-18 00:00:00+00:00,Namibia,Netherlands,Netherlands,normal,Men's T20,121.0,122.0,ICC Men's T20 World Cup,"GMHBA Stadium, South Geelong, Victoria",Geelong,international_dataset,international_dataset
+2022-10-18 00:00:00+00:00,Sri Lanka,United Arab Emirates,Sri Lanka,normal,Men's T20,152.0,73.0,ICC Men's T20 World Cup,"GMHBA Stadium, South Geelong, Victoria",Geelong,international_dataset,international_dataset
+2022-10-19 00:00:00+00:00,Scotland,Ireland,Ireland,normal,Men's T20,176.0,180.0,ICC Men's T20 World Cup,"Bellerive Oval, Hobart",Hobart,international_dataset,international_dataset
+2022-10-19 00:00:00+00:00,West Indies,Zimbabwe,West Indies,normal,Men's T20,153.0,122.0,ICC Men's T20 World Cup,"Bellerive Oval, Hobart",Hobart,international_dataset,international_dataset
+2022-10-20 00:00:00+00:00,Sri Lanka,Netherlands,Sri Lanka,normal,Men's T20,162.0,146.0,ICC Men's T20 World Cup,"GMHBA Stadium, South Geelong, Victoria",Geelong,international_dataset,international_dataset
+2022-10-20 00:00:00+00:00,United Arab Emirates,Namibia,United Arab Emirates,normal,Men's T20,148.0,141.0,ICC Men's T20 World Cup,"GMHBA Stadium, South Geelong, Victoria",Geelong,international_dataset,international_dataset
+2022-10-21 00:00:00+00:00,Scotland,Zimbabwe,Zimbabwe,normal,Men's T20,132.0,133.0,ICC Men's T20 World Cup,"Bellerive Oval, Hobart",Hobart,international_dataset,international_dataset
+2022-10-21 00:00:00+00:00,West Indies,Ireland,Ireland,normal,Men's T20,146.0,150.0,ICC Men's T20 World Cup,"Bellerive Oval, Hobart",Hobart,international_dataset,international_dataset
+2022-10-22 00:00:00+00:00,New Zealand,Australia,New Zealand,normal,Men's T20,200.0,111.0,ICC Men's T20 World Cup,Sydney Cricket Ground,Sydney,international_dataset,international_dataset
+2022-10-23 00:00:00+00:00,Pakistan,India,India,normal,Men's T20,159.0,160.0,ICC Men's T20 World Cup,Melbourne Cricket Ground,Melbourne,international_dataset,international_dataset
+2022-10-23 00:00:00+00:00,Ireland,Sri Lanka,Sri Lanka,normal,Men's T20,128.0,133.0,ICC Men's T20 World Cup,"Bellerive Oval, Hobart",Hobart,international_dataset,international_dataset
+2022-10-24 00:00:00+00:00,Zimbabwe,South Africa,No Result,no result,Men's T20,79.0,51.0,ICC Men's T20 World Cup,"Bellerive Oval, Hobart",Hobart,international_dataset,international_dataset
+2022-10-24 00:00:00+00:00,Bangladesh,Netherlands,Bangladesh,normal,Men's T20,144.0,135.0,ICC Men's T20 World Cup,"Bellerive Oval, Hobart",Hobart,international_dataset,international_dataset
+2022-10-25 00:00:00+00:00,Sri Lanka,Australia,Australia,normal,Men's T20,157.0,158.0,ICC Men's T20 World Cup,Perth Stadium,Perth,international_dataset,international_dataset
+2022-10-26 00:00:00+00:00,Ireland,England,Ireland,normal,Men's T20,157.0,105.0,ICC Men's T20 World Cup,Melbourne Cricket Ground,Melbourne,international_dataset,international_dataset
+2022-10-27 00:00:00+00:00,India,Netherlands,India,normal,Men's T20,179.0,123.0,ICC Men's T20 World Cup,Sydney Cricket Ground,Sydney,international_dataset,international_dataset
+2022-10-27 00:00:00+00:00,Zimbabwe,Pakistan,Zimbabwe,normal,Men's T20,130.0,129.0,ICC Men's T20 World Cup,Perth Stadium,Perth,international_dataset,international_dataset
+2022-10-27 00:00:00+00:00,South Africa,Bangladesh,South Africa,normal,Men's T20,205.0,101.0,ICC Men's T20 World Cup,Sydney Cricket Ground,Sydney,international_dataset,international_dataset
+2022-10-29 00:00:00+00:00,New Zealand,Sri Lanka,New Zealand,normal,Men's T20,167.0,102.0,ICC Men's T20 World Cup,Sydney Cricket Ground,Sydney,international_dataset,international_dataset
+2022-10-30 00:00:00+00:00,India,South Africa,South Africa,normal,Men's T20,133.0,137.0,ICC Men's T20 World Cup,Perth Stadium,Perth,international_dataset,international_dataset
+2022-10-30 00:00:00+00:00,Netherlands,Pakistan,Pakistan,normal,Men's T20,91.0,95.0,ICC Men's T20 World Cup,Perth Stadium,Perth,international_dataset,international_dataset
+2022-10-30 00:00:00+00:00,Bangladesh,Zimbabwe,Bangladesh,normal,Men's T20,150.0,147.0,ICC Men's T20 World Cup,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,international_dataset,international_dataset
+2022-10-31 00:00:00+00:00,Australia,Ireland,Australia,normal,Men's T20,179.0,137.0,ICC Men's T20 World Cup,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,international_dataset,international_dataset
+2022-11-01 00:00:00+00:00,England,New Zealand,England,normal,Men's T20,179.0,159.0,ICC Men's T20 World Cup,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,international_dataset,international_dataset
+2022-11-02 00:00:00+00:00,India,Bangladesh,India,normal,Men's T20,184.0,145.0,ICC Men's T20 World Cup,Adelaide Oval,Adelaide,international_dataset,international_dataset
+2022-11-02 00:00:00+00:00,Zimbabwe,Netherlands,Netherlands,normal,Men's T20,117.0,120.0,ICC Men's T20 World Cup,Adelaide Oval,Adelaide,international_dataset,international_dataset
+2022-11-03 00:00:00+00:00,Pakistan,South Africa,Pakistan,normal,Men's T20,185.0,108.0,ICC Men's T20 World Cup,Sydney Cricket Ground,Sydney,international_dataset,international_dataset
+2022-11-04 00:00:00+00:00,New Zealand,Ireland,New Zealand,normal,Men's T20,185.0,150.0,ICC Men's T20 World Cup,Adelaide Oval,Adelaide,international_dataset,international_dataset
+2022-11-05 00:00:00+00:00,Sri Lanka,England,England,normal,Men's T20,141.0,144.0,ICC Men's T20 World Cup,Sydney Cricket Ground,Sydney,international_dataset,international_dataset
+2022-11-06 00:00:00+00:00,Bangladesh,Pakistan,Pakistan,normal,Men's T20,127.0,128.0,ICC Men's T20 World Cup,Adelaide Oval,Adelaide,international_dataset,international_dataset
+2022-11-06 00:00:00+00:00,Netherlands,South Africa,Netherlands,normal,Men's T20,158.0,145.0,ICC Men's T20 World Cup,Adelaide Oval,Adelaide,international_dataset,international_dataset
+2022-11-06 00:00:00+00:00,India,Zimbabwe,India,normal,Men's T20,186.0,115.0,ICC Men's T20 World Cup,Melbourne Cricket Ground,Melbourne,international_dataset,international_dataset
+2022-11-09 00:00:00+00:00,New Zealand,Pakistan,Pakistan,normal,Men's T20,152.0,153.0,ICC Men's T20 World Cup,Sydney Cricket Ground,Sydney,international_dataset,international_dataset
+2022-11-10 00:00:00+00:00,India,England,England,normal,Men's T20,168.0,170.0,ICC Men's T20 World Cup,Adelaide Oval,Adelaide,international_dataset,international_dataset
+2022-11-13 00:00:00+00:00,Pakistan,England,England,normal,Men's T20,137.0,138.0,ICC Men's T20 World Cup,Melbourne Cricket Ground,Melbourne,international_dataset,international_dataset
+2023-02-10 00:00:00+00:00,Sri Lanka,South Africa,Sri Lanka,normal,Women's T20,129.0,126.0,ICC Women's T20 World Cup,"Newlands, Cape Town",Cape Town,international_dataset,international_dataset
+2023-02-11 00:00:00+00:00,Australia,New Zealand,Australia,normal,Women's T20,173.0,76.0,ICC Women's T20 World Cup,"Boland Park, Paarl",Paarl,international_dataset,international_dataset
+2023-02-11 00:00:00+00:00,West Indies,England,England,normal,Women's T20,135.0,138.0,ICC Women's T20 World Cup,"Boland Park, Paarl",Paarl,international_dataset,international_dataset
+2023-02-12 00:00:00+00:00,Pakistan,India,India,normal,Women's T20,149.0,151.0,ICC Women's T20 World Cup,"Newlands, Cape Town",Cape Town,international_dataset,international_dataset
+2023-02-12 00:00:00+00:00,Bangladesh,Sri Lanka,Sri Lanka,normal,Women's T20,126.0,129.0,ICC Women's T20 World Cup,"Newlands, Cape Town",Cape Town,international_dataset,international_dataset
+2023-02-13 00:00:00+00:00,South Africa,New Zealand,South Africa,normal,Women's T20,132.0,67.0,ICC Women's T20 World Cup,"Boland Park, Paarl",Paarl,international_dataset,international_dataset
+2023-02-13 00:00:00+00:00,Ireland,England,England,normal,Women's T20,105.0,107.0,ICC Women's T20 World Cup,"Boland Park, Paarl",Paarl,international_dataset,international_dataset
+2023-02-14 00:00:00+00:00,Bangladesh,Australia,Australia,normal,Women's T20,107.0,111.0,ICC Women's T20 World Cup,"St George's Park, Gqeberha",Gqeberha,international_dataset,international_dataset
+2023-02-15 00:00:00+00:00,Pakistan,Ireland,Pakistan,normal,Women's T20,165.0,95.0,ICC Women's T20 World Cup,"Newlands, Cape Town",Cape Town,international_dataset,international_dataset
+2023-02-15 00:00:00+00:00,West Indies,India,India,normal,Women's T20,118.0,119.0,ICC Women's T20 World Cup,"Newlands, Cape Town",Cape Town,international_dataset,international_dataset
+2023-02-16 00:00:00+00:00,Sri Lanka,Australia,Australia,normal,Women's T20,112.0,113.0,ICC Women's T20 World Cup,"St George's Park, Gqeberha",Gqeberha,international_dataset,international_dataset
+2023-02-17 00:00:00+00:00,Ireland,West Indies,West Indies,normal,Women's T20,137.0,140.0,ICC Women's T20 World Cup,"Newlands, Cape Town",Cape Town,international_dataset,international_dataset
+2023-02-17 00:00:00+00:00,New Zealand,Bangladesh,New Zealand,normal,Women's T20,189.0,118.0,ICC Women's T20 World Cup,"Newlands, Cape Town",Cape Town,international_dataset,international_dataset
+2023-02-18 00:00:00+00:00,South Africa,Australia,Australia,normal,Women's T20,124.0,125.0,ICC Women's T20 World Cup,"St George's Park, Gqeberha",Gqeberha,international_dataset,international_dataset
+2023-02-18 00:00:00+00:00,England,India,England,normal,Women's T20,151.0,140.0,ICC Women's T20 World Cup,"St George's Park, Gqeberha",Gqeberha,international_dataset,international_dataset
+2023-02-19 00:00:00+00:00,New Zealand,Sri Lanka,New Zealand,normal,Women's T20,162.0,60.0,ICC Women's T20 World Cup,"Boland Park, Paarl",Paarl,international_dataset,international_dataset
+2023-02-19 00:00:00+00:00,West Indies,Pakistan,West Indies,normal,Women's T20,116.0,113.0,ICC Women's T20 World Cup,"Boland Park, Paarl",Paarl,international_dataset,international_dataset
+2023-02-20 00:00:00+00:00,India,Ireland,India,normal,Women's T20,155.0,54.0,ICC Women's T20 World Cup,"St George's Park, Gqeberha",Gqeberha,international_dataset,international_dataset
+2023-02-21 00:00:00+00:00,Bangladesh,South Africa,South Africa,normal,Women's T20,113.0,117.0,ICC Women's T20 World Cup,"Newlands, Cape Town",Cape Town,international_dataset,international_dataset
+2023-02-21 00:00:00+00:00,England,Pakistan,England,normal,Women's T20,213.0,99.0,ICC Women's T20 World Cup,"Newlands, Cape Town",Cape Town,international_dataset,international_dataset
+2023-02-23 00:00:00+00:00,Australia,India,Australia,normal,Women's T20,172.0,167.0,ICC Women's T20 World Cup,"Newlands, Cape Town",Cape Town,international_dataset,international_dataset
+2023-02-24 00:00:00+00:00,South Africa,England,South Africa,normal,Women's T20,164.0,158.0,ICC Women's T20 World Cup,"Newlands, Cape Town",Cape Town,international_dataset,international_dataset
+2023-02-26 00:00:00+00:00,Australia,South Africa,Australia,normal,Women's T20,156.0,137.0,ICC Women's T20 World Cup,"Newlands, Cape Town",Cape Town,international_dataset,international_dataset
+2024-06-01 00:00:00+00:00,Canada,United States of America,United States of America,normal,Men's T20,194.0,197.0,ICC Men's T20 World Cup,"Grand Prairie Stadium, Dallas",Dallas,international_dataset,international_dataset
+2024-06-02 00:00:00+00:00,Papua New Guinea,West Indies,West Indies,normal,Men's T20,136.0,137.0,ICC Men's T20 World Cup,"Providence Stadium, Guyana",Providence,international_dataset,international_dataset
+2024-06-02 00:00:00+00:00,Oman,Namibia,Tie,tie,Men's T20,119.0,130.0,ICC Men's T20 World Cup,"Kensington Oval, Bridgetown, Barbados",Bridgetown,international_dataset,international_dataset
+2024-06-03 00:00:00+00:00,Sri Lanka,South Africa,South Africa,normal,Men's T20,77.0,80.0,ICC Men's T20 World Cup,"Nassau County International Cricket Stadium, New York",New York,international_dataset,international_dataset
+2024-06-04 00:00:00+00:00,Scotland,England,No Result,no result,Men's T20,90.0,,ICC Men's T20 World Cup,"Kensington Oval, Bridgetown, Barbados",Bridgetown,international_dataset,international_dataset
+2024-06-04 00:00:00+00:00,Nepal,Netherlands,Netherlands,normal,Men's T20,106.0,109.0,ICC Men's T20 World Cup,"Grand Prairie Stadium, Dallas",Dallas,international_dataset,international_dataset
+2024-06-05 00:00:00+00:00,Ireland,India,India,normal,Men's T20,96.0,97.0,ICC Men's T20 World Cup,"Nassau County International Cricket Stadium, New York",New York,international_dataset,international_dataset
+2024-06-05 00:00:00+00:00,Australia,Oman,Australia,normal,Men's T20,164.0,125.0,ICC Men's T20 World Cup,"Kensington Oval, Bridgetown, Barbados",Bridgetown,international_dataset,international_dataset
+2024-06-05 00:00:00+00:00,Papua New Guinea,Uganda,Uganda,normal,Men's T20,77.0,78.0,ICC Men's T20 World Cup,"Providence Stadium, Guyana",Providence,international_dataset,international_dataset
+2024-06-06 00:00:00+00:00,Pakistan,United States of America,Tie,tie,Men's T20,172.0,177.0,ICC Men's T20 World Cup,"Grand Prairie Stadium, Dallas",Dallas,international_dataset,international_dataset
+2024-06-06 00:00:00+00:00,Namibia,Scotland,Scotland,normal,Men's T20,155.0,157.0,ICC Men's T20 World Cup,"Kensington Oval, Bridgetown, Barbados",Bridgetown,international_dataset,international_dataset
+2024-06-07 00:00:00+00:00,Sri Lanka,Bangladesh,Bangladesh,normal,Men's T20,124.0,125.0,ICC Men's T20 World Cup,"Grand Prairie Stadium, Dallas",Dallas,international_dataset,international_dataset
+2024-06-07 00:00:00+00:00,Canada,Ireland,Canada,normal,Men's T20,137.0,125.0,ICC Men's T20 World Cup,"Nassau County International Cricket Stadium, New York",New York,international_dataset,international_dataset
+2024-06-08 00:00:00+00:00,Netherlands,South Africa,South Africa,normal,Men's T20,103.0,106.0,ICC Men's T20 World Cup,"Nassau County International Cricket Stadium, New York",New York,international_dataset,international_dataset
+2024-06-08 00:00:00+00:00,Australia,England,Australia,normal,Men's T20,201.0,165.0,ICC Men's T20 World Cup,"Kensington Oval, Bridgetown, Barbados",Bridgetown,international_dataset,international_dataset
+2024-06-08 00:00:00+00:00,West Indies,Uganda,West Indies,normal,Men's T20,173.0,39.0,ICC Men's T20 World Cup,"Providence Stadium, Guyana",Providence,international_dataset,international_dataset
+2024-06-09 00:00:00+00:00,India,Pakistan,India,normal,Men's T20,119.0,113.0,ICC Men's T20 World Cup,"Nassau County International Cricket Stadium, New York",New York,international_dataset,international_dataset
+2024-06-09 00:00:00+00:00,Oman,Scotland,Scotland,normal,Men's T20,150.0,153.0,ICC Men's T20 World Cup,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,international_dataset,international_dataset
+2024-06-10 00:00:00+00:00,South Africa,Bangladesh,South Africa,normal,Men's T20,113.0,109.0,ICC Men's T20 World Cup,"Nassau County International Cricket Stadium, New York",New York,international_dataset,international_dataset
+2024-06-11 00:00:00+00:00,Canada,Pakistan,Pakistan,normal,Men's T20,106.0,107.0,ICC Men's T20 World Cup,"Nassau County International Cricket Stadium, New York",New York,international_dataset,international_dataset
+2024-06-11 00:00:00+00:00,Namibia,Australia,Australia,normal,Men's T20,72.0,74.0,ICC Men's T20 World Cup,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,international_dataset,international_dataset
+2024-06-12 00:00:00+00:00,West Indies,New Zealand,West Indies,normal,Men's T20,149.0,136.0,ICC Men's T20 World Cup,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,international_dataset,international_dataset
+2024-06-12 00:00:00+00:00,United States of America,India,India,normal,Men's T20,110.0,111.0,ICC Men's T20 World Cup,"Nassau County International Cricket Stadium, New York",New York,international_dataset,international_dataset
+2024-06-13 00:00:00+00:00,Oman,England,England,normal,Men's T20,47.0,50.0,ICC Men's T20 World Cup,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,international_dataset,international_dataset
+2024-06-13 00:00:00+00:00,Bangladesh,Netherlands,Bangladesh,normal,Men's T20,159.0,134.0,ICC Men's T20 World Cup,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown,international_dataset,international_dataset
+2024-06-14 00:00:00+00:00,South Africa,Nepal,South Africa,normal,Men's T20,115.0,114.0,ICC Men's T20 World Cup,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown,international_dataset,international_dataset
+2024-06-14 00:00:00+00:00,Uganda,New Zealand,New Zealand,normal,Men's T20,40.0,41.0,ICC Men's T20 World Cup,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,international_dataset,international_dataset
+2024-06-15 00:00:00+00:00,England,Namibia,England,normal,Men's T20,122.0,84.0,ICC Men's T20 World Cup,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,international_dataset,international_dataset
+2024-06-15 00:00:00+00:00,Scotland,Australia,Australia,normal,Men's T20,180.0,186.0,ICC Men's T20 World Cup,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,international_dataset,international_dataset
+2024-06-16 00:00:00+00:00,Ireland,Pakistan,Pakistan,normal,Men's T20,106.0,111.0,ICC Men's T20 World Cup,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,international_dataset,international_dataset
+2024-06-16 00:00:00+00:00,Bangladesh,Nepal,Bangladesh,normal,Men's T20,106.0,85.0,ICC Men's T20 World Cup,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown,international_dataset,international_dataset
+2024-06-16 00:00:00+00:00,Sri Lanka,Netherlands,Sri Lanka,normal,Men's T20,201.0,118.0,ICC Men's T20 World Cup,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,international_dataset,international_dataset
+2024-06-17 00:00:00+00:00,Papua New Guinea,New Zealand,New Zealand,normal,Men's T20,78.0,79.0,ICC Men's T20 World Cup,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,international_dataset,international_dataset
+2024-06-19 00:00:00+00:00,South Africa,United States of America,South Africa,normal,Men's T20,194.0,176.0,ICC Men's T20 World Cup,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,international_dataset,international_dataset
+2024-06-19 00:00:00+00:00,West Indies,England,England,normal,Men's T20,180.0,181.0,ICC Men's T20 World Cup,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,international_dataset,international_dataset
+2024-06-20 00:00:00+00:00,Bangladesh,Australia,Australia,normal,Men's T20,140.0,100.0,ICC Men's T20 World Cup,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,international_dataset,international_dataset
+2024-06-21 00:00:00+00:00,South Africa,England,South Africa,normal,Men's T20,163.0,156.0,ICC Men's T20 World Cup,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,international_dataset,international_dataset
+2024-06-21 00:00:00+00:00,United States of America,West Indies,West Indies,normal,Men's T20,128.0,130.0,ICC Men's T20 World Cup,"Kensington Oval, Bridgetown, Barbados",Bridgetown,international_dataset,international_dataset
+2024-06-22 00:00:00+00:00,India,Bangladesh,India,normal,Men's T20,196.0,146.0,ICC Men's T20 World Cup,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,international_dataset,international_dataset
+2024-06-23 00:00:00+00:00,United States of America,England,England,normal,Men's T20,115.0,117.0,ICC Men's T20 World Cup,"Kensington Oval, Bridgetown, Barbados",Bridgetown,international_dataset,international_dataset
+2024-06-23 00:00:00+00:00,West Indies,South Africa,South Africa,normal,Men's T20,135.0,124.0,ICC Men's T20 World Cup,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,international_dataset,international_dataset
+2024-06-24 00:00:00+00:00,India,Australia,India,normal,Men's T20,205.0,181.0,ICC Men's T20 World Cup,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,international_dataset,international_dataset
+2024-06-27 00:00:00+00:00,India,England,India,normal,Men's T20,171.0,103.0,ICC Men's T20 World Cup,"Providence Stadium, Guyana",Providence,international_dataset,international_dataset
+2024-06-29 00:00:00+00:00,India,South Africa,India,normal,Men's T20,176.0,169.0,ICC Men's T20 World Cup,"Kensington Oval, Bridgetown, Barbados",Bridgetown,international_dataset,international_dataset
+2024-10-03 00:00:00+00:00,Bangladesh,Scotland,Bangladesh,normal,Women's T20,119.0,103.0,ICC Women's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2024-10-03 00:00:00+00:00,Pakistan,Sri Lanka,Pakistan,normal,Women's T20,116.0,85.0,ICC Women's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2024-10-04 00:00:00+00:00,New Zealand,India,New Zealand,normal,Women's T20,160.0,102.0,ICC Women's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2024-10-04 00:00:00+00:00,West Indies,South Africa,South Africa,normal,Women's T20,118.0,119.0,ICC Women's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2024-10-05 00:00:00+00:00,England,Bangladesh,England,normal,Women's T20,118.0,97.0,ICC Women's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2024-10-05 00:00:00+00:00,Sri Lanka,Australia,Australia,normal,Women's T20,93.0,94.0,ICC Women's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2024-10-06 00:00:00+00:00,Scotland,West Indies,West Indies,normal,Women's T20,99.0,101.0,ICC Women's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2024-10-06 00:00:00+00:00,Pakistan,India,India,normal,Women's T20,105.0,108.0,ICC Women's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2024-10-07 00:00:00+00:00,South Africa,England,England,normal,Women's T20,124.0,125.0,ICC Women's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2024-10-08 00:00:00+00:00,Australia,New Zealand,Australia,normal,Women's T20,148.0,88.0,ICC Women's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2024-10-09 00:00:00+00:00,South Africa,Scotland,South Africa,normal,Women's T20,166.0,86.0,ICC Women's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2024-10-09 00:00:00+00:00,India,Sri Lanka,India,normal,Women's T20,172.0,90.0,ICC Women's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2024-10-10 00:00:00+00:00,Bangladesh,West Indies,West Indies,normal,Women's T20,103.0,104.0,ICC Women's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2024-10-11 00:00:00+00:00,Pakistan,Australia,Australia,normal,Women's T20,82.0,83.0,ICC Women's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2024-10-12 00:00:00+00:00,Bangladesh,South Africa,South Africa,normal,Women's T20,106.0,107.0,ICC Women's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2024-10-12 00:00:00+00:00,Sri Lanka,New Zealand,New Zealand,normal,Women's T20,115.0,118.0,ICC Women's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2024-10-13 00:00:00+00:00,Australia,India,Australia,normal,Women's T20,151.0,142.0,ICC Women's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2024-10-13 00:00:00+00:00,Scotland,England,England,normal,Women's T20,109.0,113.0,ICC Women's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2024-10-14 00:00:00+00:00,New Zealand,Pakistan,New Zealand,normal,Women's T20,110.0,56.0,ICC Women's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2024-10-15 00:00:00+00:00,England,West Indies,West Indies,normal,Women's T20,141.0,144.0,ICC Women's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2024-10-17 00:00:00+00:00,Australia,South Africa,South Africa,normal,Women's T20,134.0,135.0,ICC Women's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2024-10-18 00:00:00+00:00,New Zealand,West Indies,New Zealand,normal,Women's T20,128.0,120.0,ICC Women's T20 World Cup,Sharjah Cricket Stadium,Sharjah,international_dataset,international_dataset
+2024-10-20 00:00:00+00:00,New Zealand,South Africa,New Zealand,normal,Women's T20,158.0,126.0,ICC Women's T20 World Cup,Dubai International Cricket Stadium,Dubai,international_dataset,international_dataset
+2025-11-21 09:30:00+00:00,Bangladesh A,India A,Bangladesh A,Won,Men's T20,195.0,194.0,T20 Emerging Teams Asia Cup,,,recent_results,score_inferred
+2025-11-23 14:30:00+00:00,Bangladesh A,Pakistan A,Pakistan A,Won,Men's T20,131.0,132.0,T20 Emerging Teams Asia Cup,,,recent_results,score_inferred
+2025-11-30 11:00:00+00:00,Rocks,Warriors,Warriors,Won,Men's T20,148.0,158.0,CSA T20 Challenge,,,recent_results,score_inferred
+2025-12-08 14:30:00+00:00,Desert Vipers,Gulf Giants,Desert Vipers,Won,Men's T20,192.0,188.0,International League T20,,,recent_results,score_inferred
+2026-01-01 15:30:00+00:00,Joburg Super Kings,Durban Super Giants,Joburg Super Kings,Won,Men's T20,213.0,210.0,South Africa T20 League,,,recent_results,score_inferred
+2026-02-07 00:00:00+00:00,India,United States of America,India,normal,Men's T20,161.0,132.0,ICC Men's T20 World Cup,"Wankhede Stadium, Mumbai",Mumbai,international_dataset,international_dataset
+2026-02-07 00:00:00+00:00,Netherlands,Pakistan,Pakistan,normal,Men's T20,147.0,148.0,ICC Men's T20 World Cup,"Sinhalese Sports Club Ground, Colombo",Colombo,international_dataset,international_dataset
+2026-02-07 00:00:00+00:00,West Indies,Scotland,West Indies,normal,Men's T20,182.0,147.0,ICC Men's T20 World Cup,"Eden Gardens, Kolkata",Kolkata,international_dataset,international_dataset
+2026-02-08 00:00:00+00:00,England,Nepal,England,normal,Men's T20,184.0,180.0,ICC Men's T20 World Cup,"Wankhede Stadium, Mumbai",Mumbai,international_dataset,international_dataset
+2026-02-08 00:00:00+00:00,Sri Lanka,Ireland,Sri Lanka,normal,Men's T20,163.0,143.0,ICC Men's T20 World Cup,"R Premadasa Stadium, Colombo",Colombo,international_dataset,international_dataset
+2026-02-09 00:00:00+00:00,Scotland,Italy,Scotland,normal,Men's T20,207.0,134.0,ICC Men's T20 World Cup,"Eden Gardens, Kolkata",Kolkata,international_dataset,international_dataset
+2026-02-09 00:00:00+00:00,Oman,Zimbabwe,Zimbabwe,normal,Men's T20,103.0,106.0,ICC Men's T20 World Cup,"Sinhalese Sports Club Ground, Colombo",Colombo,international_dataset,international_dataset
+2026-02-09 00:00:00+00:00,South Africa,Canada,South Africa,normal,Men's T20,213.0,156.0,ICC Men's T20 World Cup,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,international_dataset,international_dataset
+2026-02-10 00:00:00+00:00,Pakistan,United States of America,Pakistan,normal,Men's T20,190.0,158.0,ICC Men's T20 World Cup,"Sinhalese Sports Club Ground, Colombo",Colombo,international_dataset,international_dataset
+2026-02-10 00:00:00+00:00,Namibia,Netherlands,Netherlands,normal,Men's T20,156.0,159.0,ICC Men's T20 World Cup,"Arun Jaitley Stadium, Delhi",Delhi,international_dataset,international_dataset
+2026-02-10 00:00:00+00:00,United Arab Emirates,New Zealand,New Zealand,normal,Men's T20,173.0,175.0,ICC Men's T20 World Cup,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,international_dataset,international_dataset
+2026-02-11 00:00:00+00:00,Australia,Ireland,Australia,normal,Men's T20,182.0,115.0,ICC Men's T20 World Cup,"R Premadasa Stadium, Colombo",Colombo,international_dataset,international_dataset
+2026-02-11 00:00:00+00:00,West Indies,England,West Indies,normal,Men's T20,196.0,166.0,ICC Men's T20 World Cup,"Wankhede Stadium, Mumbai",Mumbai,international_dataset,international_dataset
+2026-02-12 00:00:00+00:00,India,Namibia,India,normal,Men's T20,209.0,116.0,ICC Men's T20 World Cup,"Arun Jaitley Stadium, Delhi",Delhi,international_dataset,international_dataset
+2026-02-12 00:00:00+00:00,Sri Lanka,Oman,Sri Lanka,normal,Men's T20,225.0,120.0,ICC Men's T20 World Cup,Pallekele International Cricket Stadium,Kandy,international_dataset,international_dataset
+2026-02-12 00:00:00+00:00,Nepal,Italy,Italy,normal,Men's T20,123.0,124.0,ICC Men's T20 World Cup,"Wankhede Stadium, Mumbai",Mumbai,international_dataset,international_dataset
+2026-02-13 00:00:00+00:00,United States of America,Netherlands,United States of America,normal,Men's T20,196.0,103.0,ICC Men's T20 World Cup,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,international_dataset,international_dataset
+2026-02-13 00:00:00+00:00,Zimbabwe,Australia,Zimbabwe,normal,Men's T20,169.0,146.0,ICC Men's T20 World Cup,"R Premadasa Stadium, Colombo",Colombo,international_dataset,international_dataset
+2026-02-13 00:00:00+00:00,Canada,United Arab Emirates,United Arab Emirates,normal,Men's T20,150.0,151.0,ICC Men's T20 World Cup,"Arun Jaitley Stadium, Delhi",Delhi,international_dataset,international_dataset
+2026-02-14 00:00:00+00:00,Scotland,England,England,normal,Men's T20,152.0,155.0,ICC Men's T20 World Cup,"Eden Gardens, Kolkata",Kolkata,international_dataset,international_dataset
+2026-02-14 00:00:00+00:00,New Zealand,South Africa,South Africa,normal,Men's T20,175.0,178.0,ICC Men's T20 World Cup,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,international_dataset,international_dataset
+2026-02-14 00:00:00+00:00,Ireland,Oman,Ireland,normal,Men's T20,235.0,139.0,ICC Men's T20 World Cup,"Sinhalese Sports Club Ground, Colombo",Colombo,international_dataset,international_dataset
+2026-02-15 00:00:00+00:00,Nepal,West Indies,West Indies,normal,Men's T20,133.0,134.0,ICC Men's T20 World Cup,"Wankhede Stadium, Mumbai",Mumbai,international_dataset,international_dataset
+2026-02-15 00:00:00+00:00,United States of America,Namibia,United States of America,normal,Men's T20,199.0,168.0,ICC Men's T20 World Cup,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,international_dataset,international_dataset
+2026-02-15 00:00:00+00:00,India,Pakistan,India,normal,Men's T20,175.0,114.0,ICC Men's T20 World Cup,"R Premadasa Stadium, Colombo",Colombo,international_dataset,international_dataset
+2026-02-15 15:30:00+00:00,Hyderabad Region,Dm Jamali Region,Hyderabad Region,Won,Men's T20,183.0,182.0,National T20 Cup Qualifiers,,,recent_results,score_inferred
+2026-02-16 00:00:00+00:00,Australia,Sri Lanka,Sri Lanka,normal,Men's T20,181.0,184.0,ICC Men's T20 World Cup,Pallekele International Cricket Stadium,Kandy,international_dataset,international_dataset
+2026-02-16 00:00:00+00:00,England,Italy,England,normal,Men's T20,202.0,178.0,ICC Men's T20 World Cup,"Eden Gardens, Kolkata",Kolkata,international_dataset,international_dataset
+2026-02-17 00:00:00+00:00,Canada,New Zealand,New Zealand,normal,Men's T20,173.0,176.0,ICC Men's T20 World Cup,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,international_dataset,international_dataset
+2026-02-17 00:00:00+00:00,Scotland,Nepal,Nepal,normal,Men's T20,170.0,171.0,ICC Men's T20 World Cup,"Wankhede Stadium, Mumbai",Mumbai,international_dataset,international_dataset
+2026-02-18 00:00:00+00:00,United Arab Emirates,South Africa,South Africa,normal,Men's T20,122.0,123.0,ICC Men's T20 World Cup,"Arun Jaitley Stadium, Delhi",Delhi,international_dataset,international_dataset
+2026-02-18 00:00:00+00:00,Pakistan,Namibia,Pakistan,normal,Men's T20,199.0,97.0,ICC Men's T20 World Cup,"Sinhalese Sports Club Ground, Colombo",Colombo,international_dataset,international_dataset
+2026-02-18 00:00:00+00:00,India,Netherlands,India,normal,Men's T20,193.0,176.0,ICC Men's T20 World Cup,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,international_dataset,international_dataset
+2026-02-19 00:00:00+00:00,West Indies,Italy,West Indies,normal,Men's T20,165.0,123.0,ICC Men's T20 World Cup,"Eden Gardens, Kolkata",Kolkata,international_dataset,international_dataset
+2026-02-19 00:00:00+00:00,Sri Lanka,Zimbabwe,Zimbabwe,normal,Men's T20,178.0,182.0,ICC Men's T20 World Cup,"R Premadasa Stadium, Colombo",Colombo,international_dataset,international_dataset
+2026-02-20 00:00:00+00:00,Oman,Australia,Australia,normal,Men's T20,104.0,108.0,ICC Men's T20 World Cup,Pallekele International Cricket Stadium,Kandy,international_dataset,international_dataset
+2026-02-22 00:00:00+00:00,South Africa,India,South Africa,normal,Men's T20,187.0,111.0,ICC Men's T20 World Cup,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,international_dataset,international_dataset
+2026-02-22 00:00:00+00:00,England,Sri Lanka,England,normal,Men's T20,146.0,95.0,ICC Men's T20 World Cup,Pallekele International Cricket Stadium,Kandy,international_dataset,international_dataset
+2026-02-23 00:00:00+00:00,West Indies,Zimbabwe,West Indies,normal,Men's T20,254.0,147.0,ICC Men's T20 World Cup,"Wankhede Stadium, Mumbai",Mumbai,international_dataset,international_dataset
+2026-02-24 00:00:00+00:00,Pakistan,England,England,normal,Men's T20,164.0,166.0,ICC Men's T20 World Cup,Pallekele International Cricket Stadium,Kandy,international_dataset,international_dataset
+2026-02-25 00:00:00+00:00,New Zealand,Sri Lanka,New Zealand,normal,Men's T20,168.0,107.0,ICC Men's T20 World Cup,"R Premadasa Stadium, Colombo",Colombo,international_dataset,international_dataset
+2026-02-26 00:00:00+00:00,India,Zimbabwe,India,normal,Men's T20,256.0,184.0,ICC Men's T20 World Cup,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,international_dataset,international_dataset
+2026-02-26 00:00:00+00:00,West Indies,South Africa,South Africa,normal,Men's T20,176.0,177.0,ICC Men's T20 World Cup,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,international_dataset,international_dataset
+2026-02-27 00:00:00+00:00,New Zealand,England,England,normal,Men's T20,159.0,161.0,ICC Men's T20 World Cup,"R Premadasa Stadium, Colombo",Colombo,international_dataset,international_dataset
+2026-02-28 00:00:00+00:00,Pakistan,Sri Lanka,Pakistan,normal,Men's T20,212.0,207.0,ICC Men's T20 World Cup,Pallekele International Cricket Stadium,Kandy,international_dataset,international_dataset
+2026-03-01 00:00:00+00:00,West Indies,India,India,normal,Men's T20,195.0,199.0,ICC Men's T20 World Cup,"Eden Gardens, Kolkata",Kolkata,international_dataset,international_dataset
+2026-03-01 00:00:00+00:00,Zimbabwe,South Africa,South Africa,normal,Men's T20,153.0,154.0,ICC Men's T20 World Cup,"Arun Jaitley Stadium, Delhi",Delhi,international_dataset,international_dataset
+2026-03-04 00:00:00+00:00,South Africa,New Zealand,New Zealand,normal,Men's T20,169.0,173.0,ICC Men's T20 World Cup,"Eden Gardens, Kolkata",Kolkata,international_dataset,international_dataset
+2026-03-05 00:00:00+00:00,India,England,India,normal,Men's T20,253.0,246.0,ICC Men's T20 World Cup,"Wankhede Stadium, Mumbai",Mumbai,international_dataset,international_dataset
+2026-03-08 00:00:00+00:00,India,New Zealand,India,normal,Men's T20,255.0,159.0,ICC Men's T20 World Cup,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,international_dataset,international_dataset
+2026-04-12 03:00:00+00:00,Brisbane Napoleons,Melbourne Tuskers,Melbourne Tuskers,Won,Men's T20,85.0,114.0,T20 Brisbane Champions League,,,recent_results,score_inferred
+2026-04-12 05:00:00+00:00,Invinsibles,Stars,Stars,Won,Women's T20,104.0,156.0,"National T20, Women",,,recent_results,score_inferred
+2026-04-12 19:00:00+00:00,Babonneau Leatherbacks,Choiseul Craftmasters,Babonneau Leatherbacks,Won,Men's T20,253.0,112.0,T20 St Lucia Premier League,,,recent_results,score_inferred
+2026-04-12 23:30:00+00:00,Gros Islet Knights,Mon Repos Pioneers,Gros Islet Knights,Won,Men's T20,274.0,186.0,T20 St Lucia Premier League,,,recent_results,score_inferred
+2026-04-13 01:30:00+00:00,Indonesia,Sweden,Indonesia,Won,Men's T20,148.0,145.0,T20 Series Indonesia vs Sweden,,,recent_results,score_inferred
+2026-04-13 09:00:00+00:00,Uganda A,USA Women,USA Women,Won,Women's T20,16.0,36.0,T20 Easter Womens Cup,,,recent_results,score_inferred
+2026-04-14 16:30:00+00:00,Atlanta Fire,Baltimore Royals,Atlanta Fire,Won,Men's T20,152.0,151.0,T20 Houston Open,,,recent_results,score_inferred
+2026-04-14 16:30:00+00:00,Seattle Thunderbolts,Space City Raiders,Space City Raiders,Won,Men's T20,149.0,150.0,T20 Houston Open,,,recent_results,score_inferred
+2026-04-14 23:30:00+00:00,South Castries Lions,Gros Islet Knights,South Castries Lions,Won,Men's T20,194.0,169.0,T20 St Lucia Premier League,,,recent_results,score_inferred
+2026-04-14 23:30:00+00:00,Babonneau Leatherbacks,Soufriere Titans,Babonneau Leatherbacks,Won,Men's T20,194.0,193.0,T20 St Lucia Premier League,,,recent_results,score_inferred
+2026-04-15 06:00:00+00:00,Australia U19 Women,England U19 Women,Australia U19 Women,Won,Women's T20,103.0,100.0,"U19 T20 Australia Tri-Series, Women",,,recent_results,score_inferred
+2026-04-15 16:30:00+00:00,Atlanta Fire,Prime Gladiators,Prime Gladiators,Won,Men's T20,162.0,166.0,T20 Houston Open,,,recent_results,score_inferred
+2026-04-15 16:30:00+00:00,Clarion Eagles,Future Caps,Clarion Eagles,Won,Men's T20,134.0,133.0,T20 Houston Open,,,recent_results,score_inferred
+2026-04-15 20:30:00+00:00,Baltimore Royals,East Bay Blazers,East Bay Blazers,Won,Men's T20,175.0,179.0,T20 Houston Open,,,recent_results,score_inferred
+2026-04-15 20:30:00+00:00,Seattle Thunderbolts,St Louis Americans,St Louis Americans,Won,Men's T20,120.0,161.0,T20 Houston Open,,,recent_results,score_inferred
+2026-04-15 23:30:00+00:00,City Blasters,Choiseul Craftmasters,City Blasters,Won,Men's T20,225.0,224.0,T20 St Lucia Premier League,,,recent_results,score_inferred
+2026-04-15 23:30:00+00:00,Babonneau Leatherbacks,Micoud Eagles,Micoud Eagles,Won,Men's T20,183.0,188.0,T20 St Lucia Premier League,,,recent_results,score_inferred
+2026-04-16 03:00:00+00:00,Melbourne Tuskers,Genid Royals,Melbourne Tuskers,Won,Men's T20,158.0,140.0,T20 Brisbane Champions League,,,recent_results,score_inferred
+2026-04-16 19:30:00+00:00,Baltimore Royals,Prime Gladiators,Prime Gladiators,Won,Men's T20,172.0,173.0,T20 Houston Open,,,recent_results,score_inferred
+2026-04-16 19:30:00+00:00,Clarion Eagles,Space City Raiders,Space City Raiders,Won,Men's T20,155.0,197.0,T20 Houston Open,,,recent_results,score_inferred
+2026-04-17 00:00:00+00:00,England U19 Women,Sri Lanka U19 Women,Sri Lanka U19 Women,Won,Women's T20,69.0,104.0,"U19 T20 Australia Tri-Series, Women",,,recent_results,score_inferred
+2026-04-17 04:30:00+00:00,Shaheenz,Markhors,Shaheenz,Won,Men's T20,200.0,199.0,T20 Rawalpindi Premier League,,,recent_results,score_inferred
+2026-04-18 00:00:00+00:00,Australia U19 Women,Sri Lanka U19 Women,Sri Lanka U19 Women,Won,Women's T20,96.0,99.0,"U19 T20 Australia Tri-Series, Women",,,recent_results,score_inferred
+2026-04-18 19:00:00+00:00,South Castries Lions,Choiseul Craftmasters,Choiseul Craftmasters,Won,Men's T20,185.0,217.0,T20 St Lucia Premier League,,,recent_results,score_inferred
+2026-04-21 03:30:00+00:00,Dragon Xi,Bodoland,Dragon Xi,Won,Men's T20,89.0,87.0,T20 BIFA Cup,,,recent_results,score_inferred
+2026-04-21 08:00:00+00:00,Rwanda Women,USA Women,Rwanda Women,Won,Women's T20,127.0,126.0,"T20 Challenge Trophy, Women",,,recent_results,score_inferred
+2026-04-21 23:30:00+00:00,Mon Repos Pioneers,City Blasters,City Blasters,Won,Men's T20,134.0,211.0,T20 St Lucia Premier League,,,recent_results,score_inferred
+2026-04-23 04:00:00+00:00,Dragon Xi,Kokrajhar,Dragon Xi,Won,Men's T20,146.0,70.0,T20 BIFA Cup,,,recent_results,score_inferred
+2026-04-23 08:30:00+00:00,Thunder Xi,Kokrajhar,Thunder Xi,Won,Women's T20,69.0,68.0,"T20 BIFA Cup, Women",,,recent_results,score_inferred
+2026-04-25 19:00:00+00:00,Soufriere Titans,Micoud Eagles,Soufriere Titans,Won,Men's T20,178.0,177.0,T20 St Lucia Premier League,,,recent_results,score_inferred
+2026-04-25 23:30:00+00:00,South Castries Lions,Mon Repos Pioneers,Mon Repos Pioneers,Won,Men's T20,152.0,168.0,T20 St Lucia Premier League,,,recent_results,score_inferred
+2026-04-26 19:00:00+00:00,Babonneau Leatherbacks,City Blasters,City Blasters,Won,Men's T20,178.0,247.0,T20 St Lucia Premier League,,,recent_results,score_inferred
+2026-04-27 07:00:00+00:00,Rwanda Women,Italy Women,Italy Women,Won,Women's T20,126.0,137.0,"T20 Challenge Trophy, Women",,,recent_results,score_inferred
+2026-04-28 07:30:00+00:00,Rwanda Women,Nepal Women,Nepal Women,Won,Women's T20,65.0,103.0,"T20 Challenge Trophy, Women",,,recent_results,score_inferred
+2026-04-28 11:00:00+00:00,Italy Women,Vanuatu Women,Vanuatu Women,Won,Women's T20,96.0,153.0,"T20 Challenge Trophy, Women",,,recent_results,score_inferred
+2026-04-28 23:30:00+00:00,Gros Islet Knights,Babonneau Leatherbacks,Gros Islet Knights,Won,Men's T20,147.0,143.0,T20 St Lucia Premier League,,,recent_results,score_inferred
+2026-04-29 23:30:00+00:00,Micoud Eagles,South Castries Lions,Micoud Eagles,Won,Men's T20,179.0,94.0,T20 St Lucia Premier League,,,recent_results,score_inferred
+2026-04-30 07:00:00+00:00,Italy Women,USA Women,USA Women,Won,Women's T20,99.0,101.0,"T20 Challenge Trophy, Women",,,recent_results,score_inferred
+2026-05-02 08:00:00+00:00,Bangladesh,New Zealand,New Zealand,Won,Men's T20,102.0,104.0,T20 Series Bangladesh vs. New Zealand,,,recent_results,score_inferred
+2026-05-02 08:30:00+00:00,Germany,Austria,Austria,Won,Men's T20,211.0,212.0,T20 Series Germany vs Austria,,,recent_results,score_inferred
+2026-05-02 19:00:00+00:00,Gros Islet Knights,Soufriere Titans,Soufriere Titans,Won,Men's T20,191.0,203.0,T20 St Lucia Premier League,,,recent_results,score_inferred
+2026-05-02 23:30:00+00:00,Micoud Eagles,Mon Repos Pioneers,Micoud Eagles,Won,Men's T20,257.0,218.0,T20 St Lucia Premier League,,,recent_results,score_inferred
+2026-05-03 19:00:00+00:00,Gros Islet Knights,City Blasters,City Blasters,Won,Men's T20,103.0,104.0,T20 St Lucia Premier League,,,recent_results,score_inferred
+2026-05-05 02:00:00+00:00,Malaysia,Indonesia,Malaysia,Won,Men's T20,74.0,73.0,T20 Series Malaysia vs Indonesia,,,recent_results,score_inferred
+2026-05-07 01:00:00+00:00,Malaysia Women,China Women,Malaysia Women,Won,Women's T20,91.0,65.0,"T20 Hong Kong Tri-Series, Women",,,recent_results,score_inferred
+2026-05-08 00:30:00+00:00,Philippines,Indonesia,Indonesia,Won,Men's T20,121.0,132.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-08 00:30:00+00:00,Fiji,Vanuatu,Vanuatu,Won,Men's T20,48.0,169.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-08 05:00:00+00:00,Cook Islands,Korea Republic,Cook Islands,Won,Men's T20,49.0,47.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-08 19:00:00+00:00,Clarke Road United,Victoria United SC,Clarke Road United,Won,Men's T20,150.0,149.0,Trinidad T20 Festival,,,recent_results,score_inferred
+2026-05-08 23:00:00+00:00,Marchin Patriots,Powergen Penal Sports Club,Marchin Patriots,Won,Men's T20,178.0,177.0,Trinidad T20 Festival,,,recent_results,score_inferred
+2026-05-09 00:30:00+00:00,Japan,Vanuatu,Japan,Won,Men's T20,123.0,93.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-09 00:30:00+00:00,Indonesia,Samoa,Samoa,Won,Men's T20,92.0,93.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-09 05:00:00+00:00,Korea Republic,Papua New Guinea,Papua New Guinea,Won,Men's T20,61.0,197.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-09 07:30:00+00:00,Cyprus,Finland,Finland,Won,Men's T20,25.0,163.0,T20 Series Cyprus vs Finland,,,recent_results,score_inferred
+2026-05-09 19:00:00+00:00,Preysal Sports Club,Trinidad And Tobago,Preysal Sports Club,Won,Men's T20,186.0,165.0,Trinidad T20 Festival,,,recent_results,score_inferred
+2026-05-10 00:30:00+00:00,Samoa,Philippines,Samoa,Won,Men's T20,166.0,70.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-10 00:30:00+00:00,Japan,Fiji,Japan,Won,Men's T20,75.0,74.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-10 05:00:00+00:00,Papua New Guinea,Cook Islands,Papua New Guinea,Won,Men's T20,204.0,155.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-10 05:30:00+00:00,Hong Kong Women,China Women,Hong Kong Women,Won,Women's T20,141.0,80.0,"T20 Hong Kong Tri-Series, Women",,,recent_results,score_inferred
+2026-05-10 19:00:00+00:00,Victoria United SC,Merryboys Sport Club,Merryboys Sport Club,Won,Men's T20,97.0,153.0,Trinidad T20 Festival,,,recent_results,score_inferred
+2026-05-11 03:30:00+00:00,Pai Viceroy Tirupati,Aditya And Br,Pai Viceroy Tirupati,Won,Men's T20,145.0,144.0,T20 Chittoor Premier League,,,recent_results,score_inferred
+2026-05-11 05:30:00+00:00,Hong Kong Women,Malaysia Women,Hong Kong Women,Won,Women's T20,114.0,86.0,"T20 Hong Kong Tri-Series, Women",,,recent_results,score_inferred
+2026-05-11 06:30:00+00:00,MT Satima,MT Meru,MT Satima,Won,Men's T20,92.0,91.0,T20 East African Safari Challenge,,,recent_results,score_inferred
+2026-05-11 08:00:00+00:00,Spartan Warriors,Hyperion,Hyperion,Won,Men's T20,129.0,191.0,T20 Chittoor Premier League,,,recent_results,score_inferred
+2026-05-12 00:30:00+00:00,Samoa,Vanuatu,Samoa,Won,Men's T20,132.0,129.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-12 03:30:00+00:00,NK Sports,Nithin Warriors,Nithin Warriors,Won,Men's T20,134.0,138.0,T20 Chittoor Premier League,,,recent_results,score_inferred
+2026-05-12 05:00:00+00:00,Japan,Indonesia,Japan,Won,Men's T20,142.0,101.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-12 23:30:00+00:00,Micoud Eagles,Choiseul Craftmasters,Choiseul Craftmasters,Won,Men's T20,164.0,165.0,T20 St Lucia Premier League,,,recent_results,score_inferred
+2026-05-13 00:30:00+00:00,Papua New Guinea,Samoa,Papua New Guinea,Won,Men's T20,115.0,112.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-13 05:00:00+00:00,Cook Islands,Vanuatu,Cook Islands,Won,Men's T20,163.0,69.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-14 00:30:00+00:00,Indonesia,Papua New Guinea,Papua New Guinea,Won,Men's T20,92.0,130.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-14 01:00:00+00:00,Fiji,Philippines,Philippines,Won,Men's T20,116.0,117.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-14 03:30:00+00:00,Pai Viceroy Tirupati,Nithin Warriors,Pai Viceroy Tirupati,Won,Men's T20,134.0,114.0,T20 Chittoor Premier League,,,recent_results,score_inferred
+2026-05-14 05:00:00+00:00,Japan,Cook Islands,Cook Islands,Won,Men's T20,90.0,94.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-14 06:30:00+00:00,MT Karisimbi,MT Kilimanjaro,MT Kilimanjaro,Won,Men's T20,90.0,109.0,T20 East African Safari Challenge,,,recent_results,score_inferred
+2026-05-14 19:00:00+00:00,Merryboys Sport Club,Powergen Penal Sports Club,Powergen Penal Sports Club,Won,Men's T20,176.0,185.0,Trinidad T20 Festival,,,recent_results,score_inferred
+2026-05-14 23:00:00+00:00,Clarke Road United,Marchin Patriots,Marchin Patriots,Won,Men's T20,176.0,177.0,Trinidad T20 Festival,,,recent_results,score_inferred
+2026-05-15 23:30:00+00:00,City Blasters,Soufriere Titans,City Blasters,Won,Men's T20,253.0,199.0,T20 St Lucia Premier League,,,recent_results,score_inferred
+2026-05-16 00:30:00+00:00,Indonesia,Vanuatu,Vanuatu,Won,Men's T20,101.0,102.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-16 05:00:00+00:00,Japan,Samoa,Japan,Won,Men's T20,82.0,81.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-16 05:30:00+00:00,Philippines,Korea Republic,Korea Republic,Won,Men's T20,94.0,95.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-16 07:30:00+00:00,Guernsey,Sweden,Guernsey,Won,Men's T20,151.0,139.0,T20 World Cup European Qualifier A,,,recent_results,score_inferred
+2026-05-16 07:30:00+00:00,Cyprus,France,France,Won,Men's T20,115.0,119.0,T20 World Cup European Qualifier A,,,recent_results,score_inferred
+2026-05-16 19:00:00+00:00,Marchin Patriots,Merryboys Sport Club,Merryboys Sport Club,Won,Men's T20,171.0,172.0,Trinidad T20 Festival,,,recent_results,score_inferred
+2026-05-16 23:00:00+00:00,Powergen Penal Sports Club,Victoria United SC,Powergen Penal Sports Club,Won,Men's T20,185.0,182.0,Trinidad T20 Festival,,,recent_results,score_inferred
+2026-05-17 00:30:00+00:00,Cook Islands,Indonesia,Cook Islands,Won,Men's T20,128.0,78.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-17 01:00:00+00:00,Fiji,Korea Republic,Korea Republic,Won,Men's T20,107.0,109.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-17 05:00:00+00:00,Papua New Guinea,Vanuatu,Papua New Guinea,Won,Men's T20,207.0,60.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-17 07:30:00+00:00,Croatia,France,France,Won,Men's T20,126.0,208.0,T20 World Cup European Qualifier A,,,recent_results,score_inferred
+2026-05-17 19:00:00+00:00,Preysal Sports Club,Prisons,Preysal Sports Club,Won,Men's T20,155.0,153.0,Trinidad T20 Festival,,,recent_results,score_inferred
+2026-05-17 23:00:00+00:00,Trinidad And Tobago,Queens Park Cricket Club I,Queens Park Cricket Club I,Won,Men's T20,110.0,111.0,Trinidad T20 Festival,,,recent_results,score_inferred
+2026-05-17 23:30:00+00:00,Soufriere Titans,Choiseul Craftmasters,Choiseul Craftmasters,Won,Men's T20,228.0,290.0,T20 St Lucia Premier League,,,recent_results,score_inferred
+2026-05-18 00:30:00+00:00,Cook Islands,Samoa,Samoa,Won,Men's T20,75.0,79.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-18 05:00:00+00:00,Japan,Papua New Guinea,Japan,Won,Men's T20,121.0,95.0,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final",,,recent_results,score_inferred
+2026-05-19 06:30:00+00:00,MT Elgon,MT Karisimbi,MT Elgon,Won,Men's T20,134.0,132.0,T20 East African Safari Challenge,,,recent_results,score_inferred
+2026-05-19 07:30:00+00:00,Jersey,France,Jersey,Won,Men's T20,148.0,145.0,T20 World Cup European Qualifier A,,,recent_results,score_inferred
+2026-05-20 19:00:00+00:00,Victoria United SC,Marchin Patriots,Marchin Patriots,Won,Men's T20,138.0,144.0,Trinidad T20 Festival,,,recent_results,score_inferred
+2026-05-20 23:00:00+00:00,Merryboys Sport Club,Clarke Road United,Clarke Road United,Won,Men's T20,208.0,228.0,Trinidad T20 Festival,,,recent_results,score_inferred
+2026-05-21 23:00:00+00:00,Club Sando,Woodland Sports Club,Club Sando,Won,Men's T20,219.0,151.0,Trinidad T20 Festival,,,recent_results,score_inferred
+2026-05-22 07:30:00+00:00,France,Switzerland,France,Won,Men's T20,149.0,141.0,T20 World Cup European Qualifier A,,,recent_results,score_inferred
+2026-05-22 17:30:00+00:00,Leicestershire,Worcestershire,Worcestershire,Won,Men's T20,170.0,188.0,T20 Vitality Blast,,,recent_results,score_inferred
+2026-05-22 17:30:00+00:00,Somerset,Hampshire,Somerset,Won,Men's T20,160.0,158.0,T20 Vitality Blast,,,recent_results,score_inferred
+2026-05-23 07:30:00+00:00,France,Sweden,Sweden,Won,Men's T20,134.0,139.0,T20 World Cup European Qualifier A,,,recent_results,score_inferred
+2026-05-23 19:00:00+00:00,Club Sando,Endeavour Sports Club,Club Sando,Won,Men's T20,213.0,143.0,Trinidad T20 Festival,,,recent_results,score_inferred
+2026-05-25 03:30:00+00:00,NK Sports,Aditya And Br,NK Sports,Won,Men's T20,184.0,183.0,T20 Chittoor Premier League,,,recent_results,score_inferred
+2026-05-25 04:30:00+00:00,Sri Lanka A,New Zealand A,New Zealand A,Won,Women's T20,78.0,79.0,"T20 Series Sri Lanka A vs New Zealand A, Women",,,recent_results,score_inferred
+2026-05-25 06:30:00+00:00,MT Kilimanjaro,MT Rwenzori,MT Rwenzori,Won,Men's T20,69.0,109.0,T20 East African Safari Challenge,,,recent_results,score_inferred
+2026-05-25 08:00:00+00:00,Nithin Warriors,Hyperion,Hyperion,Won,Men's T20,136.0,153.0,T20 Chittoor Premier League,,,recent_results,score_inferred
+2026-05-25 09:30:00+00:00,Kent Women,Sussex Sharks Women,Kent Women,Won,Women's T20,132.0,130.0,"T20 Blast, League 2, Women",,,recent_results,score_inferred
+2026-05-28 07:30:00+00:00,Ivory Coast,Botswana,Botswana,Won,Men's T20,24.0,255.0,"T20 World Cup, Sub Regional Africa, Qualifier A",,,recent_results,score_inferred
+2026-05-28 11:00:00+00:00,MT Rwenzori,MT Elgon,MT Rwenzori,Won,Men's T20,85.0,84.0,T20 East African Safari Challenge,,,recent_results,score_inferred
+2026-05-28 11:50:00+00:00,Kenya,Cameroon,Kenya,Won,Men's T20,43.0,42.0,"T20 World Cup, Sub Regional Africa, Qualifier A",,,recent_results,score_inferred
+2026-05-29 06:30:00+00:00,MT Karisimbi,MT Meru,MT Karisimbi,Won,Men's T20,112.0,91.0,T20 East African Safari Challenge,,,recent_results,score_inferred
+2026-05-29 07:30:00+00:00,Sierra Leone,Ivory Coast,Sierra Leone,Won,Men's T20,54.0,53.0,"T20 World Cup, Sub Regional Africa, Qualifier A",,,recent_results,score_inferred
+2026-05-29 07:30:00+00:00,Cameroon,Mali,Cameroon,Won,Men's T20,159.0,69.0,"T20 World Cup, Sub Regional Africa, Qualifier A",,,recent_results,score_inferred
+2026-05-30 07:30:00+00:00,Kenya,Ivory Coast,Kenya,Won,Men's T20,19.0,18.0,"T20 World Cup, Sub Regional Africa, Qualifier A",,,recent_results,score_inferred
+2026-05-31 01:30:00+00:00,Nepal,China,Nepal,Won,Men's T20,313.0,92.0,"T20 Asian Games, Qualifier",,,recent_results,score_inferred
+2026-06-01 07:30:00+00:00,MT Meru,MT Kilimanjaro,MT Kilimanjaro,Won,Men's T20,98.0,126.0,T20 East African Safari Challenge,,,recent_results,score_inferred
+2026-06-01 09:00:00+00:00,Alembic Warriors,Pruthvi Panthers,Alembic Warriors,Won,Men's T20,168.0,149.0,T20 Baroda Premier League,,,recent_results,score_inferred
+2026-06-02 12:00:00+00:00,Scotland Women,Bangladesh Women,Bangladesh Women,Won,Women's T20,118.0,152.0,"T20 Scotland Tri-Series, Women",,,recent_results,score_inferred
+2026-06-03 01:30:00+00:00,Mongolia Women,Thailand Women,Thailand Women,Won,Women's T20,19.0,21.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-03 01:30:00+00:00,Malaysia Women,Kuwait Women,Malaysia Women,Won,Women's T20,102.0,93.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-03 01:30:00+00:00,Nepal Women,Qatar Women,Nepal Women,Won,Women's T20,78.0,76.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-03 01:30:00+00:00,Saudi Arabia Women,United Arab Emirates Women,United Arab Emirates Women,Won,Women's T20,27.0,30.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-03 01:30:00+00:00,Oman,Bahrain,Oman,Won,Men's T20,184.0,164.0,"T20 Asian Games, Qualifier",,,recent_results,score_inferred
+2026-06-03 06:00:00+00:00,China Women,Oman Women,Oman Women,Won,Women's T20,89.0,105.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-03 06:00:00+00:00,Bahrain Women,Myanmar Women,Myanmar Women,Won,Women's T20,64.0,65.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-03 17:30:00+00:00,Surrey,Middlesex,Surrey,Won,Men's T20,134.0,130.0,T20 Vitality Blast,,,recent_results,score_inferred
+2026-06-04 01:30:00+00:00,Bahrain Women,Thailand Women,Thailand Women,Won,Women's T20,40.0,41.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-04 01:30:00+00:00,Oman Women,United Arab Emirates Women,United Arab Emirates Women,Won,Women's T20,64.0,66.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-04 01:30:00+00:00,Malaysia Women,Singapore Women,Malaysia Women,Won,Women's T20,120.0,80.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-04 01:30:00+00:00,Bhutan Women,Nepal Women,Nepal Women,Won,Women's T20,62.0,113.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-04 06:00:00+00:00,Hong Kong Women,Qatar Women,Hong Kong Women,Won,Women's T20,164.0,81.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-04 06:00:00+00:00,Indonesia Women,Kuwait Women,Indonesia Women,Won,Women's T20,61.0,60.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-04 06:00:00+00:00,Japan Women,Mongolia Women,Japan Women,Won,Women's T20,188.0,72.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-05 18:00:00+00:00,Sussex,Leicestershire,Leicestershire,Won,Men's T20,179.0,180.0,T20 Vitality Blast,,,recent_results,score_inferred
+2026-06-06 01:30:00+00:00,Bhutan Women,Qatar Women,Bhutan Women,Won,Women's T20,100.0,99.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-06 01:30:00+00:00,China Women,Philippines Women,China Women,Won,Women's T20,104.0,103.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-06 01:30:00+00:00,Japan Women,Myanmar Women,Japan Women,Won,Women's T20,106.0,94.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-06 06:00:00+00:00,Kuwait Women,Singapore Women,Kuwait Women,Won,Women's T20,97.0,94.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-06 06:00:00+00:00,Oman Women,Saudi Arabia Women,Oman Women,Won,Women's T20,39.0,38.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-07 01:30:00+00:00,Myanmar Women,Thailand Women,Thailand Women,Won,Women's T20,32.0,33.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-07 06:00:00+00:00,Bahrain Women,Japan Women,Japan Women,Won,Women's T20,94.0,142.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-08 01:30:00+00:00,Oman,Malaysia,Malaysia,Won,Men's T20,90.0,91.0,"T20 Asian Games, Qualifier",,,recent_results,score_inferred
+2026-06-09 01:30:00+00:00,Mongolia Women,Myanmar Women,Myanmar Women,Won,Women's T20,80.0,182.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-09 01:30:00+00:00,Japan Women,Thailand Women,Thailand Women,Won,Women's T20,84.0,126.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-09 06:00:00+00:00,Philippines Women,United Arab Emirates Women,United Arab Emirates Women,Won,Women's T20,51.0,200.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-09 07:30:00+00:00,Lux Shyam Kolkata Tigers,Adamas Howrah Warriors,Lux Shyam Kolkata Tigers,Won,Men's T20,149.0,124.0,Bengal Pro T20 League,,,recent_results,score_inferred
+2026-06-09 18:00:00+00:00,Essex,Kent,Essex,Won,Men's T20,187.0,184.0,T20 Vitality Blast,,,recent_results,score_inferred
+2026-06-10 01:30:00+00:00,Thailand Women,Nepal Women,Thailand Women,Won,Women's T20,130.0,74.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-10 01:30:00+00:00,Hong Kong Women,Japan Women,Hong Kong Women,Won,Women's T20,140.0,99.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-10 06:00:00+00:00,United Arab Emirates Women,Malaysia Women,United Arab Emirates Women,Won,Women's T20,138.0,86.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-10 06:00:00+00:00,Indonesia Women,Oman Women,Indonesia Women,Won,Women's T20,137.0,24.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-10 07:30:00+00:00,Murshidabad Kings,Shrachi Rarh Tigers,Shrachi Rarh Tigers,Won,Men's T20,121.0,188.0,Bengal Pro T20 League,,,recent_results,score_inferred
+2026-06-10 08:00:00+00:00,Tungabhadra Warriors,Amaravati Royals,Amaravati Royals,Won,Men's T20,105.0,108.0,Andhra T20 League,,,recent_results,score_inferred
+2026-06-11 03:30:00+00:00,Adamas Howrah Warriors Women,Shrachi Rarh Tigers Women,Adamas Howrah Warriors Women,Won,Women's T20,154.0,137.0,"Bengal Pro T20 League, Women",,,recent_results,score_inferred
+2026-06-11 07:30:00+00:00,Adamas Howrah Warriors,Servotech Siliguri Strikers,Servotech Siliguri Strikers,Won,Men's T20,158.0,231.0,Bengal Pro T20 League,,,recent_results,score_inferred
+2026-06-11 09:00:00+00:00,Pagariya Strikers,India Warriors,Pagariya Strikers,Won,Men's T20,150.0,147.0,Vidarbha Pro T20 League,,,recent_results,score_inferred
+2026-06-12 00:00:00+00:00,England,Sri Lanka,England,normal,Women's T20,219.0,132.0,ICC Women's T20 World Cup,"Edgbaston, Birmingham",Birmingham,international_dataset,international_dataset
+2026-06-12 03:30:00+00:00,Sobisco Smashers Malda Women,Murshidabad Kings Women,Sobisco Smashers Malda Women,Won,Women's T20,115.0,114.0,"Bengal Pro T20 League, Women",,,recent_results,score_inferred
+2026-06-12 08:00:00+00:00,Kakinada Kings,Vijayawada Sunshiners,Vijayawada Sunshiners,Won,Men's T20,151.0,202.0,Andhra T20 League,,,recent_results,score_inferred
+2026-06-12 17:30:00+00:00,England Women,Sri Lanka Women,England Women,Won,Women's T20,219.0,132.0,Women's World T20,,,recent_results,score_inferred
+2026-06-13 00:00:00+00:00,Scotland,Ireland,Scotland,normal,Women's T20,161.0,121.0,ICC Women's T20 World Cup,"Old Trafford, Manchester",Manchester,international_dataset,international_dataset
+2026-06-13 00:00:00+00:00,Australia,South Africa,Australia,normal,Women's T20,172.0,107.0,ICC Women's T20 World Cup,"Old Trafford, Manchester",Manchester,international_dataset,international_dataset
+2026-06-13 00:00:00+00:00,New Zealand,West Indies,West Indies,normal,Women's T20,162.0,163.0,ICC Women's T20 World Cup,"The Rose Bowl, Southampton",Southampton,international_dataset,international_dataset
+2026-06-13 01:30:00+00:00,Hong Kong Women,Indonesia Women,Indonesia Women,Won,Women's T20,107.0,108.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-13 06:00:00+00:00,Thailand Women,United Arab Emirates Women,Thailand Women,Won,Women's T20,96.0,95.0,"T20 ACC Premier Cup, Women",,,recent_results,score_inferred
+2026-06-13 17:30:00+00:00,West Indies Women,New Zealand Women,West Indies Women,Won,Women's T20,163.0,162.0,Women's World T20,,,recent_results,score_inferred
+2026-06-14 00:00:00+00:00,India,Pakistan,India,normal,Women's T20,170.0,106.0,ICC Women's T20 World Cup,"Edgbaston, Birmingham",Birmingham,international_dataset,international_dataset
+2026-06-14 00:00:00+00:00,Netherlands,Bangladesh,Bangladesh,normal,Women's T20,139.0,141.0,ICC Women's T20 World Cup,"Edgbaston, Birmingham",Birmingham,international_dataset,international_dataset
+2026-06-14 09:30:00+00:00,Bangladesh Women,Netherlands Women,Bangladesh Women,Won,Women's T20,141.0,139.0,Women's World T20,,,recent_results,score_inferred
+2026-06-15 07:30:00+00:00,Servotech Siliguri Strikers,Lux Shyam Kolkata Tigers,Lux Shyam Kolkata Tigers,Won,Men's T20,146.0,147.0,Bengal Pro T20 League,,,recent_results,score_inferred
+2026-06-16 00:00:00+00:00,Ireland,England,England,normal,Women's T20,118.0,119.0,ICC Women's T20 World Cup,"The Rose Bowl, Southampton",Southampton,international_dataset,international_dataset
+2026-06-16 00:00:00+00:00,New Zealand,Sri Lanka,Sri Lanka,normal,Women's T20,150.0,153.0,ICC Women's T20 World Cup,"The Rose Bowl, Southampton",Southampton,international_dataset,international_dataset
+2026-06-16 03:30:00+00:00,Shrachi Rarh Tigers Women,Sobisco Smashers Malda Women,Shrachi Rarh Tigers Women,Won,Women's T20,128.0,127.0,"Bengal Pro T20 League, Women",,,recent_results,score_inferred
+2026-06-16 07:30:00+00:00,Novus Royals Purulia,Murshidabad Kings,Murshidabad Kings,Won,Men's T20,196.0,200.0,Bengal Pro T20 League,,,recent_results,score_inferred
+2026-06-16 08:00:00+00:00,Adamas Howrah Warriors Women,Lux Shyam Kolkata Tigers Women,Adamas Howrah Warriors Women,Won,Women's T20,121.0,98.0,"Bengal Pro T20 League, Women",,,recent_results,score_inferred
+2026-06-17 00:00:00+00:00,India,Netherlands,India,normal,Women's T20,209.0,114.0,ICC Women's T20 World Cup,"Headingley, Leeds",Leeds,international_dataset,international_dataset
+2026-06-17 00:00:00+00:00,Pakistan,South Africa,South Africa,normal,Women's T20,126.0,127.0,ICC Women's T20 World Cup,"Edgbaston, Birmingham",Birmingham,international_dataset,international_dataset
+2026-06-17 00:00:00+00:00,Bangladesh,Australia,Australia,normal,Women's T20,77.0,78.0,ICC Women's T20 World Cup,"Headingley, Leeds",Leeds,international_dataset,international_dataset
+2026-06-17 03:30:00+00:00,Sobisco Smashers Malda Women,Servotech Siliguri Strikers Women,Servotech Siliguri Strikers Women,Won,Women's T20,144.0,148.0,"Bengal Pro T20 League, Women",,,recent_results,score_inferred
+2026-06-17 07:00:00+00:00,Malmo Mavericks,Vasteras United,Vasteras United,Won,Men's T20,129.0,183.0,Nordic Smash T20,,,recent_results,score_inferred
+2026-06-17 07:30:00+00:00,Novus Royals Purulia,Sobisco Smashers Malda,Novus Royals Purulia,Won,Men's T20,139.0,131.0,Bengal Pro T20 League,,,recent_results,score_inferred
+2026-06-17 07:30:00+00:00,Nigeria Women,Zimbabwe Xi Women,Zimbabwe Xi Women,Won,Women's T20,89.0,126.0,"Kwibuka T20 Tournament, Women",,,recent_results,score_inferred
+2026-06-17 11:30:00+00:00,Brazil Women,Malawi Women,Brazil Women,Won,Women's T20,87.0,76.0,"Kwibuka T20 Tournament, Women",,,recent_results,score_inferred
+2026-06-17 17:30:00+00:00,South Africa Women,Pakistan Women,South Africa Women,Won,Women's T20,127.0,126.0,Women's World T20,,,recent_results,score_inferred
+2026-06-18 00:00:00+00:00,West Indies,Scotland,West Indies,normal,Women's T20,153.0,146.0,ICC Women's T20 World Cup,"Headingley, Leeds",Leeds,international_dataset,international_dataset
+2026-06-18 07:30:00+00:00,Lux Shyam Kolkata Tigers,Shrachi Rarh Tigers,Shrachi Rarh Tigers,Won,Men's T20,165.0,166.0,Bengal Pro T20 League,,,recent_results,score_inferred
+2026-06-18 17:30:00+00:00,West Indies Women,Scotland Women,West Indies Women,Won,Women's T20,153.0,146.0,Women's World T20,,,recent_results,score_inferred
+2026-06-19 00:00:00+00:00,New Zealand,Ireland,New Zealand,normal,Women's T20,140.0,136.0,ICC Women's T20 World Cup,"The Rose Bowl, Southampton",Southampton,international_dataset,international_dataset
+2026-06-19 17:30:00+00:00,New Zealand Women,Ireland Women,New Zealand Women,Won,Women's T20,140.0,136.0,Women's World T20,,,recent_results,score_inferred
+2026-06-20 00:00:00+00:00,Bangladesh,Pakistan,Bangladesh,normal,Women's T20,123.0,100.0,ICC Women's T20 World Cup,"The Rose Bowl, Southampton",Southampton,international_dataset,international_dataset
+2026-06-20 00:00:00+00:00,England,Scotland,England,normal,Women's T20,200.0,162.0,ICC Women's T20 World Cup,"Headingley, Leeds",Leeds,international_dataset,international_dataset
+2026-06-20 00:00:00+00:00,Australia,Netherlands,Australia,normal,Women's T20,219.0,121.0,ICC Women's T20 World Cup,"The Rose Bowl, Southampton",Southampton,international_dataset,international_dataset
+2026-06-20 06:00:00+00:00,Romania,Hungary,Romania,Won,Men's T20,125.0,124.0,T20 Continental Cup,,,recent_results,score_inferred
+2026-06-20 07:30:00+00:00,Shrachi Rarh Tigers,Novus Royals Purulia,Shrachi Rarh Tigers,Won,Men's T20,110.0,107.0,Bengal Pro T20 League,,,recent_results,score_inferred
+2026-06-20 08:30:00+00:00,Tungabhadra Warriors,Bhimavaram Bulls,Tungabhadra Warriors,Won,Men's T20,154.0,153.0,Andhra T20 League,,,recent_results,score_inferred
+2026-06-20 09:30:00+00:00,Australia Women,Netherlands Women,Australia Women,Won,Women's T20,219.0,121.0,Women's World T20,,,recent_results,score_inferred
+2026-06-20 17:30:00+00:00,England Women,Scotland Women,England Women,Won,Women's T20,200.0,162.0,Women's World T20,,,recent_results,score_inferred
+2026-06-21 00:00:00+00:00,India,South Africa,South Africa,normal,Women's T20,158.0,161.0,ICC Women's T20 World Cup,"Old Trafford, Manchester",Manchester,international_dataset,international_dataset
+2026-06-21 00:00:00+00:00,Sri Lanka,West Indies,West Indies,normal,Women's T20,98.0,99.0,ICC Women's T20 World Cup,"County Ground, Bristol",Bristol,international_dataset,international_dataset
+2026-06-21 08:00:00+00:00,Royals of Rayalaseema,Tungabhadra Warriors,Royals of Rayalaseema,Won,Men's T20,135.0,132.0,Andhra T20 League,,,recent_results,score_inferred
+2026-06-21 09:30:00+00:00,West Indies Women,Sri Lanka Women,West Indies Women,Won,Women's T20,99.0,98.0,Women's World T20,,,recent_results,score_inferred
+2026-06-22 09:00:00+00:00,Mysuru Warriors,Hubli Tigers,Hubli Tigers,Won,Men's T20,161.0,162.0,T20 Maharaja Trophy,,,recent_results,score_inferred
+2026-06-22 09:30:00+00:00,Royal Titans,Tricity Bashers,Royal Titans,Won,Men's T20,190.0,183.0,Chandigarh Premier League T20,,,recent_results,score_inferred
+2026-06-22 12:00:00+00:00,Namibia,Hong Kong,Namibia,Won,Men's T20,230.0,200.0,Namibia T20 Tri-Series,,,recent_results,score_inferred
+2026-06-23 00:00:00+00:00,Ireland,Sri Lanka,Sri Lanka,normal,Women's T20,130.0,134.0,ICC Women's T20 World Cup,"County Ground, Bristol",Bristol,international_dataset,international_dataset
+2026-06-23 00:00:00+00:00,Australia,Pakistan,Australia,normal,Women's T20,199.0,86.0,ICC Women's T20 World Cup,"Headingley, Leeds",Leeds,international_dataset,international_dataset
+2026-06-23 00:00:00+00:00,Scotland,New Zealand,New Zealand,normal,Women's T20,131.0,132.0,ICC Women's T20 World Cup,"County Ground, Bristol",Bristol,international_dataset,international_dataset
+2026-06-23 09:30:00+00:00,New Zealand Women,Scotland Women,New Zealand Women,Won,Women's T20,132.0,131.0,Women's World T20,,,recent_results,score_inferred
+2026-06-23 12:00:00+00:00,Namibia,Nigeria,Namibia,Won,Men's T20,220.0,127.0,Namibia T20 Tri-Series,,,recent_results,score_inferred
+2026-06-23 17:30:00+00:00,Australia Women,Pakistan Women,Australia Women,Won,Women's T20,199.0,86.0,Women's World T20,,,recent_results,score_inferred
+2026-06-24 00:00:00+00:00,England,West Indies,England,normal,Women's T20,186.0,148.0,ICC Women's T20 World Cup,"Lord's, London",London,international_dataset,international_dataset
+2026-06-24 08:00:00+00:00,Royals of Rayalaseema,Simhadri Vizag Lions,Simhadri Vizag Lions,Won,Men's T20,186.0,190.0,Andhra T20 League,,,recent_results,score_inferred
+2026-06-24 08:45:00+00:00,Anvita Khammam Aces,Warangal Warriors,Warangal Warriors,Won,Men's T20,202.0,208.0,T20 Telangana League,,,recent_results,score_inferred
+2026-06-24 17:30:00+00:00,England Women,West Indies Women,England Women,Won,Women's T20,186.0,148.0,Women's World T20,,,recent_results,score_inferred
+2026-06-24 18:00:00+00:00,Belize,Brazil,Belize,Won,Men's T20,134.0,133.0,T20 World Cup Sub Regional Americas Qualifier,,,recent_results,score_inferred
+2026-06-25 00:00:00+00:00,Bangladesh,India,India,normal,Women's T20,136.0,139.0,ICC Women's T20 World Cup,"Old Trafford, Manchester",Manchester,international_dataset,international_dataset
+2026-06-25 00:00:00+00:00,South Africa,Netherlands,South Africa,normal,Women's T20,208.0,120.0,ICC Women's T20 World Cup,"County Ground, Bristol",Bristol,international_dataset,international_dataset
+2026-06-25 05:30:00+00:00,Uzbekistan,Thailand,Thailand,Won,Men's T20,37.0,38.0,T20 Asia Pacific Champions Trophy,,,recent_results,score_inferred
+2026-06-25 08:30:00+00:00,Vijayawada Sunshiners,Royals of Rayalaseema,Vijayawada Sunshiners,Won,Men's T20,208.0,189.0,Andhra T20 League,,,recent_results,score_inferred
+2026-06-25 10:30:00+00:00,Singapore,Indonesia,Singapore,Won,Men's T20,258.0,135.0,T20 Asia Pacific Champions Trophy,,,recent_results,score_inferred
+2026-06-25 17:30:00+00:00,South Africa Women,Netherlands Women,South Africa Women,Won,Women's T20,208.0,120.0,Women's World T20,,,recent_results,score_inferred
+2026-06-25 18:00:00+00:00,Bahamas,Brazil,Bahamas,Won,Men's T20,113.0,111.0,T20 World Cup Sub Regional Americas Qualifier,,,recent_results,score_inferred
+2026-06-26 00:00:00+00:00,Scotland,Sri Lanka,Sri Lanka,normal,Women's T20,151.0,154.0,ICC Women's T20 World Cup,"Old Trafford, Manchester",Manchester,international_dataset,international_dataset
+2026-06-26 05:30:00+00:00,Indonesia,Uzbekistan,Indonesia,Won,Men's T20,227.0,130.0,T20 Asia Pacific Champions Trophy,,,recent_results,score_inferred
+2026-06-26 08:00:00+00:00,Amaravati Royals,Vijayawada Sunshiners,Amaravati Royals,Won,Men's T20,173.0,170.0,Andhra T20 League,,,recent_results,score_inferred
+2026-06-26 08:45:00+00:00,Anurag Nalgonda Knights,Warangal Warriors,Anurag Nalgonda Knights,Won,Men's T20,259.0,168.0,T20 Telangana League,,,recent_results,score_inferred
+2026-06-26 10:30:00+00:00,Singapore,Thailand,Singapore,Won,Men's T20,76.0,73.0,T20 Asia Pacific Champions Trophy,,,recent_results,score_inferred
+2026-06-26 17:30:00+00:00,Sri Lanka Women,Scotland Women,Sri Lanka Women,Won,Women's T20,154.0,151.0,Women's World T20,,,recent_results,score_inferred
+2026-06-26 17:30:00+00:00,Northamptonshire,Essex,Northamptonshire,Won,Men's T20,238.0,108.0,T20 Vitality Blast,,,recent_results,score_inferred
+2026-06-26 18:00:00+00:00,Warwickshire,Worcestershire,Warwickshire,Won,Men's T20,224.0,165.0,T20 Vitality Blast,,,recent_results,score_inferred
+2026-06-27 00:00:00+00:00,New Zealand,England,England,normal,Women's T20,163.0,164.0,ICC Women's T20 World Cup,"Kennington Oval, London",London,international_dataset,international_dataset
+2026-06-27 00:00:00+00:00,West Indies,Ireland,Ireland,normal,Women's T20,128.0,129.0,ICC Women's T20 World Cup,"County Ground, Bristol",Bristol,international_dataset,international_dataset
+2026-06-27 00:00:00+00:00,Pakistan,Netherlands,Pakistan,normal,Women's T20,126.0,89.0,ICC Women's T20 World Cup,"County Ground, Bristol",Bristol,international_dataset,international_dataset
+2026-06-27 08:00:00+00:00,Simhadri Vizag Lions,Tungabhadra Warriors,Simhadri Vizag Lions,Won,Men's T20,161.0,140.0,Andhra T20 League,,,recent_results,score_inferred
+2026-06-27 09:00:00+00:00,Czech Republic,Serbia,Czech Republic,Won,Men's T20,267.0,163.0,T20 Central Europe Cup,,,recent_results,score_inferred
+2026-06-27 09:30:00+00:00,Pakistan Women,Netherlands Women,Pakistan Women,Won,Women's T20,126.0,89.0,Women's World T20,,,recent_results,score_inferred
+2026-06-27 17:30:00+00:00,England Women,New Zealand Women,England Women,Won,Women's T20,164.0,163.0,Women's World T20,,,recent_results,score_inferred
+2026-06-27 18:00:00+00:00,Bermuda,Brazil,Bermuda,Won,Men's T20,220.0,74.0,T20 World Cup Sub Regional Americas Qualifier,,,recent_results,score_inferred
+2026-06-28 00:00:00+00:00,Bangladesh,South Africa,South Africa,normal,Women's T20,117.0,118.0,ICC Women's T20 World Cup,"Lord's, London",London,international_dataset,international_dataset
+2026-06-28 00:00:00+00:00,India,Australia,Australia,normal,Women's T20,170.0,172.0,ICC Women's T20 World Cup,"Lord's, London",London,international_dataset,international_dataset
+2026-06-28 08:00:00+00:00,Simhadri Vizag Lions,Vijayawada Sunshiners,Simhadri Vizag Lions,Won,Men's T20,84.0,68.0,Andhra T20 League,,,recent_results,score_inferred
+2026-06-28 09:30:00+00:00,Leicestershire Foxes Women,Glamorgan Women,Glamorgan Women,Won,Women's T20,120.0,122.0,"T20 Blast, League 2, Women",,,recent_results,score_inferred
+2026-06-28 09:30:00+00:00,Worcestershire Rapids Women,Sussex Sharks Women,Worcestershire Rapids Women,Won,Women's T20,121.0,120.0,"T20 Blast, League 2, Women",,,recent_results,score_inferred
+2026-06-28 09:30:00+00:00,Kent Women,Northamptonshire Steelbacks Women,Kent Women,Won,Women's T20,105.0,104.0,"T20 Blast, League 2, Women",,,recent_results,score_inferred
+2026-06-28 09:30:00+00:00,South Africa Women,Bangladesh Women,South Africa Women,Won,Women's T20,118.0,117.0,Women's World T20,,,recent_results,score_inferred
+2026-06-29 08:30:00+00:00,Gulbarga Mystics,Hubli Tigers,Hubli Tigers,Won,Men's T20,139.0,143.0,T20 Maharaja Trophy,,,recent_results,score_inferred
+2026-06-30 00:00:00+00:00,West Indies,Australia,Australia,normal,Women's T20,125.0,127.0,ICC Women's T20 World Cup,"Kennington Oval, London",London,international_dataset,international_dataset
+2026-07-02 00:00:00+00:00,England,South Africa,England,normal,Women's T20,169.0,129.0,ICC Women's T20 World Cup,"Kennington Oval, London",London,international_dataset,international_dataset
+2026-07-02 08:00:00+00:00,Sweden,Portugal,Portugal,Won,Men's T20,156.0,156.0,T20 Series Sweden vs Portugal,,,recent_results,verified_official
+2026-07-02 08:45:00+00:00,Karimnagar Diamonds,Ranga Reddy Risers,Karimnagar Diamonds,Won,Men's T20,230.0,172.0,T20 Telangana League,,,recent_results,score_inferred
+2026-07-02 17:30:00+00:00,England Women,South Africa Women,England Women,Won,Women's T20,169.0,129.0,Women's World T20,,,recent_results,score_inferred
+2026-07-03 08:30:00+00:00,Gulbarga Mystics,Mysuru Warriors,Mysuru Warriors,Won,Men's T20,196.0,197.0,T20 Maharaja Trophy,,,recent_results,score_inferred
+2026-07-03 17:30:00+00:00,Derbyshire Falcons Women,Kent Women,Kent Women,Won,Women's T20,124.0,127.0,"T20 Blast, League 2, Women",,,recent_results,score_inferred
+2026-07-05 00:00:00+00:00,England,Australia,Australia,normal,Women's T20,150.0,153.0,ICC Women's T20 World Cup,"Lord's, London",London,international_dataset,international_dataset
+2026-07-05 08:30:00+00:00,Bengaluru Blasters,Mysuru Warriors,Bengaluru Blasters,Won,Men's T20,150.0,148.0,T20 Maharaja Trophy,,,recent_results,score_inferred
+2026-07-06 08:30:00+00:00,Hubli Tigers,Coastal Kings Mangaluru,Coastal Kings Mangaluru,Won,Men's T20,213.0,215.0,T20 Maharaja Trophy,,,recent_results,score_inferred
+2026-07-06 17:30:00+00:00,Lancashire,Derbyshire,Draw,Match drawn,Men's T20,150.0,150.0,T20 Vitality Blast,,,recent_results,verified_official
+2026-07-08 08:30:00+00:00,Denmark,Estonia,Denmark,Won,Men's T20,180.0,72.0,T20 World Cup European Qualifier Group B,,,recent_results,score_inferred
+2026-07-08 17:30:00+00:00,Leicestershire,Durham,Durham,Won,Men's T20,156.0,160.0,T20 Vitality Blast,,,recent_results,score_inferred
+2026-07-08 17:30:00+00:00,Glamorgan,Northamptonshire,Northamptonshire,Won,Men's T20,164.0,217.0,T20 Vitality Blast,,,recent_results,score_inferred
+2026-07-09 08:30:00+00:00,Denmark,Turkey,Denmark,Won,Men's T20,201.0,115.0,T20 World Cup European Qualifier Group B,,,recent_results,score_inferred
+2026-07-10 08:30:00+00:00,Namma Shivamogga,Mysuru Warriors,Namma Shivamogga,Won,Men's T20,162.0,161.0,T20 Maharaja Trophy,,,recent_results,score_inferred
+2026-07-10 08:30:00+00:00,Hungary,Estonia,Hungary,Won,Men's T20,132.0,126.0,T20 World Cup European Qualifier Group B,,,recent_results,score_inferred
+2026-07-10 08:30:00+00:00,Romania,Gibraltar,Romania,Won,Men's T20,125.0,124.0,T20 World Cup European Qualifier Group B,,,recent_results,score_inferred
+2026-07-10 18:00:00+00:00,Lancashire,Yorkshire,Lancashire,Won,Men's T20,216.0,194.0,T20 Vitality Blast,,,recent_results,score_inferred
+2026-07-11 08:30:00+00:00,Namma Shivamogga,Coastal Kings Mangaluru,Namma Shivamogga,Won,Men's T20,144.0,143.0,T20 Maharaja Trophy,,,recent_results,score_inferred
+2026-07-12 08:30:00+00:00,Denmark,Norway,Denmark,Won,Men's T20,203.0,149.0,T20 World Cup European Qualifier Group B,,,recent_results,score_inferred
+2026-07-12 08:30:00+00:00,Belgium,Romania,Romania,Won,Men's T20,107.0,108.0,T20 World Cup European Qualifier Group B,,,recent_results,score_inferred
+2026-07-12 17:35:00+00:00,Somerset,Worcestershire,Somerset,Won,Men's T20,194.0,116.0,T20 Vitality Blast,,,recent_results,score_inferred
+2026-07-13 08:30:00+00:00,Denmark,Hungary,Denmark,Won,Men's T20,186.0,120.0,T20 World Cup European Qualifier Group B,,,recent_results,score_inferred
+2026-07-14 08:30:00+00:00,Belgium,Hungary,Belgium,Won,Men's T20,78.0,77.0,T20 World Cup European Qualifier Group B,,,recent_results,score_inferred
+2026-07-14 08:30:00+00:00,Serbia,Estonia,Estonia,Won,Men's T20,148.0,150.0,T20 World Cup European Qualifier Group B,,,recent_results,score_inferred
+2026-07-16 08:30:00+00:00,Karaikal Knights,Ossudu Accord Warriors,Karaikal Knights,Won,Men's T20,188.0,129.0,T20 Pondicherry Premier League,,,recent_results,score_inferred
+2026-07-18 08:30:00+00:00,Ossudu Accord Warriors,Mahe Megalo Strikers,Mahe Megalo Strikers,Won,Men's T20,105.0,106.0,T20 Pondicherry Premier League,,,recent_results,score_inferred
+2026-07-18 12:00:00+00:00,Sparta,Hermes-Dvs,Hermes-Dvs,Won,Men's T20,103.0,104.0,Dutch T20 Topklasse,,,recent_results,score_inferred
+2026-07-18 17:45:00+00:00,Northamptonshire,Hampshire,Northamptonshire,Won,Men's T20,169.0,155.0,T20 Vitality Blast,,,recent_results,score_inferred
+2026-07-19 08:00:00+00:00,Hermes-Dvs,Vcc,Vcc,Won,Men's T20,117.0,167.0,Dutch T20 Topklasse,,,recent_results,score_inferred
+2026-07-20 08:30:00+00:00,Yanam Royals,Villianur Mohit Kings,Villianur Mohit Kings,Won,Men's T20,136.0,139.0,T20 Pondicherry Premier League,,,recent_results,score_inferred
+2026-07-21 08:30:00+00:00,Karaikal Knights,Mahe Megalo Strikers,Mahe Megalo Strikers,Won,Men's T20,177.0,178.0,T20 Pondicherry Premier League,,,recent_results,score_inferred
+2026-07-24 07:30:00+00:00,Tanzania Women,Uganda Women,Uganda Women,Won,Women's T20,127.0,132.0,"T20 Namibia Quadrangular Series, Women",,,recent_results,score_inferred
+2026-07-25 07:30:00+00:00,Namibia Women,Tanzania Women,Namibia Women,Won,Women's T20,100.0,96.0,"T20 Namibia Quadrangular Series, Women",,,recent_results,score_inferred
+2026-07-25 12:00:00+00:00,Hong Kong Women,Uganda Women,Uganda Women,Won,Women's T20,114.0,115.0,"T20 Namibia Quadrangular Series, Women",,,recent_results,score_inferred
+2026-07-25 23:00:00+00:00,Guyana Amazon Warriors,Desert Vipers,Guyana Amazon Warriors,Won,Men's T20,206.0,205.0,T20 Global Super League,,,recent_results,score_inferred
+2026-07-26 23:00:00+00:00,Guyana Amazon Warriors,Lahore Qalandars,Guyana Amazon Warriors,Won,Men's T20,164.0,111.0,T20 Global Super League,,,recent_results,score_inferred
+2026-07-28 05:30:00+00:00,Austria,Israel,Austria,Won,Men's T20,99.0,96.0,T20 European Cup,,,recent_results,score_inferred
+2026-07-28 07:30:00+00:00,Namibia Women,Hong Kong Women,Namibia Women,Won,Women's T20,124.0,120.0,"T20 Namibia Quadrangular Series, Women",,,recent_results,score_inferred
+2026-07-28 10:00:00+00:00,Turkey,Israel,Turkey,Won,Men's T20,123.0,88.0,T20 European Cup,,,recent_results,score_inferred
+2026-07-28 23:00:00+00:00,Desert Vipers,Perth Scorchers,Desert Vipers,Won,Men's T20,113.0,112.0,T20 Global Super League,,,recent_results,score_inferred
+2026-07-29 07:00:00+00:00,Israel,France,France,Won,Men's T20,130.0,131.0,T20 European Cup,,,recent_results,score_inferred
+2026-07-29 23:00:00+00:00,Guyana Amazon Warriors,Perth Scorchers,Perth Scorchers,Won,Men's T20,121.0,135.0,T20 Global Super League,,,recent_results,score_inferred
+2026-07-30 07:30:00+00:00,Hong Kong Women,Tanzania Women,Tanzania Women,Won,Women's T20,116.0,117.0,"T20 Namibia Quadrangular Series, Women",,,recent_results,score_inferred
+2026-07-30 12:00:00+00:00,Namibia Women,Uganda Women,Uganda Women,Won,Women's T20,129.0,146.0,"T20 Namibia Quadrangular Series, Women",,,recent_results,score_inferred
+2026-07-31 07:30:00+00:00,Pakistan Panthers,Asian Stars,Asian Stars,Won,Men's T20,101.0,186.0,T20 Asian Legends League,,,recent_results,score_inferred
+2026-07-31 23:00:00+00:00,Unicorns,Desert Vipers,Unicorns,Won,Men's T20,126.0,122.0,T20 Global Super League,,,recent_results,score_inferred
+2026-08-01 08:00:00+00:00,Hermes-Dvs,Punjab-Ghausia 1,Punjab-Ghausia 1,Won,Men's T20,135.0,136.0,Dutch T20 Topklasse,,,recent_results,score_inferred
+2026-08-01 08:30:00+00:00,Charaideo Sunrisers,Barpeta Braves,Charaideo Sunrisers,Won,Men's T20,157.0,156.0,T20 Assam Premier League,,,recent_results,score_inferred
+2026-08-01 11:30:00+00:00,Srilankan Lions,Bangladesh Tigers,Srilankan Lions,Won,Men's T20,163.0,160.0,T20 Asian Legends League,,,recent_results,score_inferred
+2026-08-01 13:00:00+00:00,HCC,Sparta,HCC,Won,Men's T20,23.0,0.0,Dutch T20 Topklasse,,,recent_results,score_inferred
+2026-08-01 23:00:00+00:00,Guyana Amazon Warriors,Unicorns,Guyana Amazon Warriors,Won,Men's T20,85.0,79.0,T20 Global Super League,,,recent_results,score_inferred
+2026-08-02 08:30:00+00:00,Barak Legends,Nagaon Rangers,Barak Legends,Won,Men's T20,162.0,142.0,T20 Assam Premier League,,,recent_results,score_inferred
+2026-08-03 07:30:00+00:00,Bangladesh Tigers,Asian Stars,Asian Stars,Won,Men's T20,169.0,170.0,T20 Asian Legends League,,,recent_results,score_inferred
+2026-08-03 08:00:00+00:00,West Delhi Lions,Purani Delhi 6,Purani Delhi 6,Won,Men's T20,180.0,182.0,T20 Delhi Premier League,,,recent_results,score_inferred
+2026-08-03 08:30:00+00:00,Charaideo Sunrisers,Tezpur Titans,Charaideo Sunrisers,Won,Men's T20,132.0,128.0,T20 Assam Premier League,,,recent_results,score_inferred
+2026-08-05 08:30:00+00:00,Charaideo Sunrisers,Dibrugarh Warriors,Dibrugarh Warriors,Won,Men's T20,120.0,121.0,T20 Assam Premier League,,,recent_results,score_inferred
+2026-08-06 08:00:00+00:00,South Delhi Superstarz,Outer Delhi Warriors,Outer Delhi Warriors,Won,Men's T20,93.0,132.0,T20 Delhi Premier League,,,recent_results,score_inferred
+2026-08-06 08:30:00+00:00,Barak Legends,Jorhat Stallions,Jorhat Stallions,Won,Men's T20,170.0,174.0,T20 Assam Premier League,,,recent_results,score_inferred
+2026-08-06 18:00:00+00:00,Peru,Colombia,Colombia,Won,Men's T20,146.0,149.0,T20 South American Championship,,,recent_results,score_inferred
+2026-08-06 18:00:00+00:00,Mexico,Panama,Panama,Won,Men's T20,122.0,123.0,T20 South American Championship,,,recent_results,score_inferred
+2026-08-07 18:00:00+00:00,Mexico,Turks And Caicos,Turks And Caicos,Won,Men's T20,70.0,104.0,T20 South American Championship,,,recent_results,score_inferred
+2026-08-08 08:00:00+00:00,Sparta,Excelsior 20,Excelsior 20,Won,Men's T20,121.0,146.0,Dutch T20 Topklasse,,,recent_results,score_inferred
+2026-08-08 18:00:00+00:00,Colombia,Turks And Caicos,Turks And Caicos,Won,Men's T20,133.0,134.0,T20 South American Championship,,,recent_results,score_inferred
+2026-08-08 18:00:00+00:00,Mexico,Peru,Mexico,Won,Men's T20,180.0,110.0,T20 South American Championship,,,recent_results,score_inferred
+2026-08-09 08:00:00+00:00,North Delhi Strikers,New Delhi Tigers,North Delhi Strikers,Won,Men's T20,165.0,161.0,T20 Delhi Premier League,,,recent_results,score_inferred
+2026-08-09 18:00:00+00:00,Brazil,Panama,Brazil,Won,Men's T20,128.0,125.0,T20 South American Championship,,,recent_results,score_inferred
+2026-08-11 08:00:00+00:00,Central Delhi Kings,New Delhi Tigers,Central Delhi Kings,Won,Men's T20,187.0,185.0,T20 Delhi Premier League,,,recent_results,score_inferred
+2026-08-11 09:30:00+00:00,Abasin Defenders,Band-E Amir Stars,Abasin Defenders,Won,Men's T20,281.0,118.0,T20 Kabul Premier League,,,recent_results,score_inferred
+2026-08-12 04:15:00+00:00,Bloomfield Cricket And Athletic Club,Badureliya SC,Badureliya SC,Won,Men's T20,131.0,132.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-08-12 08:30:00+00:00,Tamil Union Cricket And Athletic Club,Kurunegala Youth CC,Tamil Union Cricket And Athletic Club,Won,Men's T20,116.0,115.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-08-12 08:30:00+00:00,Colts Cricket Club,Sinhalese Sports Club,Sinhalese Sports Club,Won,Men's T20,110.0,167.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-08-12 08:30:00+00:00,Panadura SC,Ace Capital CC,Ace Capital CC,Won,Men's T20,127.0,131.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-08-13 08:00:00+00:00,Outer Delhi Warriors,West Delhi Lions,Outer Delhi Warriors,Won,Men's T20,179.0,178.0,T20 Delhi Premier League,,,recent_results,score_inferred
+2026-08-13 08:30:00+00:00,Charaideo Sunrisers,Jorhat Stallions,Charaideo Sunrisers,Won,Men's T20,130.0,128.0,T20 Assam Premier League,,,recent_results,score_inferred
+2026-08-14 08:30:00+00:00,Tezpur Titans,Nagaon Rangers,Nagaon Rangers,Won,Men's T20,120.0,123.0,T20 Assam Premier League,,,recent_results,score_inferred
+2026-08-15 08:00:00+00:00,Vra,Vcc,Vcc,Won,Men's T20,151.0,170.0,Dutch T20 Topklasse,,,recent_results,score_inferred
+2026-08-15 08:00:00+00:00,Czech Republic,Greece,Czech Republic,Won,Men's T20,148.0,147.0,T20 World Cup European Qualifier Group C,,,recent_results,score_inferred
+2026-08-15 09:00:00+00:00,HCC,Hermes-Dvs,Hermes-Dvs,Won,Men's T20,143.0,144.0,Dutch T20 Topklasse,,,recent_results,score_inferred
+2026-08-15 13:00:00+00:00,HCC,Excelsior 20,Excelsior 20,Won,Men's T20,7.0,109.0,Dutch T20 Topklasse,,,recent_results,score_inferred
+2026-08-16 04:15:00+00:00,Ace Capital CC,Colts Cricket Club,Ace Capital CC,Won,Men's T20,60.0,56.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-08-16 08:00:00+00:00,North Delhi Strikers,Central Delhi Kings,Central Delhi Kings,Won,Men's T20,150.0,151.0,T20 Delhi Premier League,,,recent_results,score_inferred
+2026-08-16 08:30:00+00:00,Dibrugarh Warriors,Jorhat Stallions,Dibrugarh Warriors,Won,Men's T20,134.0,132.0,T20 Assam Premier League,,,recent_results,score_inferred
+2026-08-17 08:00:00+00:00,New Delhi Tigers,East Delhi Riders,East Delhi Riders,Won,Men's T20,156.0,192.0,T20 Delhi Premier League,,,recent_results,score_inferred
+2026-08-17 08:00:00+00:00,Bulgaria,Isle of Man,Isle of Man,Won,Men's T20,88.0,177.0,T20 World Cup European Qualifier Group C,,,recent_results,score_inferred
+2026-08-17 08:30:00+00:00,Charaideo Sunrisers,Nagaon Rangers,Charaideo Sunrisers,Won,Men's T20,173.0,135.0,T20 Assam Premier League,,,recent_results,score_inferred
+2026-08-18 08:00:00+00:00,Greece,Germany,Germany,Won,Men's T20,96.0,98.0,T20 World Cup European Qualifier Group C,,,recent_results,score_inferred
+2026-08-18 08:00:00+00:00,Finland,Luxembourg,Finland,Won,Men's T20,168.0,95.0,T20 World Cup European Qualifier Group C,,,recent_results,score_inferred
+2026-08-18 08:00:00+00:00,Purani Delhi 6,North Delhi Strikers,Purani Delhi 6,Won,Men's T20,211.0,191.0,T20 Delhi Premier League,,,recent_results,score_inferred
+2026-08-18 08:30:00+00:00,Dibrugarh Warriors,Guwahati Royals,Guwahati Royals,Won,Men's T20,151.0,184.0,T20 Assam Premier League,,,recent_results,score_inferred
+2026-08-18 13:00:00+00:00,Bulgaria,Spain,Spain,Won,Men's T20,59.0,61.0,T20 World Cup European Qualifier Group C,,,recent_results,score_inferred
+2026-08-19 08:00:00+00:00,North Delhi Strikers,South Delhi Superstarz,South Delhi Superstarz,Won,Men's T20,207.0,208.0,T20 Delhi Premier League,,,recent_results,score_inferred
+2026-08-19 08:30:00+00:00,Charaideo Sunrisers,Guwahati Royals,Guwahati Royals,Won,Men's T20,152.0,182.0,T20 Assam Premier League,,,recent_results,score_inferred
+2026-08-20 04:15:00+00:00,Sinhalese Sports Club,Badureliya SC,Sinhalese Sports Club,Won,Men's T20,174.0,88.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-08-20 04:15:00+00:00,Colts Cricket Club,Panadura SC,Panadura SC,Won,Men's T20,115.0,197.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-08-20 04:15:00+00:00,Nondescripts,Bloomfield Cricket And Athletic Club,Nondescripts,Won,Men's T20,225.0,92.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-08-20 08:00:00+00:00,Bulgaria,Luxembourg,Bulgaria,Won,Men's T20,156.0,97.0,T20 World Cup European Qualifier Group C,,,recent_results,score_inferred
+2026-08-20 08:30:00+00:00,Tezpur Titans,Barak Legends,Barak Legends,Won,Men's T20,119.0,120.0,T20 Assam Premier League,,,recent_results,score_inferred
+2026-08-20 10:00:00+00:00,Speenghar Warriors,Kabul Zalmi,Kabul Zalmi,Won,Men's T20,90.0,91.0,T20 Kabul Premier League,,,recent_results,score_inferred
+2026-08-21 00:30:00+00:00,Victoria,Hobart Hurricanes,Victoria,Won,Men's T20,145.0,141.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-21 05:30:00+00:00,Act Comets,Hh Kingsmen Academy,Hh Kingsmen Academy,Won,Men's T20,132.0,136.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-21 08:00:00+00:00,Bulgaria,Czech Republic,Czech Republic,Won,Men's T20,158.0,164.0,T20 World Cup European Qualifier Group C,,,recent_results,score_inferred
+2026-08-21 08:15:00+00:00,Toombul,Sandgate Redcliffe,Toombul,Won,Men's T20,187.0,145.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-21 08:15:00+00:00,Ipswich,Wynnum Manly,Ipswich,Won,Men's T20,180.0,150.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-21 08:30:00+00:00,University of Queensland,Western Suburbs,Western Suburbs,Won,Men's T20,182.0,236.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-21 08:30:00+00:00,Barpeta Braves,Dibrugarh Warriors,Barpeta Braves,Won,Men's T20,137.0,134.0,T20 Assam Premier League,,,recent_results,score_inferred
+2026-08-22 00:30:00+00:00,New Zealand A,Adelaide Strikers,New Zealand A,Won,Men's T20,119.0,118.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-22 03:30:00+00:00,Wynnum Manly,Gold Coast,Draw,Match drawn,Men's T20,193.0,193.0,T20 KFC Max,,,recent_results,verified_official
+2026-08-22 04:30:00+00:00,Victoria,Hh Kingsmen Academy,Victoria,Won,Men's T20,151.0,147.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-22 06:30:00+00:00,Redlands,Ipswich,Redlands,Won,Men's T20,177.0,122.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-22 08:30:00+00:00,Nepal,Bangladesh Hp Xi,Bangladesh Hp Xi,Won,Men's T20,99.0,101.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-22 09:30:00+00:00,Kashi Rudas,Gorakhpur Lions,Gorakhpur Lions,Won,Men's T20,138.0,139.0,T20 Uttar Pradesh Premier League,,,recent_results,score_inferred
+2026-08-22 23:30:00+00:00,South Brisbane,Western Suburbs,Western Suburbs,Won,Men's T20,120.0,233.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-23 00:30:00+00:00,New Zealand A,Act Comets,New Zealand A,Won,Men's T20,88.0,86.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-23 03:30:00+00:00,Gold Coast,University of Queensland,Gold Coast,Won,Men's T20,148.0,134.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-23 03:30:00+00:00,Nt Strike,Adelaide Strikers,Adelaide Strikers,Won,Men's T20,134.0,165.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-23 07:30:00+00:00,Hobart Hurricanes,Bangladesh Hp Xi,Bangladesh Hp Xi,Won,Men's T20,153.0,155.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-23 09:30:00+00:00,Lucknow Falcons,Noida Super Kings,Noida Super Kings,Won,Men's T20,144.0,156.0,T20 Uttar Pradesh Premier League,,,recent_results,score_inferred
+2026-08-24 00:30:00+00:00,Nt Strike,Hh Kingsmen Academy,Nt Strike,Won,Men's T20,164.0,152.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-24 04:15:00+00:00,Badureliya SC,Ace Capital CC,Ace Capital CC,Won,Men's T20,91.0,164.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-08-24 04:15:00+00:00,Nondescripts,Panadura SC,Panadura SC,Won,Men's T20,140.0,142.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-08-24 04:15:00+00:00,Police Sports Club,Tamil Union Cricket And Athletic Club,Tamil Union Cricket And Athletic Club,Won,Men's T20,134.0,135.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-08-24 08:15:00+00:00,Toombul,Northern Suburbs,Northern Suburbs,Won,Men's T20,142.0,171.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-24 09:30:00+00:00,Nepal,Hobart Hurricanes,Nepal,Won,Men's T20,154.0,115.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-25 00:30:00+00:00,Nt Strike,Act Comets,Nt Strike,Won,Men's T20,131.0,130.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-25 05:00:00+00:00,New Zealand A,Hh Kingsmen Academy,Hh Kingsmen Academy,Won,Men's T20,121.0,141.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-25 08:00:00+00:00,East Delhi Riders Women,North Delhi Strikers Women,North Delhi Strikers Women,Won,Women's T20,140.0,141.0,"T20 Delhi Premier League, Women",,,recent_results,score_inferred
+2026-08-25 08:15:00+00:00,Redlands,Valley,Redlands,Won,Men's T20,196.0,100.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-25 09:30:00+00:00,Kanpur Superstar,Meerut Mavericks,Meerut Mavericks,Won,Men's T20,77.0,96.0,T20 Uttar Pradesh Premier League,,,recent_results,score_inferred
+2026-08-25 09:30:00+00:00,Adelaide Strikers,Bangladesh Hp Xi,Adelaide Strikers,Won,Men's T20,164.0,143.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-26 00:30:00+00:00,New Zealand A,Victoria,Victoria,Won,Men's T20,150.0,152.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-26 05:00:00+00:00,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,Won,Men's T20,177.0,182.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-26 09:30:00+00:00,Gorakhpur Lions,Kanpur Superstar,Kanpur Superstar,Won,Men's T20,124.0,150.0,T20 Uttar Pradesh Premier League,,,recent_results,score_inferred
+2026-08-26 09:30:00+00:00,Nepal,Act Comets,Nepal,Won,Men's T20,144.0,140.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-27 00:30:00+00:00,Nt Strike,Victoria,Victoria,Won,Men's T20,99.0,151.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-27 03:30:00+00:00,Nepal,Hh Kingsmen Academy,Hh Kingsmen Academy,Won,Men's T20,166.0,197.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-27 07:30:00+00:00,New Zealand A,Bangladesh Hp Xi,Bangladesh Hp Xi,Won,Men's T20,158.0,181.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-27 09:00:00+00:00,Aries Kollam Sailors,Kochi Blue Tigers,Aries Kollam Sailors,Won,Men's T20,158.0,155.0,T20 Kerala League,,,recent_results,score_inferred
+2026-08-28 00:30:00+00:00,Hobart Hurricanes,Act Comets,Act Comets,Won,Men's T20,143.0,147.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-28 03:30:00+00:00,Hh Kingsmen Academy,Adelaide Strikers,Adelaide Strikers,Won,Men's T20,92.0,96.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-28 04:15:00+00:00,Burgher RC,Kurunegala Youth CC,Burgher RC,Won,Men's T20,70.0,66.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-08-28 04:15:00+00:00,Moors SC,Police Sports Club,Police Sports Club,Won,Men's T20,132.0,135.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-08-28 07:30:00+00:00,Nt Strike,Bangladesh Hp Xi,Bangladesh Hp Xi,Won,Men's T20,143.0,144.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-28 08:15:00+00:00,Northern Suburbs,South Brisbane,Northern Suburbs,Won,Men's T20,141.0,138.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-28 08:30:00+00:00,Badureliya SC,Colts Cricket Club,Colts Cricket Club,Won,Men's T20,115.0,189.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-08-28 08:30:00+00:00,Ace Capital CC,Bloomfield Cricket And Athletic Club,Bloomfield Cricket And Athletic Club,Won,Men's T20,174.0,187.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-08-28 23:30:00+00:00,Western Suburbs,Toombul,Western Suburbs,Won,Men's T20,127.0,126.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-28 23:30:00+00:00,Sunshine Coast,University of Queensland,University of Queensland,Won,Men's T20,138.0,185.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-29 00:30:00+00:00,New Zealand A,Hobart Hurricanes,New Zealand A,Won,Men's T20,153.0,149.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-29 03:30:00+00:00,Act Comets,Adelaide Strikers,Adelaide Strikers,Won,Men's T20,60.0,225.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-29 03:30:00+00:00,Sunshine Coast,Redlands,Redlands,Won,Men's T20,118.0,122.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-29 03:30:00+00:00,Gold Coast,Valley,Gold Coast,Won,Men's T20,111.0,110.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-29 03:30:00+00:00,Western Suburbs,Wynnum Manly,Western Suburbs,Won,Men's T20,149.0,148.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-29 03:30:00+00:00,Sandgate Redcliffe,Ipswich,Ipswich,Won,Men's T20,135.0,141.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-29 03:30:00+00:00,Act Comets,Adelaide Aces,Adelaide Aces,Won,Men's T20,60.0,225.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-29 07:30:00+00:00,Nepal,Victoria,Victoria,Won,Men's T20,142.0,146.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-29 08:00:00+00:00,Excelsior 20,Vcc,Vcc,Won,Men's T20,127.0,131.0,Dutch T20 Topklasse,,,recent_results,score_inferred
+2026-08-29 09:00:00+00:00,Kochi Blue Tigers,Thrissur Titans,Kochi Blue Tigers,Won,Men's T20,171.0,170.0,T20 Kerala League,,,recent_results,score_inferred
+2026-08-29 19:00:00+00:00,The Blaze Women,Surrey Women,The Blaze Women,Won,Women's T20,92.0,91.0,"T20 County Cup, Women",,,recent_results,score_inferred
+2026-08-29 23:30:00+00:00,South Brisbane,Gold Coast,South Brisbane,Won,Men's T20,159.0,158.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-29 23:30:00+00:00,Wynnum Manly,Valley,Wynnum Manly,Won,Men's T20,176.0,172.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-30 00:30:00+00:00,Bangladesh Hp Xi,Victoria,Victoria,Won,Men's T20,101.0,105.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-30 01:00:00+00:00,Adelaide Aces,New Zealand A,Adelaide Aces,Won,Men's T20,123.0,121.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-30 03:30:00+00:00,South Brisbane,Ipswich,Ipswich,Won,Men's T20,168.0,169.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-30 03:30:00+00:00,University of Queensland,Redlands,Redlands,Won,Men's T20,146.0,194.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-30 03:30:00+00:00,Sunshine Coast,Toombul,Toombul,Won,Men's T20,151.0,160.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-30 06:30:00+00:00,Victoria,Adelaide Aces,Adelaide Aces,Won,Men's T20,152.0,177.0,CDU Top End T20,,,recent_results,score_inferred
+2026-08-30 08:00:00+00:00,Central Delhi Queens,North Delhi Strikers Women,North Delhi Strikers Women,Won,Women's T20,122.0,123.0,"T20 Delhi Premier League, Women",,,recent_results,score_inferred
+2026-08-30 09:30:00+00:00,Gorakhpur Lions,Lucknow Falcons,Lucknow Falcons,Won,Men's T20,146.0,170.0,T20 Uttar Pradesh Premier League,,,recent_results,score_inferred
+2026-08-31 07:30:00+00:00,Jalandhar Warriors,Fazilka Falcons,Fazilka Falcons,Won,Men's T20,187.0,192.0,T20 Sher E Punjab Cup,,,recent_results,score_inferred
+2026-08-31 08:15:00+00:00,Wynnum Manly,University of Queensland,University of Queensland,Won,Men's T20,165.0,166.0,T20 KFC Max,,,recent_results,score_inferred
+2026-08-31 09:00:00+00:00,Alleppey Ripples,Trivandrum Royals,Trivandrum Royals,Won,Men's T20,180.0,194.0,T20 Kerala League,,,recent_results,score_inferred
+2026-09-01 04:15:00+00:00,Panadura SC,Sinhalese Sports Club,Sinhalese Sports Club,Won,Men's T20,128.0,130.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-09-01 04:15:00+00:00,Tamil Union Cricket And Athletic Club,Burgher RC,Tamil Union Cricket And Athletic Club,Won,Men's T20,134.0,133.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-09-01 04:15:00+00:00,Moors SC,Nugegoda Sports Welfare Club,Moors SC,Won,Men's T20,158.0,157.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-09-01 07:30:00+00:00,Bathinda Royals,Ludhiana Lion,Ludhiana Lion,Won,Men's T20,165.0,169.0,T20 Sher E Punjab Cup,,,recent_results,score_inferred
+2026-09-01 08:15:00+00:00,Redlands,South Brisbane,Redlands,Won,Men's T20,120.0,119.0,T20 KFC Max,,,recent_results,score_inferred
+2026-09-01 08:15:00+00:00,Gold Coast,Sandgate Redcliffe,Gold Coast,Won,Men's T20,197.0,160.0,T20 KFC Max,,,recent_results,score_inferred
+2026-09-01 09:00:00+00:00,Aries Kollam Sailors,Thrissur Titans,Thrissur Titans,Won,Men's T20,160.0,162.0,T20 Kerala League,,,recent_results,score_inferred
+2026-09-01 09:30:00+00:00,Meerut Mavericks,Kashi Rudas,Kashi Rudas,Won,Men's T20,119.0,175.0,T20 Uttar Pradesh Premier League,,,recent_results,score_inferred
+2026-09-02 09:00:00+00:00,Kochi Blue Tigers,Trivandrum Royals,Trivandrum Royals,Won,Men's T20,196.0,197.0,T20 Kerala League,,,recent_results,score_inferred
+2026-09-03 09:00:00+00:00,Trivandrum Royals,Calicut Globstars,Calicut Globstars,Won,Men's T20,177.0,184.0,T20 Kerala League,,,recent_results,score_inferred
+2026-09-03 12:00:00+00:00,Namibia,Zimbabwe,Zimbabwe,Won,Men's T20,156.0,159.0,Namibia T20 Tri-Series,,,recent_results,score_inferred
+2026-09-04 07:30:00+00:00,Bathinda Royals,Amritsar Soormas,Bathinda Royals,Won,Men's T20,108.0,105.0,T20 Sher E Punjab Cup,,,recent_results,score_inferred
+2026-09-04 08:15:00+00:00,Redlands,Northern Suburbs,Northern Suburbs,Won,Men's T20,152.0,153.0,T20 KFC Max,,,recent_results,score_inferred
+2026-09-04 08:15:00+00:00,Western Suburbs,Ipswich,Western Suburbs,Won,Men's T20,110.0,109.0,T20 KFC Max,,,recent_results,score_inferred
+2026-09-04 09:00:00+00:00,Trivandrum Royals,Thrissur Titans,Thrissur Titans,Won,Men's T20,163.0,167.0,T20 Kerala League,,,recent_results,score_inferred
+2026-09-05 04:15:00+00:00,Kurunegala Youth CC,Colombo CC,Colombo CC,Won,Men's T20,91.0,95.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-09-05 04:15:00+00:00,Sinhalese Sports Club,Ace Capital CC,Ace Capital CC,Won,Men's T20,136.0,193.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-09-05 04:15:00+00:00,Colts Cricket Club,Nondescripts,Nondescripts,Won,Men's T20,140.0,158.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-09-05 06:30:00+00:00,Western Suburbs,Northern Suburbs,Northern Suburbs,Won,Men's T20,251.0,257.0,T20 KFC Max,,,recent_results,score_inferred
+2026-09-05 08:00:00+00:00,Vra,Sparta,Vra,Won,Men's T20,108.0,107.0,Dutch T20 Topklasse,,,recent_results,score_inferred
+2026-09-05 08:30:00+00:00,Nugegoda Sports Welfare Club,Police Sports Club,Police Sports Club,Won,Men's T20,160.0,161.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-09-05 08:30:00+00:00,Badureliya SC,Panadura SC,Badureliya SC,Won,Men's T20,152.0,148.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-09-06 07:30:00+00:00,Bathinda Royals,Jalandhar Warriors,Bathinda Royals,Won,Men's T20,228.0,219.0,T20 Sher E Punjab Cup,,,recent_results,score_inferred
+2026-09-06 09:30:00+00:00,Glasgow Cosmic,Edinburgh Castle Rockers,Edinburgh Castle Rockers,Won,Men's T20,159.0,163.0,European T20 Premier League,,,recent_results,score_inferred
+2026-09-06 12:00:00+00:00,South Africa,Zimbabwe,South Africa,Won,Men's T20,205.0,157.0,Namibia T20 Tri-Series,,,recent_results,score_inferred
+2026-09-07 07:30:00+00:00,Mohali Kings,Ludhiana Lion,Mohali Kings,Won,Men's T20,214.0,213.0,T20 Sher E Punjab Cup,,,recent_results,score_inferred
+2026-09-09 04:15:00+00:00,Tamil Union Cricket And Athletic Club,Panadura SC,Tamil Union Cricket And Athletic Club,Won,Men's T20,220.0,179.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-09-09 04:15:00+00:00,Moors SC,Nondescripts,Nondescripts,Won,Men's T20,175.0,178.0,Major Clubs T20 Tournament,,,recent_results,score_inferred
+2026-09-09 07:30:00+00:00,Ludhiana Lion,Fazilka Falcons,Ludhiana Lion,Won,Men's T20,203.0,200.0,T20 Sher E Punjab Cup,,,recent_results,score_inferred
+2026-09-10 07:30:00+00:00,Jalandhar Warriors,Amritsar Soormas,Amritsar Soormas,Won,Men's T20,169.0,178.0,T20 Sher E Punjab Cup,,,recent_results,score_inferred
+2026-09-10 09:30:00+00:00,Rotterdam Dockers,Glasgow Cosmic,Rotterdam Dockers,Won,Men's T20,172.0,141.0,European T20 Premier League,,,recent_results,score_inferred
+2026-09-12 07:30:00+00:00,Mohali Kings,Amritsar Soormas,Amritsar Soormas,Won,Men's T20,169.0,172.0,T20 Sher E Punjab Cup,,,recent_results,score_inferred
+2026-09-12 09:30:00+00:00,Belfast Wolves,Rotterdam Dockers,Rotterdam Dockers,Won,Men's T20,161.0,162.0,European T20 Premier League,,,recent_results,score_inferred
+2026-09-13 09:30:00+00:00,Edinburgh Castle Rockers,Amsterdam Flames,Amsterdam Flames,Won,Men's T20,118.0,120.0,European T20 Premier League,,,recent_results,score_inferred
+2026-09-14 17:00:00+00:00,Gulf Giants Development,Dubai Capitals Development,Gulf Giants Development,Won,Men's T20,142.0,138.0,ILT20 Development Tournament,,,recent_results,score_inferred
+2026-09-15 07:30:00+00:00,Sierra Leone,Uganda,Uganda,Won,Men's T20,55.0,56.0,T20 Africa Continent Cup,,,recent_results,score_inferred
+2026-09-15 09:30:00+00:00,Amsterdam Flames,Dublin Guardians,Amsterdam Flames,Won,Men's T20,214.0,155.0,European T20 Premier League,,,recent_results,score_inferred
+2026-09-15 11:30:00+00:00,Rwanda,Kenya,Kenya,Won,Men's T20,157.0,189.0,T20 Africa Continent Cup,,,recent_results,score_inferred
+2026-09-15 17:00:00+00:00,Abu Dhabi Knight Riders Development,Mi Emirates Development,Abu Dhabi Knight Riders Development,Won,Men's T20,186.0,169.0,ILT20 Development Tournament,,,recent_results,score_inferred
+2026-09-16 07:30:00+00:00,Botswana,Uganda,Uganda,Won,Men's T20,119.0,125.0,T20 Africa Continent Cup,,,recent_results,score_inferred
+2026-09-16 11:30:00+00:00,Rwanda,Sierra Leone,Sierra Leone,Won,Men's T20,87.0,91.0,T20 Africa Continent Cup,,,recent_results,score_inferred
+2026-09-17 02:00:00+00:00,Malaysia,United Arab Emirates,United Arab Emirates,Won,Men's T20,157.0,216.0,T20 Series Malaysia vs UAE,,,recent_results,score_inferred
+2026-09-17 05:00:00+00:00,Pakistan Women,Thailand Women,Pakistan Women,Won,Women's T20,92.0,91.0,"T20 Asian Games, Women",,,recent_results,score_inferred
+2026-09-17 12:30:00+00:00,India A,Australia A,Australia A,Won,Women's T20,161.0,168.0,"T20 Series India A vs Australia A, Women",,,recent_results,score_inferred
+2026-09-17 13:00:00+00:00,Mi Emirates Development,Dubai Capitals Development,Dubai Capitals Development,Won,Men's T20,80.0,85.0,ILT20 Development Tournament,,,recent_results,score_inferred
+2026-09-18 00:00:00+00:00,Malaysia Women,Sri Lanka Women,Sri Lanka Women,Won,Women's T20,74.0,160.0,"T20 Asian Games, Women",,,recent_results,score_inferred
+2026-09-18 05:00:00+00:00,Japan Women,India Women,India Women,Won,Women's T20,57.0,59.0,"T20 Asian Games, Women",,,recent_results,score_inferred
+2026-09-18 11:30:00+00:00,Botswana,Sierra Leone,Sierra Leone,Won,Men's T20,100.0,121.0,T20 Africa Continent Cup,,,recent_results,score_inferred
+2026-09-19 11:30:00+00:00,Uganda,Kenya,Kenya,Won,Men's T20,131.0,170.0,T20 Africa Continent Cup,,,recent_results,score_inferred
+2026-09-19 11:30:00+00:00,Zimbabwe Women,South Africa Women,South Africa Women,Won,Women's T20,151.0,164.0,"T20 Series Zimbabwe vs South Africa, Women",,,recent_results,score_inferred
+2026-09-19 17:00:00+00:00,Abu Dhabi Knight Riders Development,Dubai Capitals Development,Dubai Capitals Development,Won,Men's T20,123.0,125.0,ILT20 Development Tournament,,,recent_results,score_inferred
+2026-09-20 00:00:00+00:00,Pakistan Women,Sri Lanka Women,Sri Lanka Women,Won,Women's T20,177.0,178.0,"T20 Asian Games, Women",,,recent_results,score_inferred
+2026-09-20 05:00:00+00:00,Bangladesh Women,India Women,India Women,Won,Women's T20,81.0,195.0,"T20 Asian Games, Women",,,recent_results,score_inferred
+2026-09-20 17:00:00+00:00,Sharjah Warriorz Development,Mi Emirates Development,Mi Emirates Development,Won,Men's T20,145.0,177.0,ILT20 Development Tournament,,,recent_results,score_inferred
+2026-09-21 08:00:00+00:00,Godavari Golden Eagles,Amaravati E Champions,Godavari Golden Eagles,Won,Women's T20,144.0,143.0,"T20 Andhra Premier League, Women",,,recent_results,score_inferred
+2026-09-22 00:00:00+00:00,Bangladesh Women,Pakistan Women,Pakistan Women,Won,Women's T20,114.0,145.0,"T20 Asian Games, Women",,,recent_results,score_inferred
+2026-09-22 05:00:00+00:00,India Women,Sri Lanka Women,India Women,Won,Women's T20,216.0,49.0,"T20 Asian Games, Women",,,recent_results,score_inferred
+2026-09-22 07:00:00+00:00,Japan,India,India,Won,Men's T20,0.0,16.0,T20 Series Japan vs India,,,recent_results,score_inferred
+2026-09-22 17:00:00+00:00,Sharjah Warriorz Development,Abu Dhabi Knight Riders Development,Sharjah Warriorz Development,Won,Men's T20,209.0,150.0,ILT20 Development Tournament,,,recent_results,score_inferred
+2026-09-23 17:00:00+00:00,Sharjah Warriorz Development,Desert Vipers Development,Desert Vipers Development,Won,Men's T20,146.0,171.0,ILT20 Development Tournament,,,recent_results,score_inferred
+2026-09-24 00:00:00+00:00,Japan,Afghanistan,Afghanistan,Won,Men's T20,81.0,129.0,T20 Asian Games,,,recent_results,score_inferred
+2026-09-24 05:30:00+00:00,Nainital Tigers,Tehri Titans,Tehri Titans,Won,Men's T20,183.0,187.0,T20 Uttarakhand Premier League,,,recent_results,score_inferred
+2026-09-24 09:30:00+00:00,Haridwar Spring Elmas,Rishikesh River Kings,Haridwar Spring Elmas,Won,Men's T20,137.0,133.0,T20 Uttarakhand Premier League,,,recent_results,score_inferred
+2026-09-25 00:00:00+00:00,Hong Kong,Oman,Hong Kong,Won,Men's T20,121.0,80.0,T20 Asian Games,,,recent_results,score_inferred
+2026-09-25 05:00:00+00:00,Afghanistan,Nepal,Nepal,Won,Men's T20,102.0,103.0,T20 Asian Games,,,recent_results,score_inferred
+2026-09-25 05:30:00+00:00,Haridwar Spring Elmas,Tehri Titans,Haridwar Spring Elmas,Won,Men's T20,174.0,168.0,T20 Uttarakhand Premier League,,,recent_results,score_inferred
+2026-09-25 08:00:00+00:00,Vizag Firebirds,Godavari Golden Eagles,Godavari Golden Eagles,Won,Women's T20,129.0,156.0,"T20 Andhra Premier League, Women",,,recent_results,score_inferred
+2026-09-25 09:30:00+00:00,Pithoragarh Hurricanes,Usn Indians,Pithoragarh Hurricanes,Won,Men's T20,141.0,137.0,T20 Uttarakhand Premier League,,,recent_results,score_inferred
+2026-09-25 12:00:00+00:00,Warriors,North West,North West,Won,Men's T20,128.0,131.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-09-25 16:00:00+00:00,Titans,Western Province,Titans,Won,Men's T20,190.0,186.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-09-26 18:30:00+00:00,Bahamas,Bermuda,Bermuda,Won,Men's T20,82.0,83.0,T20 North American Cup,,,recent_results,score_inferred
+2026-09-27 11:00:00+00:00,Mpumalanga Rhinos,Titans,Titans,Won,Men's T20,75.0,79.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-09-27 11:00:00+00:00,Dolphins,DP World Lions,DP World Lions,Won,Men's T20,194.0,202.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-09-27 16:00:00+00:00,Western Province,Knights,Western Province,Won,Men's T20,169.0,168.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-09-27 18:30:00+00:00,Cayman,Bermuda,Bermuda,Won,Men's T20,59.0,101.0,T20 North American Cup,,,recent_results,score_inferred
+2026-09-28 11:00:00+00:00,Border,North West,Border,Won,Men's T20,151.0,138.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-09-29 07:30:00+00:00,Usn Indians,Tehri Titans,Usn Indians,Won,Men's T20,122.0,110.0,T20 Uttarakhand Premier League,,,recent_results,score_inferred
+2026-09-29 08:50:00+00:00,Rishikesh River Kings,Pithoragarh Hurricanes,Rishikesh River Kings,Won,Men's T20,111.0,105.0,T20 Uttarakhand Premier League,,,recent_results,score_inferred
+2026-09-29 10:45:00+00:00,Usn Indians,Haridwar Spring Elmas,Usn Indians,Won,Men's T20,93.0,92.0,T20 Uttarakhand Premier League,,,recent_results,score_inferred
+2026-09-29 12:00:00+00:00,Warriors,Limpopo,Warriors,Won,Men's T20,175.0,140.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-09-29 16:00:00+00:00,Rocks,Knights,Rocks,Won,Men's T20,161.0,160.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-09-30 05:00:00+00:00,Rishikesh River Kings,Usn Indians,Rishikesh River Kings,Won,Men's T20,117.0,115.0,T20 Uttarakhand Premier League,,,recent_results,score_inferred
+2026-09-30 06:55:00+00:00,Dehradun Warriors,Nainital Tigers,Dehradun Warriors,Won,Men's T20,112.0,63.0,T20 Uttarakhand Premier League,,,recent_results,score_inferred
+2026-09-30 08:50:00+00:00,Haridwar Spring Elmas,Pithoragarh Hurricanes,Haridwar Spring Elmas,Won,Men's T20,102.0,101.0,T20 Uttarakhand Premier League,,,recent_results,score_inferred
+2026-09-30 10:45:00+00:00,Tehri Titans,Dehradun Warriors,Tehri Titans,Won,Men's T20,91.0,85.0,T20 Uttarakhand Premier League,,,recent_results,score_inferred
+2026-09-30 16:00:00+00:00,Dolphins,Northern Cape,Dolphins,Won,Men's T20,239.0,135.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-01 00:00:00+00:00,Bangladesh,Pakistan,Pakistan,Won,Men's T20,111.0,112.0,T20 Asian Games,,,recent_results,score_inferred
+2026-10-01 04:30:00+00:00,India,Sri Lanka,India,Won,Men's T20,169.0,45.0,T20 Asian Games,,,recent_results,score_inferred
+2026-10-01 09:00:00+00:00,Dehradun Warriors,Haridwar Spring Elmas,Dehradun Warriors,Won,Men's T20,197.0,161.0,T20 Uttarakhand Premier League,,,recent_results,score_inferred
+2026-10-01 11:00:00+00:00,South Western Districts,Border,South Western Districts,Won,Men's T20,182.0,143.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-02 11:00:00+00:00,Mpumalanga Rhinos,Tuskers,Mpumalanga Rhinos,Won,Men's T20,159.0,142.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-02 16:00:00+00:00,Knights,Titans,Titans,Won,Men's T20,143.0,267.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-02 16:00:00+00:00,DP World Lions,North West,North West,Won,Men's T20,205.0,207.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-04 04:00:00+00:00,Western Province Women,South Western Districts Women,Western Province Women,Won,Women's T20,349.0,284.0,"CSA T20 Division 1, Women",,,recent_results,score_inferred
+2026-10-04 11:00:00+00:00,Limpopo,Dolphins,Dolphins,Won,Men's T20,91.0,95.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-04 11:00:00+00:00,Tuskers,Rocks,Rocks,Won,Men's T20,124.0,187.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-04 11:30:00+00:00,West Indies Legends,South Africa Legends,South Africa Legends,Won,Men's T20,145.0,242.0,T20 World Championship of Legends,,,recent_results,score_inferred
+2026-10-04 16:00:00+00:00,Western Province,South Africa Emerging,Western Province,Won,Men's T20,200.0,194.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-05 01:15:00+00:00,Thailand,Bahrain,Bahrain,Won,Men's T20,97.0,104.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-05 01:15:00+00:00,Myanmar,Bhutan,Bhutan,Won,Men's T20,90.0,119.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-05 06:00:00+00:00,Kuwait,Qatar,Kuwait,Won,Men's T20,199.0,141.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-05 11:00:00+00:00,Limpopo,South Western Districts,South Western Districts,Won,Men's T20,128.0,131.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-06 01:15:00+00:00,Qatar,Thailand,Qatar,Won,Men's T20,80.0,76.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-06 06:00:00+00:00,Mongolia,Kuwait,Kuwait,Won,Men's T20,42.0,43.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-06 06:00:00+00:00,Bahrain,Bhutan,Bahrain,Won,Men's T20,139.0,73.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-06 16:00:00+00:00,Western Province,Easterns,Western Province,Won,Men's T20,134.0,130.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-07 02:00:00+00:00,Samoa Women,Malaysia Women,Malaysia Women,Won,Women's T20,124.0,151.0,"T20 Tri-Series Malaysia, Women",,,recent_results,score_inferred
+2026-10-07 10:00:00+00:00,Zimbabwe Women,West Indies Women,West Indies Women,Won,Women's T20,142.0,143.0,"T20 Series Zimbabwe vs West Indies, Women",,,recent_results,score_inferred
+2026-10-07 11:00:00+00:00,South Western Districts,DP World Lions,DP World Lions,Won,Men's T20,137.0,175.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-07 11:30:00+00:00,Australia Legends,Bangladesh Champions,Australia Legends,Won,Men's T20,203.0,166.0,T20 World Championship of Legends,,,recent_results,score_inferred
+2026-10-07 16:00:00+00:00,Knights,Tuskers,Tuskers,Won,Men's T20,151.0,155.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-07 16:00:00+00:00,Titans,South Africa Emerging,Titans,Won,Men's T20,147.0,143.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-08 01:15:00+00:00,Kuwait,Thailand,Kuwait,Won,Men's T20,61.0,60.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-08 01:15:00+00:00,Bhutan,Mongolia,Bhutan,Won,Men's T20,203.0,67.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-08 01:15:00+00:00,Bahrain,Myanmar,Bahrain,Won,Men's T20,73.0,70.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-08 06:00:00+00:00,China,Maldives,Maldives,Won,Men's T20,96.0,100.0,"T20 World Cup, Sub Regional Africa, Qualifier B",,,recent_results,score_inferred
+2026-10-08 06:00:00+00:00,Malaysia,Hong Kong,Hong Kong,Won,Men's T20,72.0,140.0,"T20 World Cup, Sub Regional Africa, Qualifier B",,,recent_results,score_inferred
+2026-10-08 06:00:00+00:00,Saudi Arabia,Singapore,Saudi Arabia,Won,Men's T20,174.0,99.0,"T20 World Cup, Sub Regional Africa, Qualifier B",,,recent_results,score_inferred
+2026-10-08 16:00:00+00:00,Warriors,Northern Cape,Warriors,Won,Men's T20,88.0,83.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-08 16:00:00+00:00,Rocks,Easterns,Rocks,Won,Men's T20,164.0,164.0,CSA T20 Challenge,,,recent_results,verified_official
+2026-10-09 01:15:00+00:00,Qatar,Myanmar,Qatar,Won,Men's T20,56.0,55.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-09 01:15:00+00:00,Kuwait,Bahrain,Bahrain,Won,Men's T20,188.0,189.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-09 01:15:00+00:00,Mongolia,Thailand,Thailand,Won,Men's T20,13.0,196.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-09 06:00:00+00:00,Malaysia,Saudi Arabia,Saudi Arabia,Won,Men's T20,137.0,139.0,"T20 World Cup, Sub Regional Africa, Qualifier B",,,recent_results,score_inferred
+2026-10-09 06:00:00+00:00,Maldives,Singapore,Singapore,Won,Men's T20,155.0,188.0,"T20 World Cup, Sub Regional Africa, Qualifier B",,,recent_results,score_inferred
+2026-10-09 06:00:00+00:00,China,Hong Kong,Hong Kong,Won,Men's T20,40.0,41.0,"T20 World Cup, Sub Regional Africa, Qualifier B",,,recent_results,score_inferred
+2026-10-10 01:00:00+00:00,Malaysia Women,Indonesia Women,Indonesia Women,Won,Women's T20,51.0,52.0,"T20 Tri-Series Malaysia, Women",,,recent_results,score_inferred
+2026-10-10 07:30:00+00:00,Rangers,Old Hararians 1,Rangers,Won,Men's T20,164.0,158.0,T20 National Premier League,,,recent_results,score_inferred
+2026-10-10 11:00:00+00:00,Mpumalanga Rhinos,Western Province,Western Province,Won,Men's T20,111.0,136.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-10 16:00:00+00:00,North West,South Western Districts,South Western Districts,Won,Men's T20,149.0,150.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-11 01:15:00+00:00,China,Singapore,Singapore,Won,Men's T20,89.0,139.0,"T20 World Cup, Sub Regional Africa, Qualifier B",,,recent_results,score_inferred
+2026-10-11 01:15:00+00:00,Malaysia,Maldives,Malaysia,Won,Men's T20,126.0,125.0,"T20 World Cup, Sub Regional Africa, Qualifier B",,,recent_results,score_inferred
+2026-10-11 01:15:00+00:00,Hong Kong,Saudi Arabia,Saudi Arabia,Won,Men's T20,158.0,168.0,"T20 World Cup, Sub Regional Africa, Qualifier B",,,recent_results,score_inferred
+2026-10-11 06:00:00+00:00,Kuwait,Myanmar,Kuwait,Won,Men's T20,37.0,34.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-11 06:00:00+00:00,Mongolia,Bahrain,Bahrain,Won,Men's T20,17.0,18.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-11 06:00:00+00:00,Bhutan,Qatar,Qatar,Won,Men's T20,64.0,65.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-11 11:00:00+00:00,South Africa Emerging,Rocks,Rocks,Won,Men's T20,151.0,155.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-11 16:00:00+00:00,Titans,Easterns,Titans,Won,Men's T20,260.0,161.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-11 23:00:00+00:00,Hobart Hurricane Women,ACT Meteors Women,Hobart Hurricane Women,Won,Women's T20,127.0,100.0,"T20 Spring Challenge, Women",,,recent_results,score_inferred
+2026-10-12 01:15:00+00:00,China,Saudi Arabia,Saudi Arabia,Won,Men's T20,34.0,98.0,"T20 World Cup, Sub Regional Africa, Qualifier B",,,recent_results,score_inferred
+2026-10-12 01:15:00+00:00,Malaysia,Singapore,Malaysia,Won,Men's T20,149.0,112.0,"T20 World Cup, Sub Regional Africa, Qualifier B",,,recent_results,score_inferred
+2026-10-12 03:30:00+00:00,Sydney Thunder Women,Melbourne Stars Women,Sydney Thunder Women,Won,Women's T20,79.0,78.0,"T20 Spring Challenge, Women",,,recent_results,score_inferred
+2026-10-12 06:00:00+00:00,Kuwait,Bhutan,Kuwait,Won,Men's T20,78.0,74.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-12 06:00:00+00:00,Thailand,Myanmar,Thailand,Won,Men's T20,53.0,52.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-12 07:30:00+00:00,Takashinga 1,Old Hararians 1,Old Hararians 1,Won,Men's T20,162.0,163.0,T20 National Premier League,,,recent_results,score_inferred
+2026-10-12 10:00:00+00:00,Eastern Titans,Gladiators,Gladiators,Won,Men's T20,143.0,146.0,T20 National Premier League,,,recent_results,score_inferred
+2026-10-12 23:00:00+00:00,Sydney Sixers Women,ACT Meteors Women,Sydney Sixers Women,Won,Women's T20,78.0,77.0,"T20 Spring Challenge, Women",,,recent_results,score_inferred
+2026-10-13 07:30:00+00:00,Eastern Titans,Queens,Queens,Won,Men's T20,137.0,138.0,T20 National Premier League,,,recent_results,score_inferred
+2026-10-13 10:00:00+00:00,Gladiators,Takashinga 1,Gladiators,Won,Men's T20,197.0,196.0,T20 National Premier League,,,recent_results,score_inferred
+2026-10-13 11:00:00+00:00,Northern Cape,Limpopo,Northern Cape,Won,Men's T20,171.0,65.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-13 11:00:00+00:00,Tuskers,Titans,Titans,Won,Men's T20,183.0,204.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-13 16:00:00+00:00,DP World Lions,Border,DP World Lions,Won,Men's T20,138.0,133.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-13 16:00:00+00:00,North West,Dolphins,Dolphins,Won,Men's T20,144.0,148.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-14 01:15:00+00:00,Qatar,Bahrain,Qatar,Won,Men's T20,120.0,119.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-14 01:15:00+00:00,Malaysia,China,Malaysia,Won,Men's T20,63.0,60.0,"T20 World Cup, Sub Regional Africa, Qualifier B",,,recent_results,score_inferred
+2026-10-14 01:15:00+00:00,Mongolia,Myanmar,Myanmar,Won,Men's T20,56.0,60.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-14 03:30:00+00:00,Melbourne Renegades Women,Melbourne Stars Women,Melbourne Renegades Women,Won,Women's T20,180.0,179.0,"T20 Spring Challenge, Women",,,recent_results,score_inferred
+2026-10-14 06:00:00+00:00,Maldives,Saudi Arabia,Saudi Arabia,Won,Men's T20,69.0,194.0,"T20 World Cup, Sub Regional Africa, Qualifier B",,,recent_results,score_inferred
+2026-10-14 06:00:00+00:00,Hong Kong,Singapore,Hong Kong,Won,Men's T20,172.0,134.0,"T20 World Cup, Sub Regional Africa, Qualifier B",,,recent_results,score_inferred
+2026-10-14 06:00:00+00:00,Bhutan,Thailand,Thailand,Won,Men's T20,97.0,134.0,T20 World Cup Sub Regional Asia Qualifier A,,,recent_results,score_inferred
+2026-10-14 08:00:00+00:00,Adelaide Strikers Women,Hobart Hurricane Women,Adelaide Strikers Women,Won,Women's T20,165.0,136.0,"T20 Spring Challenge, Women",,,recent_results,score_inferred
+2026-10-14 11:30:00+00:00,England Legends,Australia Legends,Australia Legends,Won,Men's T20,202.0,218.0,T20 World Championship of Legends,,,recent_results,score_inferred
+2026-10-14 16:00:00+00:00,Western Province,Rocks,Western Province,Won,Men's T20,176.0,174.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-14 16:00:00+00:00,Knights,Easterns,Easterns,Won,Men's T20,168.0,186.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-15 07:00:00+00:00,Rangers,Rimuka,Rangers,Won,Men's T20,145.0,117.0,T20 National Premier League,,,recent_results,score_inferred
+2026-10-16 03:30:00+00:00,Brisbane Heat Women,ACT Meteors Women,Brisbane Heat Women,Won,Women's T20,86.0,83.0,"T20 Spring Challenge, Women",,,recent_results,score_inferred
+2026-10-16 11:00:00+00:00,Limpopo,Border,Border,Won,Men's T20,163.0,166.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-16 11:00:00+00:00,South Western Districts,Warriors,Warriors,Won,Men's T20,68.0,72.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-16 23:00:00+00:00,Hobart Hurricane Women,Perth Scorchers Women,Perth Scorchers Women,Won,Women's T20,136.0,166.0,"T20 Spring Challenge, Women",,,recent_results,score_inferred
+2026-10-17 03:30:00+00:00,ACT Meteors Women,Melbourne Stars Women,Melbourne Stars Women,Won,Women's T20,129.0,132.0,"T20 Spring Challenge, Women",,,recent_results,score_inferred
+2026-10-17 03:30:00+00:00,Sydney Sixers Women,Adelaide Strikers Women,Adelaide Strikers Women,Won,Women's T20,105.0,143.0,"T20 Spring Challenge, Women",,,recent_results,score_inferred
+2026-10-17 12:00:00+00:00,Rangers,Gladiators,Rangers,Won,Men's T20,7.0,0.0,T20 National Premier League,,,recent_results,score_inferred
+2026-10-17 16:00:00+00:00,Rocks,Mpumalanga Rhinos,Rocks,Won,Men's T20,141.0,102.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-17 23:00:00+00:00,Melbourne Renegades Women,Hobart Hurricane Women,Melbourne Renegades Women,Won,Women's T20,132.0,129.0,"T20 Spring Challenge, Women",,,recent_results,score_inferred
+2026-10-18 03:30:00+00:00,Brisbane Heat Women,Adelaide Strikers Women,Adelaide Strikers Women,Won,Women's T20,129.0,139.0,"T20 Spring Challenge, Women",,,recent_results,score_inferred
+2026-10-18 03:30:00+00:00,Sydney Thunder Women,Perth Scorchers Women,Sydney Thunder Women,Won,Women's T20,93.0,92.0,"T20 Spring Challenge, Women",,,recent_results,score_inferred
+2026-10-18 08:00:00+00:00,Sydney Sixers Women,Melbourne Stars Women,Melbourne Stars Women,Won,Women's T20,155.0,158.0,"T20 Spring Challenge, Women",,,recent_results,score_inferred
+2026-10-18 11:00:00+00:00,South Africa Emerging,Knights,Knights,Won,Men's T20,152.0,206.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-18 12:00:00+00:00,DP World Lions,Northern Cape,DP World Lions,Won,Men's T20,139.0,137.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-19 12:30:00+00:00,Sharjah,Dubai,Dubai,Won,Men's T20,159.0,160.0,T20 League,,,recent_results,score_inferred
+2026-10-19 23:00:00+00:00,Adelaide Strikers Women,Perth Scorchers Women,Perth Scorchers Women,Won,Women's T20,116.0,118.0,"T20 Spring Challenge, Women",,,recent_results,score_inferred
+2026-10-20 03:30:00+00:00,Sydney Thunder Women,Sydney Sixers Women,Sydney Sixers Women,Won,Women's T20,152.0,153.0,"T20 Spring Challenge, Women",,,recent_results,score_inferred
+2026-10-20 08:15:00+00:00,Australia Women,New Zealand Women,Australia Women,Won,Women's T20,167.0,127.0,T20 Series Australia Women vs New Zealand Women,,,recent_results,score_inferred
+2026-10-20 08:30:00+00:00,Uganda,Zambia,Uganda,Won,Men's T20,195.0,108.0,"T20 World Cup, Sub Regional Asia, Qualifier C",,,recent_results,score_inferred
+2026-10-20 16:00:00+00:00,Dolphins,Warriors,Warriors,Won,Men's T20,116.0,117.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-21 03:00:00+00:00,Sydney Sixers Women,Perth Scorchers Women,Sydney Sixers Women,Won,Women's T20,149.0,134.0,"T20 Spring Challenge, Women",,,recent_results,score_inferred
+2026-10-21 08:30:00+00:00,Lesotho,Uganda,Uganda,Won,Men's T20,87.0,89.0,"T20 World Cup, Sub Regional Asia, Qualifier C",,,recent_results,score_inferred
+2026-10-21 08:30:00+00:00,Mozambique,Gambia,Mozambique,Won,Men's T20,148.0,120.0,"T20 World Cup, Sub Regional Asia, Qualifier C",,,recent_results,score_inferred
+2026-10-21 11:00:00+00:00,Northern Cape,South Western Districts,South Western Districts,Won,Men's T20,126.0,127.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-21 16:00:00+00:00,North West,Limpopo,North West,Won,Men's T20,148.0,147.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-22 11:00:00+00:00,Mpumalanga Rhinos,South Africa Emerging,Mpumalanga Rhinos,Won,Men's T20,158.0,153.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-22 16:00:00+00:00,Easterns,Tuskers,Tuskers,Won,Men's T20,149.0,150.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-23 08:30:00+00:00,Zambia,Lesotho,Zambia,Won,Men's T20,61.0,58.0,"T20 World Cup, Sub Regional Asia, Qualifier C",,,recent_results,score_inferred
+2026-10-23 08:30:00+00:00,Nigeria,Mozambique,Nigeria,Won,Men's T20,94.0,93.0,"T20 World Cup, Sub Regional Asia, Qualifier C",,,recent_results,score_inferred
+2026-10-23 12:50:00+00:00,Gambia,Uganda,Uganda,Won,Men's T20,27.0,28.0,"T20 World Cup, Sub Regional Asia, Qualifier C",,,recent_results,score_inferred
+2026-10-23 16:00:00+00:00,Dolphins,South Western Districts,Dolphins,Won,Men's T20,56.0,51.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-24 08:30:00+00:00,Uganda,Mozambique,Uganda,Won,Men's T20,23.0,19.0,"T20 World Cup, Sub Regional Asia, Qualifier C",,,recent_results,score_inferred
+2026-10-24 11:00:00+00:00,Border,Warriors,Border,Won,Men's T20,139.0,136.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-24 11:00:00+00:00,DP World Lions,Limpopo,DP World Lions,Won,Men's T20,120.0,119.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-24 16:00:00+00:00,Knights,Mpumalanga Rhinos,Knights,Won,Men's T20,126.0,92.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-24 23:00:00+00:00,Brampton Blazers,Toronto Kings,Toronto Kings,Won,Men's T20,112.0,197.0,NCL GT20,,,recent_results,score_inferred
+2026-10-25 11:00:00+00:00,Easterns,South Africa Emerging,Easterns,Won,Men's T20,146.0,145.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-25 11:00:00+00:00,Tuskers,Western Province,Tuskers,Won,Men's T20,164.0,117.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-25 11:00:00+00:00,Rocks,Titans,Rocks,Won,Men's T20,137.0,137.0,CSA T20 Challenge,,,recent_results,verified_official
+2026-10-25 16:30:00+00:00,Ajman,Dubai,Ajman,Won,Men's T20,113.0,112.0,T20 League,,,recent_results,score_inferred
+2026-10-28 16:00:00+00:00,DP World Lions,Easterns,DP World Lions,Won,Men's T20,204.0,198.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-28 16:30:00+00:00,Ecb Blues,Abu Dhabi,Abu Dhabi,Won,Men's T20,169.0,191.0,T20 League,,,recent_results,score_inferred
+2026-10-29 03:00:00+00:00,Manipur Women,Meghalaya Women,Meghalaya Women,Won,Women's T20,100.0,103.0,Senior Womens Interzonal T20,,,recent_results,score_inferred
+2026-10-29 03:00:00+00:00,Bihar Women,Mizoram Women,Bihar Women,Won,Women's T20,106.0,91.0,Senior Womens Interzonal T20,,,recent_results,score_inferred
+2026-10-29 03:30:00+00:00,Odisha Women,Saurashtra Women,Saurashtra Women,Won,Women's T20,132.0,138.0,Senior Womens Interzonal T20,,,recent_results,score_inferred
+2026-10-29 03:30:00+00:00,Kerala Women,Punjab Women,Punjab Women,Won,Women's T20,131.0,132.0,Senior Womens Interzonal T20,,,recent_results,score_inferred
+2026-10-29 03:30:00+00:00,Goa Women,Karnataka Women,Karnataka Women,Won,Women's T20,142.0,143.0,Senior Womens Interzonal T20,,,recent_results,score_inferred
+2026-10-29 11:00:00+00:00,South Western Districts,Titans,South Western Districts,Won,Men's T20,158.0,157.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-29 16:30:00+00:00,Dubai,Emirates Red,Dubai,Won,Men's T20,25.0,24.0,T20 League,,,recent_results,score_inferred
+2026-10-30 16:30:00+00:00,Dubai,Ecb Blues,Ecb Blues,Won,Men's T20,93.0,167.0,T20 League,,,recent_results,score_inferred
+2026-10-30 23:00:00+00:00,Montreal Warriors,Toronto Kings,Toronto Kings,Won,Men's T20,121.0,124.0,NCL GT20,,,recent_results,score_inferred
+2026-10-31 11:00:00+00:00,South Western Districts,Easterns,South Western Districts,Won,Men's T20,149.0,144.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-31 16:00:00+00:00,Warriors,Western Province,Warriors,Won,Men's T20,133.0,130.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-10-31 16:30:00+00:00,Sharjah,Ecb Blues,Ecb Blues,Won,Men's T20,69.0,196.0,T20 League,,,recent_results,score_inferred
+2026-10-31 23:00:00+00:00,Brampton Blazers,Mississauga Skyhawks,Brampton Blazers,Won,Men's T20,144.0,142.0,NCL GT20,,,recent_results,score_inferred
+2026-11-01 07:00:00+00:00,New Zealand,India,New Zealand,Won,Men's T20,195.0,191.0,T20 Series New Zealand vs India,,,recent_results,score_inferred
+2026-11-01 08:00:00+00:00,Dolphins,Rocks,Rocks,Won,Men's T20,174.0,178.0,CSA T20 Challenge,,,recent_results,score_inferred
+2026-11-01 16:30:00+00:00,Ajman,Emirates Red,Emirates Red,Won,Men's T20,142.0,143.0,T20 League,,,recent_results,score_inferred
+2026-11-01 17:00:00+00:00,West Indies A,England Lions,England Lions,Won,Men's T20,98.0,101.0,T20 Series West Indies A vs England Lions,,,recent_results,score_inferred
+2026-11-01 23:00:00+00:00,Montreal Warriors,Brampton Blazers,Montreal Warriors,Won,Men's T20,120.0,119.0,NCL GT20,,,recent_results,score_inferred

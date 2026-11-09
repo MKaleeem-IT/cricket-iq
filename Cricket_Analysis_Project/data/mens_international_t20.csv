@@ -1,0 +1,231 @@
+match_id,date,category,team1,team2,winner,result,venue,city,event,team1_score,team2_score,source_file
+682899,2014-03-16,Men's T20,Hong Kong,Nepal,Nepal,normal,Zahur Ahmed Chowdhury Stadium,Chittagong,World T20,69,149.0,682899.json
+682901,2014-03-17,Men's T20,Ireland,Zimbabwe,Ireland,normal,Sylhet Stadium,,World T20,164,163.0,682901.json
+682903,2014-03-17,Men's T20,Netherlands,United Arab Emirates,Netherlands,normal,Sylhet Stadium,,World T20,152,151.0,682903.json
+682907,2014-03-18,Men's T20,Bangladesh,Nepal,Bangladesh,normal,Zahur Ahmed Chowdhury Stadium,Chittagong,World T20,132,126.0,682907.json
+682911,2014-03-19,Men's T20,Ireland,United Arab Emirates,Ireland,normal,Sylhet Stadium,,World T20,103,123.0,682911.json
+682909,2014-03-19,Men's T20,Netherlands,Zimbabwe,Zimbabwe,normal,Sylhet Stadium,,World T20,140,146.0,682909.json
+682915,2014-03-20,Men's T20,Bangladesh,Hong Kong,Hong Kong,normal,Zahur Ahmed Chowdhury Stadium,Chittagong,World T20,108,114.0,682915.json
+682917,2014-03-21,Men's T20,United Arab Emirates,Zimbabwe,Zimbabwe,normal,Sylhet Stadium,,World T20,116,118.0,682917.json
+682919,2014-03-21,Men's T20,Ireland,Netherlands,Netherlands,normal,Sylhet Stadium,,World T20,189,193.0,682919.json
+682921,2014-03-21,Men's T20,India,Pakistan,India,normal,Shere Bangla National Stadium,Mirpur,World T20,131,130.0,682921.json
+682923,2014-03-22,Men's T20,South Africa,Sri Lanka,Sri Lanka,normal,Zahur Ahmed Chowdhury Stadium,Chittagong,World T20,160,165.0,682923.json
+682925,2014-03-22,Men's T20,England,New Zealand,New Zealand,normal,Zahur Ahmed Chowdhury Stadium,Chattogram,ICC Men's T20 World Cup,172,52.0,682925.json
+682927,2014-03-23,Men's T20,Australia,Pakistan,Pakistan,normal,Shere Bangla National Stadium,Mirpur,World T20,175,191.0,682927.json
+682929,2014-03-23,Men's T20,India,West Indies,India,normal,Shere Bangla National Stadium,Mirpur,World T20,130,129.0,682929.json
+682933,2014-03-24,Men's T20,Netherlands,Sri Lanka,Sri Lanka,normal,Zahur Ahmed Chowdhury Stadium,Chittagong,World T20,39,40.0,682933.json
+682931,2014-03-24,Men's T20,New Zealand,South Africa,South Africa,normal,Zahur Ahmed Chowdhury Stadium,Chittagong,World T20,168,170.0,682931.json
+682935,2014-03-25,Men's T20,Bangladesh,West Indies,West Indies,normal,Shere Bangla National Stadium,Mirpur,World T20,98,171.0,682935.json
+682939,2014-03-27,Men's T20,England,Sri Lanka,England,normal,Zahur Ahmed Chowdhury Stadium,Chittagong,World T20,190,189.0,682939.json
+682937,2014-03-27,Men's T20,Netherlands,South Africa,South Africa,normal,Zahur Ahmed Chowdhury Stadium,Chittagong,World T20,139,145.0,682937.json
+682941,2014-03-28,Men's T20,Australia,West Indies,West Indies,normal,Shere Bangla National Stadium,Mirpur,World T20,178,179.0,682941.json
+682943,2014-03-28,Men's T20,Bangladesh,India,India,normal,Shere Bangla National Stadium,Mirpur,World T20,138,141.0,682943.json
+682945,2014-03-29,Men's T20,Netherlands,New Zealand,New Zealand,normal,Zahur Ahmed Chowdhury Stadium,Chittagong,World T20,151,152.0,682945.json
+682947,2014-03-29,Men's T20,England,South Africa,South Africa,normal,Zahur Ahmed Chowdhury Stadium,Chittagong,World T20,193,196.0,682947.json
+682949,2014-03-30,Men's T20,Bangladesh,Pakistan,Pakistan,normal,Shere Bangla National Stadium,Mirpur,World T20,140,190.0,682949.json
+682951,2014-03-30,Men's T20,Australia,India,India,normal,Shere Bangla National Stadium,Mirpur,World T20,86,159.0,682951.json
+682953,2014-03-31,Men's T20,England,Netherlands,Netherlands,normal,Zahur Ahmed Chowdhury Stadium,Chittagong,World T20,88,133.0,682953.json
+682955,2014-03-31,Men's T20,New Zealand,Sri Lanka,Sri Lanka,normal,Zahur Ahmed Chowdhury Stadium,Chittagong,World T20,60,119.0,682955.json
+682957,2014-04-01,Men's T20,Bangladesh,Australia,Australia,normal,Shere Bangla National Stadium,Mirpur,World T20,153,158.0,682957.json
+682959,2014-04-01,Men's T20,Pakistan,West Indies,West Indies,normal,Shere Bangla National Stadium,Mirpur,World T20,82,166.0,682959.json
+682961,2014-04-03,Men's T20,Sri Lanka,West Indies,Sri Lanka,normal,Shere Bangla National Stadium,Mirpur,World T20,160,80.0,682961.json
+682963,2014-04-04,Men's T20,India,South Africa,India,normal,Shere Bangla National Stadium,Mirpur,World T20,176,172.0,682963.json
+682965,2014-04-06,Men's T20,India,Sri Lanka,Sri Lanka,normal,Shere Bangla National Stadium,Mirpur,World T20,130,134.0,682965.json
+951309,2016-03-09,Men's T20,Bangladesh,Netherlands,Bangladesh,normal,Himachal Pradesh Cricket Association Stadium,Dharamsala,World T20,153,145.0,951309.json
+951311,2016-03-09,Men's T20,Ireland,Oman,Oman,normal,Himachal Pradesh Cricket Association Stadium,Dharamsala,World T20,154,157.0,951311.json
+951313,2016-03-10,Men's T20,Scotland,Zimbabwe,Zimbabwe,normal,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,World T20,136,147.0,951313.json
+951319,2016-03-11,Men's T20,Bangladesh,Ireland,No Result,no result,Himachal Pradesh Cricket Association Stadium,Dharamsala,World T20,94,,951319.json
+951323,2016-03-12,Men's T20,Hong Kong,Scotland,Scotland,normal,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,World T20,127,78.0,951323.json
+951325,2016-03-13,Men's T20,Ireland,Netherlands,Netherlands,normal,Himachal Pradesh Cricket Association Stadium,Dharamsala,World T20,47,59.0,951325.json
+951327,2016-03-13,Men's T20,Bangladesh,Oman,Bangladesh,normal,Himachal Pradesh Cricket Association Stadium,Dharamsala,World T20,180,65.0,951327.json
+951329,2016-03-15,Men's T20,India,New Zealand,New Zealand,normal,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,World T20,79,126.0,951329.json
+951331,2016-03-16,Men's T20,England,West Indies,West Indies,normal,Wankhede Stadium,Mumbai,World T20,182,183.0,951331.json
+951333,2016-03-16,Men's T20,Bangladesh,Pakistan,Pakistan,normal,Eden Gardens,Kolkata,World T20,146,201.0,951333.json
+951337,2016-03-18,Men's T20,Australia,New Zealand,New Zealand,normal,Himachal Pradesh Cricket Association Stadium,Dharamsala,World T20,134,142.0,951337.json
+951339,2016-03-18,Men's T20,England,South Africa,England,normal,Wankhede Stadium,Mumbai,World T20,230,229.0,951339.json
+951341,2016-03-19,Men's T20,India,Pakistan,India,normal,Eden Gardens,Kolkata,World T20,119,118.0,951341.json
+951345,2016-03-20,Men's T20,Sri Lanka,West Indies,West Indies,normal,M Chinnaswamy Stadium,Bangalore,World T20,122,127.0,951345.json
+951347,2016-03-21,Men's T20,Australia,Bangladesh,Australia,normal,M Chinnaswamy Stadium,Bangalore,World T20,157,156.0,951347.json
+951349,2016-03-22,Men's T20,New Zealand,Pakistan,New Zealand,normal,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,World T20,180,158.0,951349.json
+951353,2016-03-23,Men's T20,India,Bangladesh,India,normal,M Chinnaswamy Stadium,Bangalore,World T20,146,145.0,951353.json
+951355,2016-03-25,Men's T20,Australia,Pakistan,Australia,normal,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,World T20,193,172.0,951355.json
+951357,2016-03-25,Men's T20,South Africa,West Indies,West Indies,normal,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,World T20,122,123.0,951357.json
+951359,2016-03-26,Men's T20,Bangladesh,New Zealand,New Zealand,normal,Eden Gardens,Kolkata,World T20,70,145.0,951359.json
+951361,2016-03-26,Men's T20,England,Sri Lanka,England,normal,Feroz Shah Kotla,Delhi,World T20,171,161.0,951361.json
+951363,2016-03-27,Men's T20,India,Australia,India,normal,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,World T20,161,160.0,951363.json
+951367,2016-03-28,Men's T20,South Africa,Sri Lanka,South Africa,normal,Feroz Shah Kotla,Delhi,World T20,122,120.0,951367.json
+951369,2016-03-30,Men's T20,England,New Zealand,England,normal,Feroz Shah Kotla,Delhi,World T20,159,153.0,951369.json
+951371,2016-03-31,Men's T20,India,West Indies,West Indies,normal,Wankhede Stadium,Mumbai,World T20,192,196.0,951371.json
+951373,2016-04-03,Men's T20,England,West Indies,West Indies,normal,Eden Gardens,Kolkata,World T20,155,161.0,951373.json
+1273712,2021-10-17,Men's T20,Papua New Guinea,Oman,Oman,normal,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,ICC Men's T20 World Cup,129,131.0,1273712.json
+1273713,2021-10-17,Men's T20,Scotland,Bangladesh,Scotland,normal,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,ICC Men's T20 World Cup,140,134.0,1273713.json
+1273714,2021-10-18,Men's T20,Netherlands,Ireland,Ireland,normal,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,ICC Men's T20 World Cup,106,107.0,1273714.json
+1273715,2021-10-18,Men's T20,Namibia,Sri Lanka,Sri Lanka,normal,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,ICC Men's T20 World Cup,96,100.0,1273715.json
+1273716,2021-10-19,Men's T20,Scotland,Papua New Guinea,Scotland,normal,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,ICC Men's T20 World Cup,165,148.0,1273716.json
+1273717,2021-10-19,Men's T20,Bangladesh,Oman,Bangladesh,normal,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,ICC Men's T20 World Cup,153,127.0,1273717.json
+1273718,2021-10-20,Men's T20,Netherlands,Namibia,Namibia,normal,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,ICC Men's T20 World Cup,164,166.0,1273718.json
+1273719,2021-10-20,Men's T20,Sri Lanka,Ireland,Sri Lanka,normal,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,ICC Men's T20 World Cup,171,101.0,1273719.json
+1273720,2021-10-21,Men's T20,Bangladesh,Papua New Guinea,Bangladesh,normal,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,ICC Men's T20 World Cup,181,97.0,1273720.json
+1273721,2021-10-21,Men's T20,Oman,Scotland,Scotland,normal,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Al Amarat,ICC Men's T20 World Cup,122,123.0,1273721.json
+1273722,2021-10-22,Men's T20,Ireland,Namibia,Namibia,normal,Sharjah Cricket Stadium,Sharjah,ICC Men's T20 World Cup,125,126.0,1273722.json
+1273723,2021-10-22,Men's T20,Netherlands,Sri Lanka,Sri Lanka,normal,Sharjah Cricket Stadium,Sharjah,ICC Men's T20 World Cup,44,45.0,1273723.json
+1273724,2021-10-23,Men's T20,South Africa,Australia,Australia,normal,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,ICC Men's T20 World Cup,118,121.0,1273724.json
+1273725,2021-10-23,Men's T20,West Indies,England,England,normal,Dubai International Cricket Stadium,Dubai,ICC Men's T20 World Cup,55,56.0,1273725.json
+1273727,2021-10-24,Men's T20,India,Pakistan,Pakistan,normal,Dubai International Cricket Stadium,Dubai,ICC Men's T20 World Cup,151,152.0,1273727.json
+1273726,2021-10-24,Men's T20,Bangladesh,Sri Lanka,Sri Lanka,normal,Sharjah Cricket Stadium,Sharjah,ICC Men's T20 World Cup,171,172.0,1273726.json
+1273730,2021-10-26,Men's T20,New Zealand,Pakistan,Pakistan,normal,Sharjah Cricket Stadium,Sharjah,ICC Men's T20 World Cup,134,135.0,1273730.json
+1273729,2021-10-26,Men's T20,West Indies,South Africa,South Africa,normal,Dubai International Cricket Stadium,Dubai,ICC Men's T20 World Cup,143,144.0,1273729.json
+1273731,2021-10-27,Men's T20,Bangladesh,England,England,normal,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,ICC Men's T20 World Cup,124,126.0,1273731.json
+1273732,2021-10-27,Men's T20,Scotland,Namibia,Namibia,normal,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,ICC Men's T20 World Cup,109,115.0,1273732.json
+1273733,2021-10-28,Men's T20,Sri Lanka,Australia,Australia,normal,Dubai International Cricket Stadium,Dubai,ICC Men's T20 World Cup,154,155.0,1273733.json
+1273734,2021-10-29,Men's T20,West Indies,Bangladesh,West Indies,normal,Sharjah Cricket Stadium,Sharjah,ICC Men's T20 World Cup,142,139.0,1273734.json
+1273736,2021-10-30,Men's T20,Sri Lanka,South Africa,South Africa,normal,Sharjah Cricket Stadium,Sharjah,ICC Men's T20 World Cup,142,146.0,1273736.json
+1273737,2021-10-30,Men's T20,Australia,England,England,normal,Dubai International Cricket Stadium,Dubai,ICC Men's T20 World Cup,125,126.0,1273737.json
+1273739,2021-10-31,Men's T20,India,New Zealand,New Zealand,normal,Dubai International Cricket Stadium,Dubai,ICC Men's T20 World Cup,110,111.0,1273739.json
+1273740,2021-11-01,Men's T20,England,Sri Lanka,England,normal,Sharjah Cricket Stadium,Sharjah,ICC Men's T20 World Cup,163,137.0,1273740.json
+1273741,2021-11-02,Men's T20,Bangladesh,South Africa,South Africa,normal,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,ICC Men's T20 World Cup,84,86.0,1273741.json
+1273742,2021-11-02,Men's T20,Pakistan,Namibia,Pakistan,normal,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,ICC Men's T20 World Cup,189,144.0,1273742.json
+1273743,2021-11-03,Men's T20,New Zealand,Scotland,New Zealand,normal,Dubai International Cricket Stadium,Dubai,ICC Men's T20 World Cup,172,156.0,1273743.json
+1273746,2021-11-04,Men's T20,Sri Lanka,West Indies,Sri Lanka,normal,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,ICC Men's T20 World Cup,189,169.0,1273746.json
+1273745,2021-11-04,Men's T20,Bangladesh,Australia,Australia,normal,Dubai International Cricket Stadium,Dubai,ICC Men's T20 World Cup,73,78.0,1273745.json
+1273747,2021-11-05,Men's T20,New Zealand,Namibia,New Zealand,normal,Sharjah Cricket Stadium,Sharjah,ICC Men's T20 World Cup,163,111.0,1273747.json
+1273748,2021-11-05,Men's T20,Scotland,India,India,normal,Dubai International Cricket Stadium,Dubai,ICC Men's T20 World Cup,85,89.0,1273748.json
+1273749,2021-11-06,Men's T20,West Indies,Australia,Australia,normal,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,ICC Men's T20 World Cup,157,161.0,1273749.json
+1273750,2021-11-06,Men's T20,South Africa,England,South Africa,normal,Sharjah Cricket Stadium,Sharjah,ICC Men's T20 World Cup,189,179.0,1273750.json
+1273752,2021-11-07,Men's T20,Pakistan,Scotland,Pakistan,normal,Sharjah Cricket Stadium,Sharjah,ICC Men's T20 World Cup,189,117.0,1273752.json
+1273753,2021-11-08,Men's T20,Namibia,India,India,normal,Dubai International Cricket Stadium,Dubai,ICC Men's T20 World Cup,132,136.0,1273753.json
+1273754,2021-11-10,Men's T20,England,New Zealand,New Zealand,normal,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,ICC Men's T20 World Cup,166,167.0,1273754.json
+1273755,2021-11-11,Men's T20,Pakistan,Australia,Australia,normal,Dubai International Cricket Stadium,Dubai,ICC Men's T20 World Cup,176,177.0,1273755.json
+1273756,2021-11-14,Men's T20,New Zealand,Australia,Australia,normal,Dubai International Cricket Stadium,Dubai,ICC Men's T20 World Cup,172,173.0,1273756.json
+1298135,2022-10-16,Men's T20,Namibia,Sri Lanka,Namibia,normal,"GMHBA Stadium, South Geelong, Victoria",Geelong,ICC Men's T20 World Cup,163,108.0,1298135.json
+1298136,2022-10-16,Men's T20,United Arab Emirates,Netherlands,Netherlands,normal,"GMHBA Stadium, South Geelong, Victoria",Geelong,ICC Men's T20 World Cup,111,112.0,1298136.json
+1298138,2022-10-17,Men's T20,Zimbabwe,Ireland,Zimbabwe,normal,"Bellerive Oval, Hobart",Hobart,ICC Men's T20 World Cup,174,143.0,1298138.json
+1298137,2022-10-17,Men's T20,Scotland,West Indies,Scotland,normal,"Bellerive Oval, Hobart",Hobart,ICC Men's T20 World Cup,160,118.0,1298137.json
+1298139,2022-10-18,Men's T20,Namibia,Netherlands,Netherlands,normal,"GMHBA Stadium, South Geelong, Victoria",Geelong,ICC Men's T20 World Cup,121,122.0,1298139.json
+1298140,2022-10-18,Men's T20,Sri Lanka,United Arab Emirates,Sri Lanka,normal,"GMHBA Stadium, South Geelong, Victoria",Geelong,ICC Men's T20 World Cup,152,73.0,1298140.json
+1298141,2022-10-19,Men's T20,Scotland,Ireland,Ireland,normal,"Bellerive Oval, Hobart",Hobart,ICC Men's T20 World Cup,176,180.0,1298141.json
+1298142,2022-10-19,Men's T20,West Indies,Zimbabwe,West Indies,normal,"Bellerive Oval, Hobart",Hobart,ICC Men's T20 World Cup,153,122.0,1298142.json
+1298143,2022-10-20,Men's T20,Sri Lanka,Netherlands,Sri Lanka,normal,"GMHBA Stadium, South Geelong, Victoria",Geelong,ICC Men's T20 World Cup,162,146.0,1298143.json
+1298144,2022-10-20,Men's T20,United Arab Emirates,Namibia,United Arab Emirates,normal,"GMHBA Stadium, South Geelong, Victoria",Geelong,ICC Men's T20 World Cup,148,141.0,1298144.json
+1298145,2022-10-21,Men's T20,West Indies,Ireland,Ireland,normal,"Bellerive Oval, Hobart",Hobart,ICC Men's T20 World Cup,146,150.0,1298145.json
+1298146,2022-10-21,Men's T20,Scotland,Zimbabwe,Zimbabwe,normal,"Bellerive Oval, Hobart",Hobart,ICC Men's T20 World Cup,132,133.0,1298146.json
+1298147,2022-10-22,Men's T20,New Zealand,Australia,New Zealand,normal,Sydney Cricket Ground,Sydney,ICC Men's T20 World Cup,200,111.0,1298147.json
+1298149,2022-10-23,Men's T20,Ireland,Sri Lanka,Sri Lanka,normal,"Bellerive Oval, Hobart",Hobart,ICC Men's T20 World Cup,128,133.0,1298149.json
+1298150,2022-10-23,Men's T20,Pakistan,India,India,normal,Melbourne Cricket Ground,Melbourne,ICC Men's T20 World Cup,159,160.0,1298150.json
+1298151,2022-10-24,Men's T20,Bangladesh,Netherlands,Bangladesh,normal,"Bellerive Oval, Hobart",Hobart,ICC Men's T20 World Cup,144,135.0,1298151.json
+1298152,2022-10-24,Men's T20,Zimbabwe,South Africa,No Result,no result,"Bellerive Oval, Hobart",Hobart,ICC Men's T20 World Cup,79,51.0,1298152.json
+1298153,2022-10-25,Men's T20,Sri Lanka,Australia,Australia,normal,Perth Stadium,Perth,ICC Men's T20 World Cup,157,158.0,1298153.json
+1298154,2022-10-26,Men's T20,Ireland,England,Ireland,normal,Melbourne Cricket Ground,Melbourne,ICC Men's T20 World Cup,157,105.0,1298154.json
+1298156,2022-10-27,Men's T20,South Africa,Bangladesh,South Africa,normal,Sydney Cricket Ground,Sydney,ICC Men's T20 World Cup,205,101.0,1298156.json
+1298157,2022-10-27,Men's T20,India,Netherlands,India,normal,Sydney Cricket Ground,Sydney,ICC Men's T20 World Cup,179,123.0,1298157.json
+1298158,2022-10-27,Men's T20,Zimbabwe,Pakistan,Zimbabwe,normal,Perth Stadium,Perth,ICC Men's T20 World Cup,130,129.0,1298158.json
+1298161,2022-10-29,Men's T20,New Zealand,Sri Lanka,New Zealand,normal,Sydney Cricket Ground,Sydney,ICC Men's T20 World Cup,167,102.0,1298161.json
+1298162,2022-10-30,Men's T20,Bangladesh,Zimbabwe,Bangladesh,normal,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,ICC Men's T20 World Cup,150,147.0,1298162.json
+1298163,2022-10-30,Men's T20,Netherlands,Pakistan,Pakistan,normal,Perth Stadium,Perth,ICC Men's T20 World Cup,91,95.0,1298163.json
+1298164,2022-10-30,Men's T20,India,South Africa,South Africa,normal,Perth Stadium,Perth,ICC Men's T20 World Cup,133,137.0,1298164.json
+1298165,2022-10-31,Men's T20,Australia,Ireland,Australia,normal,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,ICC Men's T20 World Cup,179,137.0,1298165.json
+1298167,2022-11-01,Men's T20,England,New Zealand,England,normal,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,ICC Men's T20 World Cup,179,159.0,1298167.json
+1298168,2022-11-02,Men's T20,Zimbabwe,Netherlands,Netherlands,normal,Adelaide Oval,Adelaide,ICC Men's T20 World Cup,117,120.0,1298168.json
+1298169,2022-11-02,Men's T20,India,Bangladesh,India,normal,Adelaide Oval,Adelaide,ICC Men's T20 World Cup,184,145.0,1298169.json
+1298170,2022-11-03,Men's T20,Pakistan,South Africa,Pakistan,normal,Sydney Cricket Ground,Sydney,ICC Men's T20 World Cup,185,108.0,1298170.json
+1298171,2022-11-04,Men's T20,New Zealand,Ireland,New Zealand,normal,Adelaide Oval,Adelaide,ICC Men's T20 World Cup,185,150.0,1298171.json
+1298173,2022-11-05,Men's T20,Sri Lanka,England,England,normal,Sydney Cricket Ground,Sydney,ICC Men's T20 World Cup,141,144.0,1298173.json
+1298176,2022-11-06,Men's T20,India,Zimbabwe,India,normal,Melbourne Cricket Ground,Melbourne,ICC Men's T20 World Cup,186,115.0,1298176.json
+1298174,2022-11-06,Men's T20,Netherlands,South Africa,Netherlands,normal,Adelaide Oval,Adelaide,ICC Men's T20 World Cup,158,145.0,1298174.json
+1298175,2022-11-06,Men's T20,Bangladesh,Pakistan,Pakistan,normal,Adelaide Oval,Adelaide,ICC Men's T20 World Cup,127,128.0,1298175.json
+1298177,2022-11-09,Men's T20,New Zealand,Pakistan,Pakistan,normal,Sydney Cricket Ground,Sydney,ICC Men's T20 World Cup,152,153.0,1298177.json
+1298178,2022-11-10,Men's T20,India,England,England,normal,Adelaide Oval,Adelaide,ICC Men's T20 World Cup,168,170.0,1298178.json
+1298179,2022-11-13,Men's T20,Pakistan,England,England,normal,Melbourne Cricket Ground,Melbourne,ICC Men's T20 World Cup,137,138.0,1298179.json
+1415701,2024-06-01,Men's T20,Canada,United States of America,United States of America,normal,"Grand Prairie Stadium, Dallas",Dallas,ICC Men's T20 World Cup,194,197.0,1415701.json
+1415702,2024-06-02,Men's T20,Papua New Guinea,West Indies,West Indies,normal,"Providence Stadium, Guyana",Providence,ICC Men's T20 World Cup,136,137.0,1415702.json
+1415703,2024-06-02,Men's T20,Oman,Namibia,Tie,tie,"Kensington Oval, Bridgetown, Barbados",Bridgetown,ICC Men's T20 World Cup,119,130.0,1415703.json
+1415704,2024-06-03,Men's T20,Sri Lanka,South Africa,South Africa,normal,"Nassau County International Cricket Stadium, New York",New York,ICC Men's T20 World Cup,77,80.0,1415704.json
+1415706,2024-06-04,Men's T20,Scotland,England,No Result,no result,"Kensington Oval, Bridgetown, Barbados",Bridgetown,ICC Men's T20 World Cup,90,,1415706.json
+1415707,2024-06-04,Men's T20,Nepal,Netherlands,Netherlands,normal,"Grand Prairie Stadium, Dallas",Dallas,ICC Men's T20 World Cup,106,109.0,1415707.json
+1415708,2024-06-05,Men's T20,Ireland,India,India,normal,"Nassau County International Cricket Stadium, New York",New York,ICC Men's T20 World Cup,96,97.0,1415708.json
+1415710,2024-06-05,Men's T20,Australia,Oman,Australia,normal,"Kensington Oval, Bridgetown, Barbados",Bridgetown,ICC Men's T20 World Cup,164,125.0,1415710.json
+1415709,2024-06-05,Men's T20,Papua New Guinea,Uganda,Uganda,normal,"Providence Stadium, Guyana",Providence,ICC Men's T20 World Cup,77,78.0,1415709.json
+1415711,2024-06-06,Men's T20,Pakistan,United States of America,Tie,tie,"Grand Prairie Stadium, Dallas",Dallas,ICC Men's T20 World Cup,172,177.0,1415711.json
+1415712,2024-06-06,Men's T20,Namibia,Scotland,Scotland,normal,"Kensington Oval, Bridgetown, Barbados",Bridgetown,ICC Men's T20 World Cup,155,157.0,1415712.json
+1415713,2024-06-07,Men's T20,Canada,Ireland,Canada,normal,"Nassau County International Cricket Stadium, New York",New York,ICC Men's T20 World Cup,137,125.0,1415713.json
+1415715,2024-06-07,Men's T20,Sri Lanka,Bangladesh,Bangladesh,normal,"Grand Prairie Stadium, Dallas",Dallas,ICC Men's T20 World Cup,124,125.0,1415715.json
+1415716,2024-06-08,Men's T20,Netherlands,South Africa,South Africa,normal,"Nassau County International Cricket Stadium, New York",New York,ICC Men's T20 World Cup,103,106.0,1415716.json
+1415717,2024-06-08,Men's T20,Australia,England,Australia,normal,"Kensington Oval, Bridgetown, Barbados",Bridgetown,ICC Men's T20 World Cup,201,165.0,1415717.json
+1415718,2024-06-08,Men's T20,West Indies,Uganda,West Indies,normal,"Providence Stadium, Guyana",Providence,ICC Men's T20 World Cup,173,39.0,1415718.json
+1415719,2024-06-09,Men's T20,India,Pakistan,India,normal,"Nassau County International Cricket Stadium, New York",New York,ICC Men's T20 World Cup,119,113.0,1415719.json
+1415720,2024-06-09,Men's T20,Oman,Scotland,Scotland,normal,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,ICC Men's T20 World Cup,150,153.0,1415720.json
+1415721,2024-06-10,Men's T20,South Africa,Bangladesh,South Africa,normal,"Nassau County International Cricket Stadium, New York",New York,ICC Men's T20 World Cup,113,109.0,1415721.json
+1415722,2024-06-11,Men's T20,Canada,Pakistan,Pakistan,normal,"Nassau County International Cricket Stadium, New York",New York,ICC Men's T20 World Cup,106,107.0,1415722.json
+1415724,2024-06-11,Men's T20,Namibia,Australia,Australia,normal,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,ICC Men's T20 World Cup,72,74.0,1415724.json
+1415725,2024-06-12,Men's T20,United States of America,India,India,normal,"Nassau County International Cricket Stadium, New York",New York,ICC Men's T20 World Cup,110,111.0,1415725.json
+1415726,2024-06-12,Men's T20,West Indies,New Zealand,West Indies,normal,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,ICC Men's T20 World Cup,149,136.0,1415726.json
+1415727,2024-06-13,Men's T20,Bangladesh,Netherlands,Bangladesh,normal,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown,ICC Men's T20 World Cup,159,134.0,1415727.json
+1415728,2024-06-13,Men's T20,Oman,England,England,normal,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,ICC Men's T20 World Cup,47,50.0,1415728.json
+1415731,2024-06-14,Men's T20,South Africa,Nepal,South Africa,normal,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown,ICC Men's T20 World Cup,115,114.0,1415731.json
+1415732,2024-06-14,Men's T20,Uganda,New Zealand,New Zealand,normal,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,ICC Men's T20 World Cup,40,41.0,1415732.json
+1415734,2024-06-15,Men's T20,England,Namibia,England,normal,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,ICC Men's T20 World Cup,122,84.0,1415734.json
+1415735,2024-06-15,Men's T20,Scotland,Australia,Australia,normal,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,ICC Men's T20 World Cup,180,186.0,1415735.json
+1415736,2024-06-16,Men's T20,Ireland,Pakistan,Pakistan,normal,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,ICC Men's T20 World Cup,106,111.0,1415736.json
+1415737,2024-06-16,Men's T20,Bangladesh,Nepal,Bangladesh,normal,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown,ICC Men's T20 World Cup,106,85.0,1415737.json
+1415738,2024-06-16,Men's T20,Sri Lanka,Netherlands,Sri Lanka,normal,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,ICC Men's T20 World Cup,201,118.0,1415738.json
+1415739,2024-06-17,Men's T20,Papua New Guinea,New Zealand,New Zealand,normal,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,ICC Men's T20 World Cup,78,79.0,1415739.json
+1415741,2024-06-19,Men's T20,South Africa,United States of America,South Africa,normal,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,ICC Men's T20 World Cup,194,176.0,1415741.json
+1415742,2024-06-19,Men's T20,West Indies,England,England,normal,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,ICC Men's T20 World Cup,180,181.0,1415742.json
+1415744,2024-06-20,Men's T20,Bangladesh,Australia,Australia,normal,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,ICC Men's T20 World Cup,140,100.0,1415744.json
+1415745,2024-06-21,Men's T20,South Africa,England,South Africa,normal,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,ICC Men's T20 World Cup,163,156.0,1415745.json
+1415746,2024-06-21,Men's T20,United States of America,West Indies,West Indies,normal,"Kensington Oval, Bridgetown, Barbados",Bridgetown,ICC Men's T20 World Cup,128,130.0,1415746.json
+1415747,2024-06-22,Men's T20,India,Bangladesh,India,normal,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,ICC Men's T20 World Cup,196,146.0,1415747.json
+1415749,2024-06-23,Men's T20,United States of America,England,England,normal,"Kensington Oval, Bridgetown, Barbados",Bridgetown,ICC Men's T20 World Cup,115,117.0,1415749.json
+1415750,2024-06-23,Men's T20,West Indies,South Africa,South Africa,normal,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,ICC Men's T20 World Cup,135,124.0,1415750.json
+1415751,2024-06-24,Men's T20,India,Australia,India,normal,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,ICC Men's T20 World Cup,205,181.0,1415751.json
+1415754,2024-06-27,Men's T20,India,England,India,normal,"Providence Stadium, Guyana",Providence,ICC Men's T20 World Cup,171,103.0,1415754.json
+1415755,2024-06-29,Men's T20,India,South Africa,India,normal,"Kensington Oval, Bridgetown, Barbados",Bridgetown,ICC Men's T20 World Cup,176,169.0,1415755.json
+1512721,2026-02-07,Men's T20,India,United States of America,India,normal,"Wankhede Stadium, Mumbai",Mumbai,ICC Men's T20 World Cup,161,132.0,1512721.json
+1512719,2026-02-07,Men's T20,Netherlands,Pakistan,Pakistan,normal,"Sinhalese Sports Club Ground, Colombo",Colombo,ICC Men's T20 World Cup,147,148.0,1512719.json
+1512720,2026-02-07,Men's T20,West Indies,Scotland,West Indies,normal,"Eden Gardens, Kolkata",Kolkata,ICC Men's T20 World Cup,182,147.0,1512720.json
+1512723,2026-02-08,Men's T20,England,Nepal,England,normal,"Wankhede Stadium, Mumbai",Mumbai,ICC Men's T20 World Cup,184,180.0,1512723.json
+1512724,2026-02-08,Men's T20,Sri Lanka,Ireland,Sri Lanka,normal,"R Premadasa Stadium, Colombo",Colombo,ICC Men's T20 World Cup,163,143.0,1512724.json
+1512725,2026-02-09,Men's T20,Scotland,Italy,Scotland,normal,"Eden Gardens, Kolkata",Kolkata,ICC Men's T20 World Cup,207,134.0,1512725.json
+1512726,2026-02-09,Men's T20,Oman,Zimbabwe,Zimbabwe,normal,"Sinhalese Sports Club Ground, Colombo",Colombo,ICC Men's T20 World Cup,103,106.0,1512726.json
+1512727,2026-02-09,Men's T20,South Africa,Canada,South Africa,normal,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,ICC Men's T20 World Cup,213,156.0,1512727.json
+1512728,2026-02-10,Men's T20,Namibia,Netherlands,Netherlands,normal,"Arun Jaitley Stadium, Delhi",Delhi,ICC Men's T20 World Cup,156,159.0,1512728.json
+1512729,2026-02-10,Men's T20,United Arab Emirates,New Zealand,New Zealand,normal,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,ICC Men's T20 World Cup,173,175.0,1512729.json
+1512730,2026-02-10,Men's T20,Pakistan,United States of America,Pakistan,normal,"Sinhalese Sports Club Ground, Colombo",Colombo,ICC Men's T20 World Cup,190,158.0,1512730.json
+1512732,2026-02-11,Men's T20,Australia,Ireland,Australia,normal,"R Premadasa Stadium, Colombo",Colombo,ICC Men's T20 World Cup,182,115.0,1512732.json
+1512733,2026-02-11,Men's T20,West Indies,England,West Indies,normal,"Wankhede Stadium, Mumbai",Mumbai,ICC Men's T20 World Cup,196,166.0,1512733.json
+1512736,2026-02-12,Men's T20,India,Namibia,India,normal,"Arun Jaitley Stadium, Delhi",Delhi,ICC Men's T20 World Cup,209,116.0,1512736.json
+1512734,2026-02-12,Men's T20,Sri Lanka,Oman,Sri Lanka,normal,Pallekele International Cricket Stadium,Kandy,ICC Men's T20 World Cup,225,120.0,1512734.json
+1512735,2026-02-12,Men's T20,Nepal,Italy,Italy,normal,"Wankhede Stadium, Mumbai",Mumbai,ICC Men's T20 World Cup,123,124.0,1512735.json
+1512739,2026-02-13,Men's T20,United States of America,Netherlands,United States of America,normal,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,ICC Men's T20 World Cup,196,103.0,1512739.json
+1512737,2026-02-13,Men's T20,Zimbabwe,Australia,Zimbabwe,normal,"R Premadasa Stadium, Colombo",Colombo,ICC Men's T20 World Cup,169,146.0,1512737.json
+1512738,2026-02-13,Men's T20,Canada,United Arab Emirates,United Arab Emirates,normal,"Arun Jaitley Stadium, Delhi",Delhi,ICC Men's T20 World Cup,150,151.0,1512738.json
+1512742,2026-02-14,Men's T20,New Zealand,South Africa,South Africa,normal,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,ICC Men's T20 World Cup,175,178.0,1512742.json
+1512741,2026-02-14,Men's T20,Scotland,England,England,normal,"Eden Gardens, Kolkata",Kolkata,ICC Men's T20 World Cup,152,155.0,1512741.json
+1512740,2026-02-14,Men's T20,Ireland,Oman,Ireland,normal,"Sinhalese Sports Club Ground, Colombo",Colombo,ICC Men's T20 World Cup,235,139.0,1512740.json
+1512743,2026-02-15,Men's T20,Nepal,West Indies,West Indies,normal,"Wankhede Stadium, Mumbai",Mumbai,ICC Men's T20 World Cup,133,134.0,1512743.json
+1512744,2026-02-15,Men's T20,United States of America,Namibia,United States of America,normal,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,ICC Men's T20 World Cup,199,168.0,1512744.json
+1512745,2026-02-15,Men's T20,India,Pakistan,India,normal,"R Premadasa Stadium, Colombo",Colombo,ICC Men's T20 World Cup,175,114.0,1512745.json
+1512747,2026-02-16,Men's T20,England,Italy,England,normal,"Eden Gardens, Kolkata",Kolkata,ICC Men's T20 World Cup,202,178.0,1512747.json
+1512748,2026-02-16,Men's T20,Australia,Sri Lanka,Sri Lanka,normal,Pallekele International Cricket Stadium,Kandy,ICC Men's T20 World Cup,181,184.0,1512748.json
+1512749,2026-02-17,Men's T20,Canada,New Zealand,New Zealand,normal,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,ICC Men's T20 World Cup,173,176.0,1512749.json
+1512751,2026-02-17,Men's T20,Scotland,Nepal,Nepal,normal,"Wankhede Stadium, Mumbai",Mumbai,ICC Men's T20 World Cup,170,171.0,1512751.json
+1512752,2026-02-18,Men's T20,United Arab Emirates,South Africa,South Africa,normal,"Arun Jaitley Stadium, Delhi",Delhi,ICC Men's T20 World Cup,122,123.0,1512752.json
+1512753,2026-02-18,Men's T20,Pakistan,Namibia,Pakistan,normal,"Sinhalese Sports Club Ground, Colombo",Colombo,ICC Men's T20 World Cup,199,97.0,1512753.json
+1512754,2026-02-18,Men's T20,India,Netherlands,India,normal,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,ICC Men's T20 World Cup,193,176.0,1512754.json
+1512756,2026-02-19,Men's T20,Sri Lanka,Zimbabwe,Zimbabwe,normal,"R Premadasa Stadium, Colombo",Colombo,ICC Men's T20 World Cup,178,182.0,1512756.json
+1512755,2026-02-19,Men's T20,West Indies,Italy,West Indies,normal,"Eden Gardens, Kolkata",Kolkata,ICC Men's T20 World Cup,165,123.0,1512755.json
+1512758,2026-02-20,Men's T20,Oman,Australia,Australia,normal,Pallekele International Cricket Stadium,Kandy,ICC Men's T20 World Cup,104,108.0,1512758.json
+1512760,2026-02-22,Men's T20,England,Sri Lanka,England,normal,Pallekele International Cricket Stadium,Kandy,ICC Men's T20 World Cup,146,95.0,1512760.json
+1512761,2026-02-22,Men's T20,South Africa,India,South Africa,normal,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,ICC Men's T20 World Cup,187,111.0,1512761.json
+1512762,2026-02-23,Men's T20,West Indies,Zimbabwe,West Indies,normal,"Wankhede Stadium, Mumbai",Mumbai,ICC Men's T20 World Cup,254,147.0,1512762.json
+1512763,2026-02-24,Men's T20,Pakistan,England,England,normal,Pallekele International Cricket Stadium,Kandy,ICC Men's T20 World Cup,164,166.0,1512763.json
+1512764,2026-02-25,Men's T20,New Zealand,Sri Lanka,New Zealand,normal,"R Premadasa Stadium, Colombo",Colombo,ICC Men's T20 World Cup,168,107.0,1512764.json
+1512765,2026-02-26,Men's T20,West Indies,South Africa,South Africa,normal,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,ICC Men's T20 World Cup,176,177.0,1512765.json
+1512766,2026-02-26,Men's T20,India,Zimbabwe,India,normal,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,ICC Men's T20 World Cup,256,184.0,1512766.json
+1512767,2026-02-27,Men's T20,New Zealand,England,England,normal,"R Premadasa Stadium, Colombo",Colombo,ICC Men's T20 World Cup,159,161.0,1512767.json
+1512768,2026-02-28,Men's T20,Pakistan,Sri Lanka,Pakistan,normal,Pallekele International Cricket Stadium,Kandy,ICC Men's T20 World Cup,212,207.0,1512768.json
+1512769,2026-03-01,Men's T20,Zimbabwe,South Africa,South Africa,normal,"Arun Jaitley Stadium, Delhi",Delhi,ICC Men's T20 World Cup,153,154.0,1512769.json
+1512770,2026-03-01,Men's T20,West Indies,India,India,normal,"Eden Gardens, Kolkata",Kolkata,ICC Men's T20 World Cup,195,199.0,1512770.json
+1512771,2026-03-04,Men's T20,South Africa,New Zealand,New Zealand,normal,"Eden Gardens, Kolkata",Kolkata,ICC Men's T20 World Cup,169,173.0,1512771.json
+1512772,2026-03-05,Men's T20,India,England,India,normal,"Wankhede Stadium, Mumbai",Mumbai,ICC Men's T20 World Cup,253,246.0,1512772.json
+1512773,2026-03-08,Men's T20,India,New Zealand,India,normal,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,ICC Men's T20 World Cup,255,159.0,1512773.json

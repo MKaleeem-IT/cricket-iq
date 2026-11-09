@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cricket IQ — Team Statistics</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body class="app-body">
+
+    <nav class="navbar">
+        <div class="nav-brand">🏏 Cricket IQ</div>
+        <div class="nav-links">
+            <a href="/dashboard.html">Dashboard</a>
+            <a href="/predict.html">Predict</a>
+            <a href="/upcoming.html">Upcoming</a>
+            <a href="/stats.html" class="active">Stats</a>
+            <a href="/about.html">About</a>
+        </div>
+        <div class="nav-user">
+            <div class="avatar" id="user-avatar">?</div>
+            <span id="welcome-text">Welcome</span>
+            <button class="btn-logout" onclick="logout()">Logout</button>
+        </div>
+    </nav>
+
+    <main class="main-content">
+
+        <div class="page-header">
+            <h1>📊 Team Performance Center</h1>
+            <p>Historical records and performance of individual teams.</p>
+        </div>
+
+        <!-- Team selector -->
+        <div class="info-card" style="padding: 24px; margin-bottom: 24px;">
+            <label style="display:block; font-size:13px; font-weight:600; color:#CBD5E1; margin-bottom:8px;">
+                SELECT YOUR TEAM
+            </label>
+            <select id="team-select" style="width:100%; padding:12px; background:#17243A; border:1px solid #344762; border-radius:10px; color:white; font-size:14px;">
+                <option value="">Loading teams...</option>
+            </select>
+        </div>
+
+        <!-- Stats (hidden until team selected) -->
+        <div id="stats-container" style="display: none;">
+
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <div class="metric-label">MATCHES PLAYED</div>
+                    <div class="metric-value" id="s-played">—</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-label">MATCHES WON</div>
+                    <div class="metric-value accent" id="s-won">—</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-label">MATCHES NOT WON</div>
+                    <div class="metric-value" id="s-lost">—</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-label">WIN PERCENTAGE</div>
+                    <div class="metric-value accent" id="s-pct">—</div>
+                </div>
+            </div>
+
+            <!-- Match History -->
+            <div class="section">
+                <h2>📋 Match History</h2>
+                <div id="history-list">
+                    <p style="color:#94A3B8;">Loading...</p>
+                </div>
+            </div>
+
+        </div>
+
+    </main>
+
+    <script src="/js/stats.js"></script>
+</body>
+</html>

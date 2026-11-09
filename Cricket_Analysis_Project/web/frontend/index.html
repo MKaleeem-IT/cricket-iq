@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cricket IQ — Login</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body class="auth-body">
+
+    <div class="auth-container">
+
+        <!-- Left branding panel -->
+        <div class="auth-brand">
+            <div class="brand-logo">🏏</div>
+            <h1>CRICKET IQ</h1>
+            <p class="brand-tagline">Sports Analytics Platform</p>
+            <div class="brand-features">
+                <div class="feature"><span>🔮</span> ML Match Predictions</div>
+                <div class="feature"><span>📊</span> Team Statistics</div>
+                <div class="feature"><span>🏆</span> Live Upcoming Matches</div>
+            </div>
+        </div>
+
+        <!-- Right form panel -->
+        <div class="auth-card">
+
+            <!-- Login form -->
+            <div id="login-form" class="auth-form">
+                <h2>Welcome Back</h2>
+                <p class="form-subtitle">Sign in to your account</p>
+
+                <label>Email</label>
+                <input type="email" id="login-email" placeholder="you@example.com" autocomplete="email">
+
+                <label>Password</label>
+                <input type="password" id="login-password" placeholder="••••••••" autocomplete="current-password">
+
+                <button class="btn-primary" onclick="handleLogin()">Sign In</button>
+
+                <p class="switch-text">
+                    Don't have an account?
+                    <a href="#" onclick="showSignup(event)">Create one</a>
+                </p>
+            </div>
+
+            <!-- Signup form -->
+            <div id="signup-form" class="auth-form hidden">
+                <h2>Create Account</h2>
+                <p class="form-subtitle">Join Cricket IQ today</p>
+
+                <label>Full Name</label>
+                <input type="text" id="signup-name" placeholder="Your name" autocomplete="name">
+
+                <label>Email</label>
+                <input type="email" id="signup-email" placeholder="you@example.com" autocomplete="email">
+
+                <label>Password</label>
+                <input type="password" id="signup-password" placeholder="Min 6 characters" autocomplete="new-password">
+
+                <button class="btn-primary" onclick="handleSignup()">Create Account</button>
+
+                <p class="switch-text">
+                    Already have an account?
+                    <a href="#" onclick="showLogin(event)">Sign in</a>
+                </p>
+            </div>
+
+            <!-- Message box -->
+            <div id="message" class="message hidden"></div>
+
+        </div>
+    </div>
+
+    <script src="/js/auth.js"></script>
+</body>
+</html>

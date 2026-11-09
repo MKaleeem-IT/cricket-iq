@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cricket IQ — Upcoming Matches</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body class="app-body">
+
+    <nav class="navbar">
+        <div class="nav-brand">🏏 Cricket IQ</div>
+        <div class="nav-links">
+            <a href="/dashboard.html">Dashboard</a>
+            <a href="/predict.html">Predict</a>
+            <a href="/upcoming.html" class="active">Upcoming</a>
+            <a href="/stats.html">Stats</a>
+            <a href="/about.html">About</a>
+        </div>
+        <div class="nav-user">
+            <div class="avatar" id="user-avatar">?</div>
+            <span id="welcome-text">Welcome</span>
+            <button class="btn-logout" onclick="logout()">Logout</button>
+        </div>
+    </nav>
+
+    <main class="main-content">
+
+        <div class="page-header">
+            <h1>🔮 Upcoming Matches</h1>
+            <p>Future fixtures with recent-form predictions.</p>
+        </div>
+
+        <!-- Metrics -->
+        <div class="metrics-grid">
+            <div class="metric-card">
+                <div class="metric-label">UPCOMING MATCHES</div>
+                <div class="metric-value" id="m-total">—</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-label">PREDICTIONS AVAILABLE</div>
+                <div class="metric-value accent" id="m-preds">—</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-label">WAITING FOR DATA</div>
+                <div class="metric-value" id="m-wait">—</div>
+            </div>
+        </div>
+
+        <!-- Section 1: All Upcoming -->
+        <div class="section">
+            <h2>📅 All Upcoming Matches</h2>
+            <div id="fixtures-list">
+                <p style="color:#94A3B8;">Loading...</p>
+            </div>
+        </div>
+
+        <!-- Section 2: Predictable -->
+        <div class="section">
+            <h2>🔮 Predictable Matches</h2>
+            <p style="color:#94A3B8; font-size:14px; margin-bottom:16px;">
+                Only matches where both teams have at least 2 previous matches.
+            </p>
+            <div id="predictions-list">
+                <p style="color:#94A3B8;">Loading...</p>
+            </div>
+        </div>
+
+    </main>
+
+    <script src="/js/upcoming.js"></script>
+</body>
+</html>

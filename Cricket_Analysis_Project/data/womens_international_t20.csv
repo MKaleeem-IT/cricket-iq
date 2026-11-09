@@ -1,0 +1,169 @@
+match_id,date,category,team1,team2,winner,result,venue,city,event,team1_score,team2_score,source_file
+682967,2014-03-23,Women's T20,Australia,New Zealand,New Zealand,normal,Sylhet Stadium,,Women's World T20,121.0,128,682967.json
+682971,2014-03-24,Women's T20,England,West Indies,West Indies,normal,Sylhet Stadium,,Women's World T20,124.0,133,682971.json
+682973,2014-03-24,Women's T20,India,Sri Lanka,Sri Lanka,normal,Sylhet Stadium,,Women's World T20,106.0,128,682973.json
+682975,2014-03-25,Women's T20,Ireland,New Zealand,New Zealand,normal,Sylhet Stadium,,Women's World T20,129.0,171,682975.json
+682981,2014-03-26,Women's T20,England,India,England,normal,Sylhet Stadium,,Women's World T20,98.0,95,682981.json
+682979,2014-03-26,Women's T20,Bangladesh,West Indies,West Indies,normal,Sylhet Stadium,,Women's World T20,79.0,115,682979.json
+682985,2014-03-27,Women's T20,New Zealand,Pakistan,New Zealand,normal,Sylhet Stadium,,Women's World T20,167.0,108,682985.json
+682989,2014-03-28,Women's T20,Sri Lanka,West Indies,West Indies,normal,Sylhet Stadium,,Women's World T20,84.0,87,682989.json
+682991,2014-03-29,Women's T20,Ireland,South Africa,South Africa,normal,Sylhet Stadium,,Women's World T20,79.0,165,682991.json
+682993,2014-03-29,Women's T20,Australia,Pakistan,Australia,normal,Sylhet Stadium,,Women's World T20,185.0,91,682993.json
+682997,2014-03-30,Women's T20,England,Sri Lanka,England,normal,Sylhet Stadium,,Women's World T20,86.0,85,682997.json
+682995,2014-03-30,Women's T20,Bangladesh,India,India,normal,Sylhet Stadium,,Women's World T20,72.0,151,682995.json
+682999,2014-03-31,Women's T20,Ireland,Pakistan,Pakistan,normal,Sylhet Stadium,,Women's World T20,105.0,119,682999.json
+683001,2014-03-31,Women's T20,New Zealand,South Africa,South Africa,normal,Sylhet Stadium,,Women's World T20,114.0,116,683001.json
+683003,2014-04-01,Women's T20,Bangladesh,Sri Lanka,Bangladesh,normal,Sylhet Stadium,,Women's World T20,115.0,112,683003.json
+683005,2014-04-01,Women's T20,India,West Indies,India,normal,Sylhet Stadium,,Women's World T20,121.0,117,683005.json
+683007,2014-04-02,Women's T20,New Zealand,Sri Lanka,New Zealand,normal,Sylhet Stadium,,Women's World T20,135.0,131,683007.json
+683009,2014-04-02,Women's T20,India,Pakistan,India,normal,Sylhet Stadium,,Women's World T20,106.0,100,683009.json
+683011,2014-04-03,Women's T20,Australia,West Indies,Australia,normal,Shere Bangla National Stadium,Mirpur,Women's World T20,140.0,132,683011.json
+718465,2014-04-03,Women's T20,Pakistan,Sri Lanka,Pakistan,normal,Sylhet Stadium,,Women's World T20,122.0,108,718465.json
+718467,2014-04-03,Women's T20,Bangladesh,Ireland,Bangladesh,normal,Sylhet Stadium,,Women's World T20,106.0,89,718467.json
+683013,2014-04-04,Women's T20,England,South Africa,England,normal,Shere Bangla National Stadium,Mirpur,Women's World T20,102.0,101,683013.json
+683015,2014-04-06,Women's T20,Australia,England,Australia,normal,Shere Bangla National Stadium,Mirpur,Women's World T20,106.0,105,683015.json
+951375,2016-03-15,Women's T20,India,Bangladesh,India,normal,M Chinnaswamy Stadium,Bangalore,Women's World T20,163.0,91,951375.json
+951377,2016-03-15,Women's T20,New Zealand,Sri Lanka,New Zealand,normal,Feroz Shah Kotla,Delhi,Women's World T20,111.0,110,951377.json
+951379,2016-03-16,Women's T20,Pakistan,West Indies,West Indies,normal,"MA Chidambaram Stadium, Chepauk",Chennai,Women's World T20,99.0,103,951379.json
+951381,2016-03-17,Women's T20,Bangladesh,England,England,normal,M Chinnaswamy Stadium,Bangalore,Women's World T20,117.0,153,951381.json
+951385,2016-03-18,Women's T20,Australia,South Africa,Australia,normal,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Women's World T20,105.0,102,951385.json
+951383,2016-03-18,Women's T20,Ireland,New Zealand,New Zealand,normal,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Women's World T20,84.0,177,951383.json
+951387,2016-03-19,Women's T20,India,Pakistan,Pakistan,normal,Feroz Shah Kotla,Delhi,Women's World T20,96.0,77,951387.json
+951389,2016-03-20,Women's T20,Bangladesh,West Indies,West Indies,normal,"MA Chidambaram Stadium, Chepauk",Chennai,Women's World T20,99.0,148,951389.json
+951391,2016-03-20,Women's T20,Sri Lanka,Ireland,Sri Lanka,normal,"Punjab Cricket Association IS Bindra Stadium, Mohali",Mohali,Women's World T20,129.0,115,951391.json
+951393,2016-03-21,Women's T20,Australia,New Zealand,New Zealand,normal,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Women's World T20,103.0,104,951393.json
+951395,2016-03-22,Women's T20,India,England,England,normal,Himachal Pradesh Cricket Association Stadium,Dharamsala,Women's World T20,90.0,92,951395.json
+951397,2016-03-23,Women's T20,Ireland,South Africa,South Africa,normal,"MA Chidambaram Stadium, Chepauk",Chennai,Women's World T20,89.0,156,951397.json
+951403,2016-03-24,Women's T20,Bangladesh,Pakistan,Pakistan,normal,Feroz Shah Kotla,Delhi,Women's World T20,113.0,114,951403.json
+951399,2016-03-24,Women's T20,England,West Indies,England,normal,Himachal Pradesh Cricket Association Stadium,Dharamsala,Women's World T20,109.0,108,951399.json
+951401,2016-03-24,Women's T20,Australia,Sri Lanka,Australia,normal,Feroz Shah Kotla,Delhi,Women's World T20,125.0,123,951401.json
+951405,2016-03-26,Women's T20,Australia,Ireland,Australia,normal,Feroz Shah Kotla,Delhi,Women's World T20,92.0,91,951405.json
+951407,2016-03-26,Women's T20,New Zealand,South Africa,New Zealand,normal,M Chinnaswamy Stadium,Bangalore,Women's World T20,100.0,99,951407.json
+951409,2016-03-27,Women's T20,India,West Indies,West Indies,normal,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Women's World T20,111.0,114,951409.json
+951411,2016-03-27,Women's T20,England,Pakistan,England,normal,"MA Chidambaram Stadium, Chepauk",Chennai,Women's World T20,148.0,80,951411.json
+951413,2016-03-28,Women's T20,South Africa,Sri Lanka,Sri Lanka,normal,M Chinnaswamy Stadium,Bangalore,Women's World T20,104.0,114,951413.json
+951415,2016-03-30,Women's T20,Australia,England,Australia,normal,Feroz Shah Kotla,Delhi,Women's World T20,132.0,127,951415.json
+951417,2016-03-31,Women's T20,New Zealand,West Indies,West Indies,normal,Wankhede Stadium,Mumbai,Women's World T20,137.0,143,951417.json
+951419,2016-04-03,Women's T20,Australia,West Indies,West Indies,normal,Eden Gardens,Kolkata,Women's World T20,148.0,149,951419.json
+1150533,2018-11-09,Women's T20,India,New Zealand,India,normal,Providence Stadium,Guyana,ICC Women's T20 World Cup,194.0,160,1150533.json
+1150535,2018-11-09,Women's T20,West Indies,Bangladesh,West Indies,normal,Providence Stadium,Guyana,ICC Women's T20 World Cup,106.0,46,1150535.json
+1150534,2018-11-09,Women's T20,Australia,Pakistan,Australia,normal,Providence Stadium,Guyana,ICC Women's T20 World Cup,165.0,113,1150534.json
+1150538,2018-11-11,Women's T20,Ireland,Australia,Australia,normal,Providence Stadium,Guyana,ICC Women's T20 World Cup,93.0,89,1150538.json
+1150537,2018-11-11,Women's T20,Pakistan,India,India,normal,Providence Stadium,Guyana,ICC Women's T20 World Cup,133.0,127,1150537.json
+1150540,2018-11-12,Women's T20,Sri Lanka,South Africa,South Africa,normal,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,ICC Women's T20 World Cup,99.0,102,1150540.json
+1150539,2018-11-12,Women's T20,Bangladesh,England,England,normal,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,ICC Women's T20 World Cup,76.0,64,1150539.json
+1150541,2018-11-13,Women's T20,Pakistan,Ireland,Pakistan,normal,Providence Stadium,Guyana,ICC Women's T20 World Cup,139.0,101,1150541.json
+1150542,2018-11-13,Women's T20,Australia,New Zealand,Australia,normal,Providence Stadium,Guyana,ICC Women's T20 World Cup,153.0,120,1150542.json
+1150543,2018-11-14,Women's T20,Sri Lanka,Bangladesh,Sri Lanka,normal,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,ICC Women's T20 World Cup,97.0,72,1150543.json
+1150544,2018-11-14,Women's T20,West Indies,South Africa,West Indies,normal,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,ICC Women's T20 World Cup,107.0,76,1150544.json
+1150545,2018-11-15,Women's T20,India,Ireland,India,normal,Providence Stadium,Guyana,ICC Women's T20 World Cup,145.0,93,1150545.json
+1150546,2018-11-15,Women's T20,New Zealand,Pakistan,New Zealand,normal,Providence Stadium,Guyana,ICC Women's T20 World Cup,144.0,90,1150546.json
+1150547,2018-11-16,Women's T20,South Africa,England,England,normal,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,ICC Women's T20 World Cup,85.0,87,1150547.json
+1150548,2018-11-16,Women's T20,West Indies,Sri Lanka,West Indies,normal,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,ICC Women's T20 World Cup,187.0,104,1150548.json
+1150549,2018-11-17,Women's T20,India,Australia,India,normal,Providence Stadium,Guyana,ICC Women's T20 World Cup,167.0,119,1150549.json
+1150550,2018-11-17,Women's T20,Ireland,New Zealand,New Zealand,normal,Providence Stadium,Guyana,ICC Women's T20 World Cup,79.0,81,1150550.json
+1150552,2018-11-18,Women's T20,South Africa,Bangladesh,South Africa,normal,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,ICC Women's T20 World Cup,109.0,79,1150552.json
+1150551,2018-11-18,Women's T20,England,West Indies,West Indies,normal,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,ICC Women's T20 World Cup,115.0,117,1150551.json
+1150553,2018-11-22,Women's T20,Australia,West Indies,Australia,normal,"Sir Vivian Richards Stadium, North Sound",Antigua,ICC Women's T20 World Cup,142.0,71,1150553.json
+1150554,2018-11-22,Women's T20,India,England,England,normal,"Sir Vivian Richards Stadium, North Sound",Antigua,ICC Women's T20 World Cup,112.0,116,1150554.json
+1150555,2018-11-24,Women's T20,England,Australia,Australia,normal,"Sir Vivian Richards Stadium, North Sound",Antigua,ICC Women's T20 World Cup,105.0,106,1150555.json
+1173048,2020-02-21,Women's T20,Australia,India,India,normal,Sydney Showground Stadium,Sydney,ICC Women's T20 World Cup,115.0,132,1173048.json
+1173049,2020-02-22,Women's T20,Thailand,West Indies,West Indies,normal,W.A.C.A. Ground,Perth,ICC Women's T20 World Cup,78.0,80,1173049.json
+1173050,2020-02-22,Women's T20,New Zealand,Sri Lanka,New Zealand,normal,W.A.C.A. Ground,Perth,ICC Women's T20 World Cup,131.0,127,1173050.json
+1173051,2020-02-23,Women's T20,England,South Africa,South Africa,normal,W.A.C.A. Ground,Perth,ICC Women's T20 World Cup,123.0,124,1173051.json
+1173052,2020-02-24,Women's T20,Australia,Sri Lanka,Australia,normal,W.A.C.A. Ground,Perth,ICC Women's T20 World Cup,123.0,122,1173052.json
+1173053,2020-02-24,Women's T20,Bangladesh,India,India,normal,W.A.C.A. Ground,Perth,ICC Women's T20 World Cup,124.0,142,1173053.json
+1173055,2020-02-26,Women's T20,Pakistan,West Indies,Pakistan,normal,Manuka Oval,Canberra,ICC Women's T20 World Cup,127.0,124,1173055.json
+1173054,2020-02-26,Women's T20,England,Thailand,England,normal,Manuka Oval,Canberra,ICC Women's T20 World Cup,176.0,78,1173054.json
+1173056,2020-02-27,Women's T20,India,New Zealand,India,normal,Junction Oval,Melbourne,ICC Women's T20 World Cup,133.0,130,1173056.json
+1173057,2020-02-27,Women's T20,Australia,Bangladesh,Australia,normal,Manuka Oval,Canberra,ICC Women's T20 World Cup,189.0,103,1173057.json
+1173058,2020-02-28,Women's T20,South Africa,Thailand,South Africa,normal,Manuka Oval,Canberra,ICC Women's T20 World Cup,195.0,82,1173058.json
+1173059,2020-02-28,Women's T20,England,Pakistan,England,normal,Manuka Oval,Canberra,ICC Women's T20 World Cup,158.0,116,1173059.json
+1173061,2020-02-29,Women's T20,India,Sri Lanka,India,normal,Junction Oval,Melbourne,ICC Women's T20 World Cup,116.0,113,1173061.json
+1173060,2020-02-29,Women's T20,Bangladesh,New Zealand,New Zealand,normal,Junction Oval,Melbourne,ICC Women's T20 World Cup,74.0,91,1173060.json
+1173062,2020-03-01,Women's T20,Pakistan,South Africa,South Africa,normal,Sydney Showground Stadium,Sydney,ICC Women's T20 World Cup,119.0,136,1173062.json
+1173063,2020-03-01,Women's T20,England,West Indies,England,normal,Sydney Showground Stadium,Sydney,ICC Women's T20 World Cup,143.0,97,1173063.json
+1173064,2020-03-02,Women's T20,Bangladesh,Sri Lanka,Sri Lanka,normal,Junction Oval,Melbourne,ICC Women's T20 World Cup,91.0,92,1173064.json
+1173065,2020-03-02,Women's T20,Australia,New Zealand,Australia,normal,Junction Oval,Melbourne,ICC Women's T20 World Cup,155.0,151,1173065.json
+1173066,2020-03-03,Women's T20,Pakistan,Thailand,No Result,no result,Sydney Showground Stadium,Sydney,ICC Women's T20 World Cup,,150,1173066.json
+1173069,2020-03-05,Women's T20,Australia,South Africa,Australia,normal,Sydney Cricket Ground,Sydney,ICC Women's T20 World Cup,134.0,92,1173069.json
+1173070,2020-03-08,Women's T20,Australia,India,Australia,normal,Melbourne Cricket Ground,Melbourne,ICC Women's T20 World Cup,184.0,99,1173070.json
+1338040,2023-02-10,Women's T20,Sri Lanka,South Africa,Sri Lanka,normal,"Newlands, Cape Town",Cape Town,ICC Women's T20 World Cup,129.0,126,1338040.json
+1338041,2023-02-11,Women's T20,West Indies,England,England,normal,"Boland Park, Paarl",Paarl,ICC Women's T20 World Cup,135.0,138,1338041.json
+1338042,2023-02-11,Women's T20,Australia,New Zealand,Australia,normal,"Boland Park, Paarl",Paarl,ICC Women's T20 World Cup,173.0,76,1338042.json
+1338044,2023-02-12,Women's T20,Bangladesh,Sri Lanka,Sri Lanka,normal,"Newlands, Cape Town",Cape Town,ICC Women's T20 World Cup,126.0,129,1338044.json
+1338043,2023-02-12,Women's T20,Pakistan,India,India,normal,"Newlands, Cape Town",Cape Town,ICC Women's T20 World Cup,149.0,151,1338043.json
+1338045,2023-02-13,Women's T20,Ireland,England,England,normal,"Boland Park, Paarl",Paarl,ICC Women's T20 World Cup,105.0,107,1338045.json
+1338046,2023-02-13,Women's T20,South Africa,New Zealand,South Africa,normal,"Boland Park, Paarl",Paarl,ICC Women's T20 World Cup,132.0,67,1338046.json
+1338047,2023-02-14,Women's T20,Bangladesh,Australia,Australia,normal,"St George's Park, Gqeberha",Gqeberha,ICC Women's T20 World Cup,107.0,111,1338047.json
+1338048,2023-02-15,Women's T20,West Indies,India,India,normal,"Newlands, Cape Town",Cape Town,ICC Women's T20 World Cup,118.0,119,1338048.json
+1338049,2023-02-15,Women's T20,Pakistan,Ireland,Pakistan,normal,"Newlands, Cape Town",Cape Town,ICC Women's T20 World Cup,165.0,95,1338049.json
+1338050,2023-02-16,Women's T20,Sri Lanka,Australia,Australia,normal,"St George's Park, Gqeberha",Gqeberha,ICC Women's T20 World Cup,112.0,113,1338050.json
+1338051,2023-02-17,Women's T20,New Zealand,Bangladesh,New Zealand,normal,"Newlands, Cape Town",Cape Town,ICC Women's T20 World Cup,189.0,118,1338051.json
+1338052,2023-02-17,Women's T20,Ireland,West Indies,West Indies,normal,"Newlands, Cape Town",Cape Town,ICC Women's T20 World Cup,137.0,140,1338052.json
+1338053,2023-02-18,Women's T20,England,India,England,normal,"St George's Park, Gqeberha",Gqeberha,ICC Women's T20 World Cup,151.0,140,1338053.json
+1338054,2023-02-18,Women's T20,South Africa,Australia,Australia,normal,"St George's Park, Gqeberha",Gqeberha,ICC Women's T20 World Cup,124.0,125,1338054.json
+1338055,2023-02-19,Women's T20,West Indies,Pakistan,West Indies,normal,"Boland Park, Paarl",Paarl,ICC Women's T20 World Cup,116.0,113,1338055.json
+1338056,2023-02-19,Women's T20,New Zealand,Sri Lanka,New Zealand,normal,"Boland Park, Paarl",Paarl,ICC Women's T20 World Cup,162.0,60,1338056.json
+1338057,2023-02-20,Women's T20,India,Ireland,India,normal,"St George's Park, Gqeberha",Gqeberha,ICC Women's T20 World Cup,155.0,54,1338057.json
+1338058,2023-02-21,Women's T20,England,Pakistan,England,normal,"Newlands, Cape Town",Cape Town,ICC Women's T20 World Cup,213.0,99,1338058.json
+1338059,2023-02-21,Women's T20,Bangladesh,South Africa,South Africa,normal,"Newlands, Cape Town",Cape Town,ICC Women's T20 World Cup,113.0,117,1338059.json
+1338060,2023-02-23,Women's T20,Australia,India,Australia,normal,"Newlands, Cape Town",Cape Town,ICC Women's T20 World Cup,172.0,167,1338060.json
+1338061,2023-02-24,Women's T20,South Africa,England,South Africa,normal,"Newlands, Cape Town",Cape Town,ICC Women's T20 World Cup,164.0,158,1338061.json
+1338062,2023-02-26,Women's T20,Australia,South Africa,Australia,normal,"Newlands, Cape Town",Cape Town,ICC Women's T20 World Cup,156.0,137,1338062.json
+1432422,2024-10-03,Women's T20,Bangladesh,Scotland,Bangladesh,normal,Sharjah Cricket Stadium,Sharjah,ICC Women's T20 World Cup,119.0,103,1432422.json
+1432423,2024-10-03,Women's T20,Pakistan,Sri Lanka,Pakistan,normal,Sharjah Cricket Stadium,Sharjah,ICC Women's T20 World Cup,116.0,85,1432423.json
+1432424,2024-10-04,Women's T20,West Indies,South Africa,South Africa,normal,Dubai International Cricket Stadium,Dubai,ICC Women's T20 World Cup,118.0,119,1432424.json
+1432425,2024-10-04,Women's T20,New Zealand,India,New Zealand,normal,Dubai International Cricket Stadium,Dubai,ICC Women's T20 World Cup,160.0,102,1432425.json
+1432426,2024-10-05,Women's T20,Sri Lanka,Australia,Australia,normal,Sharjah Cricket Stadium,Sharjah,ICC Women's T20 World Cup,93.0,94,1432426.json
+1432427,2024-10-05,Women's T20,England,Bangladesh,England,normal,Sharjah Cricket Stadium,Sharjah,ICC Women's T20 World Cup,118.0,97,1432427.json
+1432429,2024-10-06,Women's T20,Scotland,West Indies,West Indies,normal,Dubai International Cricket Stadium,Dubai,ICC Women's T20 World Cup,99.0,101,1432429.json
+1432428,2024-10-06,Women's T20,Pakistan,India,India,normal,Dubai International Cricket Stadium,Dubai,ICC Women's T20 World Cup,105.0,108,1432428.json
+1432430,2024-10-07,Women's T20,South Africa,England,England,normal,Sharjah Cricket Stadium,Sharjah,ICC Women's T20 World Cup,124.0,125,1432430.json
+1432431,2024-10-08,Women's T20,Australia,New Zealand,Australia,normal,Sharjah Cricket Stadium,Sharjah,ICC Women's T20 World Cup,148.0,88,1432431.json
+1432432,2024-10-09,Women's T20,South Africa,Scotland,South Africa,normal,Dubai International Cricket Stadium,Dubai,ICC Women's T20 World Cup,166.0,86,1432432.json
+1432433,2024-10-09,Women's T20,India,Sri Lanka,India,normal,Dubai International Cricket Stadium,Dubai,ICC Women's T20 World Cup,172.0,90,1432433.json
+1432434,2024-10-10,Women's T20,Bangladesh,West Indies,West Indies,normal,Sharjah Cricket Stadium,Sharjah,ICC Women's T20 World Cup,103.0,104,1432434.json
+1432435,2024-10-11,Women's T20,Pakistan,Australia,Australia,normal,Dubai International Cricket Stadium,Dubai,ICC Women's T20 World Cup,82.0,83,1432435.json
+1432436,2024-10-12,Women's T20,Sri Lanka,New Zealand,New Zealand,normal,Sharjah Cricket Stadium,Sharjah,ICC Women's T20 World Cup,115.0,118,1432436.json
+1432437,2024-10-12,Women's T20,Bangladesh,South Africa,South Africa,normal,Dubai International Cricket Stadium,Dubai,ICC Women's T20 World Cup,106.0,107,1432437.json
+1432439,2024-10-13,Women's T20,Australia,India,Australia,normal,Sharjah Cricket Stadium,Sharjah,ICC Women's T20 World Cup,151.0,142,1432439.json
+1432438,2024-10-13,Women's T20,Scotland,England,England,normal,Sharjah Cricket Stadium,Sharjah,ICC Women's T20 World Cup,109.0,113,1432438.json
+1432440,2024-10-14,Women's T20,New Zealand,Pakistan,New Zealand,normal,Dubai International Cricket Stadium,Dubai,ICC Women's T20 World Cup,110.0,56,1432440.json
+1432441,2024-10-15,Women's T20,England,West Indies,West Indies,normal,Dubai International Cricket Stadium,Dubai,ICC Women's T20 World Cup,141.0,144,1432441.json
+1432442,2024-10-17,Women's T20,Australia,South Africa,South Africa,normal,Dubai International Cricket Stadium,Dubai,ICC Women's T20 World Cup,134.0,135,1432442.json
+1432443,2024-10-18,Women's T20,New Zealand,West Indies,New Zealand,normal,Sharjah Cricket Stadium,Sharjah,ICC Women's T20 World Cup,128.0,120,1432443.json
+1432444,2024-10-20,Women's T20,New Zealand,South Africa,New Zealand,normal,Dubai International Cricket Stadium,Dubai,ICC Women's T20 World Cup,158.0,126,1432444.json
+1490677,2026-06-12,Women's T20,England,Sri Lanka,England,normal,"Edgbaston, Birmingham",Birmingham,ICC Women's T20 World Cup,219.0,132,1490677.json
+1490678,2026-06-13,Women's T20,Scotland,Ireland,Scotland,normal,"Old Trafford, Manchester",Manchester,ICC Women's T20 World Cup,161.0,121,1490678.json
+1490679,2026-06-13,Women's T20,Australia,South Africa,Australia,normal,"Old Trafford, Manchester",Manchester,ICC Women's T20 World Cup,172.0,107,1490679.json
+1490680,2026-06-13,Women's T20,New Zealand,West Indies,West Indies,normal,"The Rose Bowl, Southampton",Southampton,ICC Women's T20 World Cup,162.0,163,1490680.json
+1490681,2026-06-14,Women's T20,Netherlands,Bangladesh,Bangladesh,normal,"Edgbaston, Birmingham",Birmingham,ICC Women's T20 World Cup,139.0,141,1490681.json
+1490682,2026-06-14,Women's T20,India,Pakistan,India,normal,"Edgbaston, Birmingham",Birmingham,ICC Women's T20 World Cup,170.0,106,1490682.json
+1490683,2026-06-16,Women's T20,New Zealand,Sri Lanka,Sri Lanka,normal,"The Rose Bowl, Southampton",Southampton,ICC Women's T20 World Cup,150.0,153,1490683.json
+1490684,2026-06-16,Women's T20,Ireland,England,England,normal,"The Rose Bowl, Southampton",Southampton,ICC Women's T20 World Cup,118.0,119,1490684.json
+1490685,2026-06-17,Women's T20,Bangladesh,Australia,Australia,normal,"Headingley, Leeds",Leeds,ICC Women's T20 World Cup,77.0,78,1490685.json
+1490687,2026-06-17,Women's T20,Pakistan,South Africa,South Africa,normal,"Edgbaston, Birmingham",Birmingham,ICC Women's T20 World Cup,126.0,127,1490687.json
+1490686,2026-06-17,Women's T20,India,Netherlands,India,normal,"Headingley, Leeds",Leeds,ICC Women's T20 World Cup,209.0,114,1490686.json
+1490688,2026-06-18,Women's T20,West Indies,Scotland,West Indies,normal,"Headingley, Leeds",Leeds,ICC Women's T20 World Cup,153.0,146,1490688.json
+1490689,2026-06-19,Women's T20,New Zealand,Ireland,New Zealand,normal,"The Rose Bowl, Southampton",Southampton,ICC Women's T20 World Cup,140.0,136,1490689.json
+1490692,2026-06-20,Women's T20,England,Scotland,England,normal,"Headingley, Leeds",Leeds,ICC Women's T20 World Cup,200.0,162,1490692.json
+1490691,2026-06-20,Women's T20,Bangladesh,Pakistan,Bangladesh,normal,"The Rose Bowl, Southampton",Southampton,ICC Women's T20 World Cup,123.0,100,1490691.json
+1490690,2026-06-20,Women's T20,Australia,Netherlands,Australia,normal,"The Rose Bowl, Southampton",Southampton,ICC Women's T20 World Cup,219.0,121,1490690.json
+1490693,2026-06-21,Women's T20,Sri Lanka,West Indies,West Indies,normal,"County Ground, Bristol",Bristol,ICC Women's T20 World Cup,98.0,99,1490693.json
+1490694,2026-06-21,Women's T20,India,South Africa,South Africa,normal,"Old Trafford, Manchester",Manchester,ICC Women's T20 World Cup,158.0,161,1490694.json
+1490695,2026-06-23,Women's T20,Scotland,New Zealand,New Zealand,normal,"County Ground, Bristol",Bristol,ICC Women's T20 World Cup,131.0,132,1490695.json
+1490696,2026-06-23,Women's T20,Ireland,Sri Lanka,Sri Lanka,normal,"County Ground, Bristol",Bristol,ICC Women's T20 World Cup,130.0,134,1490696.json
+1490697,2026-06-23,Women's T20,Australia,Pakistan,Australia,normal,"Headingley, Leeds",Leeds,ICC Women's T20 World Cup,199.0,86,1490697.json
+1490698,2026-06-24,Women's T20,England,West Indies,England,normal,"Lord's, London",London,ICC Women's T20 World Cup,186.0,148,1490698.json
+1490699,2026-06-25,Women's T20,Bangladesh,India,India,normal,"Old Trafford, Manchester",Manchester,ICC Women's T20 World Cup,136.0,139,1490699.json
+1490700,2026-06-25,Women's T20,South Africa,Netherlands,South Africa,normal,"County Ground, Bristol",Bristol,ICC Women's T20 World Cup,208.0,120,1490700.json
+1490701,2026-06-26,Women's T20,Scotland,Sri Lanka,Sri Lanka,normal,"Old Trafford, Manchester",Manchester,ICC Women's T20 World Cup,151.0,154,1490701.json
+1490702,2026-06-27,Women's T20,Pakistan,Netherlands,Pakistan,normal,"County Ground, Bristol",Bristol,ICC Women's T20 World Cup,126.0,89,1490702.json
+1490703,2026-06-27,Women's T20,West Indies,Ireland,Ireland,normal,"County Ground, Bristol",Bristol,ICC Women's T20 World Cup,128.0,129,1490703.json
+1490704,2026-06-27,Women's T20,New Zealand,England,England,normal,"Kennington Oval, London",London,ICC Women's T20 World Cup,163.0,164,1490704.json
+1490705,2026-06-28,Women's T20,Bangladesh,South Africa,South Africa,normal,"Lord's, London",London,ICC Women's T20 World Cup,117.0,118,1490705.json
+1490706,2026-06-28,Women's T20,India,Australia,Australia,normal,"Lord's, London",London,ICC Women's T20 World Cup,170.0,172,1490706.json
+1490707,2026-06-30,Women's T20,West Indies,Australia,Australia,normal,"Kennington Oval, London",London,ICC Women's T20 World Cup,125.0,127,1490707.json
+1490708,2026-07-02,Women's T20,England,South Africa,England,normal,"Kennington Oval, London",London,ICC Women's T20 World Cup,169.0,129,1490708.json
+1490709,2026-07-05,Women's T20,England,Australia,Australia,normal,"Lord's, London",London,ICC Women's T20 World Cup,150.0,153,1490709.json
