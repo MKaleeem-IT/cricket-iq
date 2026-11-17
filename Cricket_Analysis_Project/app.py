@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import subprocess
 import sys
 from pathlib import Path
+from pathlib import Path
 
 # =====================================================
 # 1. PAGE CONFIGURATION
@@ -226,9 +227,12 @@ hr {
 # 3. LOAD MODEL AND DATA
 # =====================================================
 
+BASE_DIR = Path(__file__).resolve().parent
+
 @st.cache_resource
 def load_model():
-    return joblib.load("models/cricket_winner_model.pkl")
+    model_path = BASE_DIR / "models" / "cricket_winner_model.pkl"
+    return joblib.load(model_path)
 
 
 @st.cache_data
