@@ -237,9 +237,8 @@ def load_model():
 
 @st.cache_data
 def load_data():
-    data = pd.read_csv("data/cleaned_cricket_matches.csv")
-    data["date"] = pd.to_datetime(data["date"])
-    data["year"] = data["date"].dt.year
+    file_path = BASE_DIR / "data" / "cleaned_cricket_matches.csv"
+    data = pd.read_csv(file_path)
     return data
 
 
