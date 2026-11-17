@@ -239,6 +239,10 @@ def load_model():
 def load_data():
     file_path = BASE_DIR / "data" / "cleaned_cricket_matches.csv"
     data = pd.read_csv(file_path)
+
+    data["date"] = pd.to_datetime(data["date"], errors="coerce")
+    data["year"] = data["date"].dt.year
+
     return data
 
 
